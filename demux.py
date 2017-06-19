@@ -18,8 +18,8 @@ def parse_cfg():
 def runaxe(lane):
     keyfile = "metadata/keyfiles/" + lane + ".axe"
     statsfile = "data/stats/demux/" + lane + ".tsv"
-    r1fq = "rawdata/gbs/" + lane + "/" + lane + "_R1.fastq.gz"
-    r2fq = "rawdata/gbs/" + lane + "/" + lane + "_R2.fastq.gz"
+    r1fq = "rawdata/" + lane + "/" + lane + "_R1.fastq.gz"
+    r2fq = "rawdata/" + lane + "/" + lane + "_R2.fastq.gz"
     outprefix = "data/reads/raw/" + lane + "/"
     logfile = "data/log/demux/" + lane + ".log"
 
