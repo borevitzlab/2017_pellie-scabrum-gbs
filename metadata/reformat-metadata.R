@@ -1,17 +1,17 @@
 library(tidyverse)
 
-expt = read.delim("experiment.tsv", stringsAsFactors=F) %>%
+expt = read.delim("original/experiment.tsv", stringsAsFactors=F) %>%
         extract(plate.name, into=c("plate.set", "plate.num"),
                 regex="(GH|SAf).*Plate(\\d)", remove=F) %>%
         mutate(plate.code = paste0(plate.set, plate.num)) %>%
         select(-plate.set, -plate.num)
 
 
-samp = read.csv("samples.csv", stringsAsFactors=F) %>%
+samp = read.csv("original/samples.csv", stringsAsFactors=F) %>%
     filter(plate.name %in% expt$plate.name) %>% # remove plates not run
     rename(accession=value)
 
-barcodes = read.csv("barcode.csv", stringsAsFactors=F) %>%
+barcodes = read.csv("original/barcode.csv", stringsAsFactors=F) %>%
     separate(value, c("R1Barcode", "R2Barcode"), sep='/', fill='right') %>%
     mutate(R1Barcode = sub(" ", "", R1Barcode),
            R2Barcode = sub(" ", "", R2Barcode))
