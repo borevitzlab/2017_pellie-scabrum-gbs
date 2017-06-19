@@ -1,0 +1,76 @@
+#!/usr/bin/env python3
+import os
+import re
+import csv
+from sys import stdout, stderr
+
+
+COLS = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+ROWS = ["A", "B", "C", "D", "E", "F", "G", "H"]
+
+
+def parse_plates(filename):
+    '''Parse plate file in 96 well plate format, yielding name, cells:
+    '''
+    # line string to list of cells
+    def parse_cells(l):
+        return list(map(str.strip, l.rstrip('\r\n').split('\t')))
+    with open(filename) as fh:
+        # This while loop can be read as "for plate in readfile"
+        while True:
+            line = fh.readline()
+            if not line:
+                # EOF
+                break
+            if not line.strip():
+                # Skip till the plate. Empty lines delimit plates
+                continue
+
+            cells = parse_cells(line)
+
+            if not cells[0]:
+                # Skip lines with empty first cell, which are extra comments or
+                # headers or somesuch.
+                continue
+
+            # Start of this plate
+            plate = {}
+
+            # Check header
+            plate_name = cells[0]
+            try:
+                numerics = list(map(int, cells[1:]))
+                assert(numerics == COLS)
+            except (ValueError, AssertionError):
+                raise ValueError("Bad plate header: ", line)
+
+            # Parse each row into plate dict
+            for alpha in ROWS:
+                line = fh.readline()
+                cells = parse_cells(line)
+                row = cells[0].upper()
+                if row != alpha:
+                    raise ValueError("Bad plate line, row label is incorrect:",
+                                     line)
+                for num in COLS:
+                    coord = "{}{:02d}".format(row, num)
+                    plate[coord] = cells[num]
+            yield plate_name, plate
+
+
+def main():
+    from argparse import ArgumentParser
+    ap = ArgumentParser("smp2csv", description="Convert 96well plate to csv")
+    ap.add_argument("plates", type=str, nargs='+',
+                    help="Plate file(s)")
+    args = ap.parse_args()
+
+    csvw = csv.writer(stdout, dialect="unix")
+    csvw.writerow(["plate.name", "well", "value"])
+    for platefile in args.plates:
+        for platename, plate in parse_plates(platefile):
+            for coord, value in sorted(plate.items()):
+                csvw.writerow([platename, coord, value])
+
+if __name__ == "__main__":
+    main()
