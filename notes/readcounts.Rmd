@@ -1,0 +1,32 @@
+---
+title: Pellargonium scabrum GBS
+---
+```{r include=F}
+library(tidyverse)
+library(ggplot2)
+```
+
+## Read counts
+
+```{r}
+lanes = c("Pscabrum_GH1-4", "Pscabrum_GH5-8", "Pscabrum_SAf2012_1-4", "Pscabrum_SAf2012_5-8")
+
+samples = NULL
+for (lane in lanes) {
+    samples = read.delim(paste0("data/demuxstats/", lane, ".tsv"),
+                         stringsAsFactors=F) %>%
+        filter(Sample != "No Barcode") %>%
+        mutate(lane=lane) %>%
+        rbind(samples)
+}
+
+str(samples)
+summary(samples)
+
+ggplot(samples, aes(x=Count, fill=lane)) +
+    geom_histogram(position="identity", alpha=0.5) +
+    scale_fill_brewer(set="Paired") +
+    theme_bw()
+```
+
+
