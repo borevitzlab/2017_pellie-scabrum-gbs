@@ -3,7 +3,7 @@ import json
 configfile: "config.yml"
 
 shell.executable("/bin/bash")
-shell.prefix("set -euo pipefail && ")
+shell.prefix("set -euo pipefail; ")
 
 SAMP2LANE, LANE2SAMP = snkmk.s2l2s("metadata/pellie-metadata.csv")
 READCOUNTS = snkmk.make_readcountdict(config["lanes"].keys())
@@ -27,7 +27,7 @@ rule qcreads:
     log:
         "data/log/adapterremoval/{sample}.log",
     threads:
-        2
+        1
     params:
         adp1=config["qc"]["adapter1"],
         adp2=config["qc"]["adapter2"],
