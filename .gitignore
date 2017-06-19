@@ -1,0 +1,7 @@
+# Data dirs
+data
+rawdata
+
+# Temp files
+*.py[oc]
+*.sw?
