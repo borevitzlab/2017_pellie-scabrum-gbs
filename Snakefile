@@ -5,8 +5,16 @@ configfile: "config.yml"
 shell.executable("/bin/bash")
 shell.prefix("set -euo pipefail; ")
 
-SAMP2LANE = json.load(open("metadata/samp2lane.json"))
-LANE2SAMP = json.load(open("metadata/lane2samp.json"))
+def s2l2s(metadatafile):
+    samples = csv.DictReader(open(metadatafile))
+    s2l = {}
+    l2s = defaultdict(list)
+    for sample in samples:
+        s2l[sample["anon.name"]] = sample["lane"]
+        l2s[sample["lane"]].append(sample["anon.name"])
+    return s2l, l2s
+
+SAMP2LANE, LANE2SAMP = s2l2s("metadata/pellie-metadata.csv")
 READCOUNTS = snkmk.make_readcountdict(config["lanes"].keys())
 REGIONS = snkmk.make_regions(config["refs"], window=config["varcall"]["chunksize"])
 SAMPLES = [s for s, rc in READCOUNTS.items() if rc > config["minreads"]]
