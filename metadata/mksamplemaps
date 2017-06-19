@@ -2,9 +2,14 @@
 import csv
 from collections import defaultdict
 import json
+import sys
 
 
-samples = csv.DictReader(open("brachy-metadata.csv"))
+if len(sys.argv) != 2:
+    print("USAGE: mksamplemaps <sample_metadata_csv>", file=sys.stderr)
+    sys.exit(1)
+
+samples = csv.DictReader(open(sys.argv[1]))
 
 s2l = {}
 l2s = defaultdict(list)
