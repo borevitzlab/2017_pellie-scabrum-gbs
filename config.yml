@@ -2,25 +2,16 @@ qc:
   adapter1: AGATCGGAAGAGCGGTTCAGCAGGAATGCCGAGACCGATCTCGTATGCCGTCTTCTGCTTG
   adapter2: AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTAGATCTCGGTGGTCGCCGTATCATT
   merge: false
+  minqual: 20
+
+minreads: 2
 
 lanes:
-  brachy_01:
-    combo: false
-  brachy_02:
-    combo: false
-  brachy_03:
-    combo: false
-  brachy_04:
-    combo: false
-#  brachy_05:
-#    combo: true
-  brachy_06:
-    combo: false
-  brachy_09-10:
+  Pscabrum_GH1-4:
     combo: true
-  brachy_11-14:
+  Pscabrum_GH5-8:
     combo: true
-  brachy_15-20:
+  Pscabrum_SAf2012_1-4:
     combo: true
-  brachy_27-32:
+  Pscabrum_SAf2012_5-8:
     combo: true

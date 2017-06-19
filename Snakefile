@@ -3,20 +3,10 @@ import json
 configfile: "config.yml"
 
 shell.executable("/bin/bash")
-shell.prefix("set -euo pipefail; ")
+shell.prefix("set -euo pipefail && ")
 
-def s2l2s(metadatafile):
-    samples = csv.DictReader(open(metadatafile))
-    s2l = {}
-    l2s = defaultdict(list)
-    for sample in samples:
-        s2l[sample["anon.name"]] = sample["lane"]
-        l2s[sample["lane"]].append(sample["anon.name"])
-    return s2l, l2s
-
-SAMP2LANE, LANE2SAMP = s2l2s("metadata/pellie-metadata.csv")
+SAMP2LANE, LANE2SAMP = snkmk.s2l2s("metadata/pellie-metadata.csv")
 READCOUNTS = snkmk.make_readcountdict(config["lanes"].keys())
-REGIONS = snkmk.make_regions(config["refs"], window=config["varcall"]["chunksize"])
 SAMPLES = [s for s, rc in READCOUNTS.items() if rc > config["minreads"]]
 
 localrules: all, qc, map, varcall, qcreads
@@ -41,9 +31,10 @@ rule qcreads:
     params:
         adp1=config["qc"]["adapter1"],
         adp2=config["qc"]["adapter2"],
-        collapse='--collapse' if config["qc"].get('mergereads', False) else '',
+        collapse='--collapse' if config["qc"].get('merge', False) else '',
+        minqual=config["qc"].get('minqual', 20),
     shell:
-        "AdapterRemoval"
+        "( set -x; AdapterRemoval"
         "   --file1 {input.reads}"
         "   --adapter1 {params.adp1}"
         "   --adapter2 {params.adp2}"
@@ -53,7 +44,8 @@ rule qcreads:
         "   {params.collapse}"
         "   --trimns"
         "   --trimqualities"
+        "   --minquality {params.minqual}"
         "   --threads {threads}"
         "   --settings {output.settings}"
         "   --output1 {output.reads}"
-        " >{log} 2>&1"
+        ") >{log} 2>&1"

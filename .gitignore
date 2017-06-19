@@ -5,3 +5,4 @@ rawdata
 # Temp files
 *.py[oc]
 *.sw?
+.snakemake
