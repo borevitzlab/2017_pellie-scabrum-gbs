@@ -1,20 +1,21 @@
 #!/usr/bin/env python3
-import yaml
 import subprocess as sp
 from multiprocessing.pool import ThreadPool
 from sys import stdin, stdout, stderr, argv
 import sys
 import os
+import csv
 
 
 def parse_cfg():
-    with open("./config.yml") as fh:
-        d = yaml.load(fh)
-    return d["lanes"]
+    samples = csv.DictReader(open("metadata/pellie-metadata.csv"))
+    lanes = set()
+    for sample in samples:
+        lanes.add(sample["lane"])
+    return list(sorted(lanes))
 
 
 def runaxe(lane):
-    lanedata = parse_cfg()[lane]
     keyfile = "metadata/keyfiles/" + lane + ".axe"
     statsfile = "data/stats/demux/" + lane + ".tsv"
     r1fq = "rawdata/gbs/" + lane + "/" + lane + "_R1.fastq.gz"
@@ -32,10 +33,8 @@ def runaxe(lane):
            "-b", keyfile,
            "-f", r1fq,
            "-r", r2fq,
-           "-I", outprefix]
-
-    if lanedata["combo"]:
-        cmd.append("-c")
+           "-I", outprefix,
+           "-c"]
 
     print("Running lane", lane, file=stderr)
     proc = sp.Popen(cmd, stdout=sp.PIPE, stderr=sp.STDOUT)
@@ -54,7 +53,7 @@ def main():
     lanes = parse_cfg()
     if len(argv) > 1:
         # Filter on whitelist of plates
-        lanes = {k: v for k, v in lanes.items() if k in argv[1:]}
+        lanes = filter(lambda x: x in argv[1:], lanes)
 
     pool = ThreadPool(16)
     rets = pool.map(runaxe, lanes)
