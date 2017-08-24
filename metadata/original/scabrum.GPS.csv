@@ -1,771 +1,771 @@
-"in bold, sample names (""DNA_CODE"") that have been changed. Will need to highlight these and update kev on the DB.",,,,,,,,,,
-,,,,,,,,,,
-Sample no.,Plate,Well,DNA_CODE,Locality,LAT_SOUTH,LONG_EAST,confirmed_species,Site,Collector,
-1,1,A01,K100,"Kamiesberg Pass, N Cape",-30.19343,17.96692,P. scabrum,1000,C_Chong,pop
-2,1,B01,K3,"Kamiesberg Pass, N Cape",-30.193118,17.967105,P. scabrum,1000,C_Chong,pop
-3,1,C01,K6,"Kamiesberg Pass, N Cape",-30.193149,17.967166,P. scabrum,1000,C_Chong,pop
-4,1,D01,K7,"Kamiesberg Pass, N Cape",-30.193161,17.967178,P. scabrum,1000,C_Chong,pop
-5,1,E01,K8,"Kamiesberg Pass, N Cape",-30.193164,17.967178,P. scabrum,1000,C_Chong,pop
-6,1,F01,K10,"Kamiesberg Pass, N Cape",-30.193174,17.967193,P. scabrum,1000,C_Chong,pop
-7,1,G01,K12,"Kamiesberg Pass, N Cape",-30.193359,17.967062,P. scabrum,1000,C_Chong,pop
-8,1,H01,K13,"Kamiesberg Pass, N Cape",-30.19336,17.967029,P. scabrum,1000,C_Chong,pop
-9,1,A02,K15,"Kamiesberg Pass, N Cape",-30.193403,17.967013,P. scabrum,1000,C_Chong,pop
-10,1,B02,K19,"Kamiesberg Pass, N Cape",-30.193403,17.967013,P. scabrum,1000,C_Chong,pop
-11,1,C02,K1,"Kamiesberg Pass, N Cape",-30.193109,17.967101,P. scabrum,1000,C_Chong,pop
-12,1,D02,K2,"Kamiesberg Pass, N Cape",-30.193106,17.967119,P. scabrum,1000,C_Chong,pop
-13,1,E02,K4,"Kamiesberg Pass, N Cape",-30.193115,17.967096,P. scabrum,1000,C_Chong,pop
-14,1,F02,K5,"Kamiesberg Pass, N Cape",-30.19315,17.967167,P. scabrum,1000,C_Chong,pop
-15,1,G02,K9,"Kamiesberg Pass, N Cape",-30.193167,17.96718,P. scabrum,1000,C_Chong,pop
-16,1,H02,K11,"Kamiesberg Pass, N Cape",-30.193215,17.967163,P. scabrum,1000,C_Chong,pop
-17,1,A03,K14,"Kamiesberg Pass, N Cape",-30.193416,17.967115,P. scabrum,1000,C_Chong,pop
-18,1,B03,K16,"Kamiesberg Pass, N Cape",-30.193423,17.967001,P. scabrum,1000,C_Chong,pop
-19,1,C03,K17,"Kamiesberg Pass, N Cape",-30.193428,17.966981,P. scabrum,1000,C_Chong,pop
-20,1,D03,K18,"Kamiesberg Pass, N Cape",-30.193421,17.966985,P. scabrum,1000,C_Chong,pop
-21,1,E03,VR1,Van Rhynsdorp Pass,-31.37082,19.01797,P. scabrum,1001,C_Chong,pop
-22,1,F03,VR2,Van Rhynsdorp Pass,-31.371,19.01846,P. scabrum,1001,C_Chong,pop
-23,1,G03,VR3,Van Rhynsdorp Pass,-31.37078,19.017,P. scabrum,1001,C_Chong,pop
-24,1,H03,VR4,Van Rhynsdorp Pass,-31.37078,19.01789,P. scabrum,1001,C_Chong,pop
-25,1,A04,VR5,Van Rhynsdorp Pass,-31.37052,19.01787,P. scabrum,1001,C_Chong,pop
-26,1,B04,VR6,Van Rhynsdorp Pass,-31.370449,19.017981,P. scabrum,1001,C_Chong,pop
-27,1,C04,VR7,Van Rhynsdorp Pass,31.370515,19.017873,P. scabrum,1001,C_Chong,pop
-28,1,D04,VR8,Van Rhynsdorp Pass,-31.37057,19.01796,P. scabrum,1001,C_Chong,pop
-29,1,E04,VR9,Van Rhynsdorp Pass,-31.37064,19.01813,P. scabrum,1001,C_Chong,pop
-30,1,F04,VR10,Van Rhynsdorp Pass,-31.37062,19.01819,P. scabrum,1001,C_Chong,pop
-31,1,G04,VR11,Van Rhynsdorp Pass,-31.37049,19.01746,P. scabrum,1001,C_Chong,pop
-32,1,H04,VR12,Van Rhynsdorp Pass,-31.37054,18.01782,P. scabrum,1001,C_Chong,pop
-33,1,A05,VR13,Van Rhynsdorp Pass,-31.37053,19.01769,P. scabrum,1001,C_Chong,pop
-34,1,B05,VR15,Van Rhynsdorp Pass,-31.37059,19.01703,P. scabrum,1001,C_Chong,pop
-35,1,C05,VR16,Van Rhynsdorp Pass,-31.37051,19.01758,P. scabrum,1001,C_Chong,pop
-36,1,D05,VR17,Van Rhynsdorp Pass,-31.37057,19.01744,P. scabrum,1001,C_Chong,pop
-37,1,E05,VR18,Van Rhynsdorp Pass,-31.37058,19.01741,P. scabrum,1001,C_Chong,pop
-38,1,F05,VR19,Van Rhynsdorp Pass,-31.37075,19.01783,P. scabrum,1001,C_Chong,pop
-39,1,G05,VR20,Van Rhynsdorp Pass,-31.37077,19.01774,P. scabrum,1001,C_Chong,pop
-40,1,H05,VR21,Van Rhynsdorp Pass,-31.37077,19.01768,P. scabrum,1001,C_Chong,pop
-41,1,A06,VR22,Van Rhynsdorp Pass,-31.37074,19.01774,P. scabrum,1001,C_Chong,pop
-42,1,B06,VR23,Van Rhynsdorp Pass,-31.370735,19.0178,P. scabrum,1001,C_Chong,pop
-43,1,C06,VR24,Van Rhynsdorp Pass,-31.37063,19.01676,P. scabrum,1001,C_Chong,pop
-44,1,D06,VR25,Van Rhynsdorp Pass,-31.37064,19.01677,P. scabrum,1001,C_Chong,pop
-45,1,E06,VR26,Van Rhynsdorp Pass,-31.37064,19.01676,P. scabrum,1001,C_Chong,pop
-46,1,F06,VR27,Van Rhynsdorp Pass,-31.37062,19.01677,P. scabrum,1001,C_Chong,pop
-47,1,G06,VR29,Van Rhynsdorp Pass,-31.3708,19.01776,P. scabrum,1001,C_Chong,pop
-48,1,H06,VR31,Van Rhynsdorp Pass,-31.370804,19.017884,P. scabrum,1001,C_Chong,pop
-49,1,A07,VR32,Van Rhynsdorp Pass,37.37079,19.01799,P. scabrum,1001,C_Chong,pop
-50,1,B07,VR35,Van Rhynsdorp Pass,-31.371019,19.018488,P. scabrum,1001,C_Chong,pop
-51,1,C07,VR14,Van Rhynsdorp Pass,-31.37052,19.01759,P. scabrum,1001,C_Chong,pop
-52,1,D07,VR28,Van Rhynsdorp Pass,-31.37077,1.01765,P. scabrum,1001,C_Chong,pop
-53,1,E07,VR30,Van Rhynsdorp Pass,-31.37064,19.01677,P. scabrum,1001,C_Chong,pop
-54,1,F07,VR33,Van Rhynsdorp Pass,-31.370827,19.018071,P. scabrum,1001,C_Chong,pop
-55,1,G07,VR34,Van Rhynsdorp Pass,-31.370859,19.018149,P. scabrum,1001,C_Chong,pop
-56,1,H07,VR36,Van Rhynsdorp Pass,-31.371024,19.018522,P. scabrum,1001,C_Chong,pop
-57,1,A08,VR37,Van Rhynsdorp Pass,-31.370645,19.018203,P. scabrum,1001,C_Chong,pop
-58,1,B08,VR38,Van Rhynsdorp Pass,-31.370617,19.018096,P. scabrum,1001,C_Chong,pop
-59,1,C08,VR39,Van Rhynsdorp Pass,-31.3706,19.018097,P. scabrum,1001,C_Chong,pop
-60,1,D08,VR40,Van Rhynsdorp Pass,-31.370594,19.018023,P. scabrum,1001,C_Chong,pop
-61,1,E08,VR41,Van Rhynsdorp Pass,-31.370578,19.017976,P. scabrum,1001,C_Chong,pop
-62,1,F08,VR42,Van Rhynsdorp Pass,-31.370543,19.017953,P. scabrum,1001,C_Chong,pop
-63,1,G08,VR43,Van Rhynsdorp Pass,-31.370527,19.017879,P. scabrum,1001,C_Chong,pop
-64,1,H08,VR44,Van Rhynsdorp Pass,31.370553,19.017831,P. scabrum,1001,C_Chong,pop
-65,1,A09,VR45,Van Rhynsdorp Pass,-31.370553,19.017798,P. scabrum,1001,C_Chong,pop
-66,1,B09,VR46,Van Rhynsdorp Pass,31.370518,19.017742,P. scabrum,1001,C_Chong,pop
-67,1,C09,VR47,Van Rhynsdorp Pass,31.370522,19.017681,P. scabrum,1001,C_Chong,pop
-68,1,D09,VR48,Van Rhynsdorp Pass,-31.370509,19.01771,P. scabrum,1001,C_Chong,pop
-69,1,E09,VR49,Van Rhynsdorp Pass,-31.370508,19.017654,P. scabrum,1001,C_Chong,pop
-70,1,F09,VR50,Van Rhynsdorp Pass,-31.370518,19.017643,P. scabrum,1001,C_Chong,pop
-71,1,G09,VR51,Van Rhynsdorp Pass,31.370519,19.017568,P. scabrum,1001,C_Chong,pop
-72,1,H09,VR52,Van Rhynsdorp Pass,-31.370589,19.01752,P. scabrum,1001,C_Chong,pop
-73,1,A10,VR53,Van Rhynsdorp Pass,-31.370507,19.017473,P. scabrum,1001,C_Chong,pop
-74,1,B10,VR54,Van Rhynsdorp Pass,31.370514,19.017362,P. scabrum,1001,C_Chong,pop
-75,1,C10,VR55,Van Rhynsdorp Pass,31.370541,19.017261,P. scabrum,1001,C_Chong,pop
-76,1,D10,291_1,Cederberg NR: Nieuwoudt Pass,-32.34984,19.00684,P. scabrum,291,C_Chong,pop
-77,1,E10,291_2,Cederberg NR: Nieuwoudt Pass,-32.34984,19.00684,P. scabrum,291,C_Chong,pop
-78,1,F10,291_3,Cederberg NR: Nieuwoudt Pass,-32.34984,19.00684,P. scabrum,291,C_Chong,pop
-79,1,G10,291_4,Cederberg NR: Nieuwoudt Pass,-32.34984,19.00684,P. scabrum,291,C_Chong,pop
-80,1,H10,291_5,Cederberg NR: Nieuwoudt Pass,-32.34984,19.00684,P. scabrum,291,C_Chong,pop
-81,1,A11,291_6,Cederberg NR: Nieuwoudt Pass,-32.34984,19.00684,P. scabrum,291,C_Chong,pop
-82,1,B11,291_7,Cederberg NR: Nieuwoudt Pass,-32.34984,19.00684,P. scabrum,291,C_Chong,pop
-83,1,C11,291_8,Cederberg NR: Nieuwoudt Pass,-32.34984,19.00684,P. scabrum,291,C_Chong,pop
-84,1,D11,294_1,"Citrusdal, Elandskloof Rd",-32.62802,19.11664,P. scabrum,294,C_Chong,pop
-85,1,E11,294_2,"Citrusdal, Elandskloof Rd",-32.62802,19.11664,P. scabrum,294,C_Chong,pop
-86,1,F11,294_3,"Citrusdal, Elandskloof Rd",-32.62802,19.11664,P. scabrum,294,C_Chong,pop
-87,1,G11,294_4,"Citrusdal, Elandskloof Rd",-32.63256,19.11991,P. scabrum,294,C_Chong,pop
-88,1,H11,294_5,"Citrusdal, Elandskloof Rd",-32.63261,19.11999,P. scabrum,294,C_Chong,pop
-89,1,A12,294_6,"Citrusdal, Elandskloof Rd",-32.63276,19.11996,P. scabrum,294,C_Chong,pop
-90,1,B12,294_7,"Citrusdal, Elandskloof Rd",-32.633,19.12004,P. scabrum,294,C_Chong,pop
-91,1,C12,294_8,"Citrusdal, Elandskloof Rd",-32.63326,19.12019,P. scabrum,294,C_Chong,pop
-92,1,D12,297_1,Paarl Mt,-33.74117,18.94857,P. scabrum,297,C_Chong,pop
-93,1,E12,297_2,Paarl Mt,-33.74117,18.94857,P. scabrum,297,C_Chong,pop
-94,1,F12,297_3,Paarl Mt,-33.74117,18.94857,P. scabrum,297,C_Chong,pop
-95,1,G12,dasklip1,Dasklip Pass,-32.8963,19.03596,P. scabrum,295,C_Chong,pop
-96,1,H12,dasklip2,Dasklip Pass,-32.8963,19.03596,P. scabrum,295,C_Chong,pop
-97,2,A01,HB1,Cloetes' Pass,-33.961021,21.790685,P. scabrum,1002,C_Chong,pop
-98,2,B01,HB2,Cloetes' Pass,-33.961026,21.790658,P. scabrum,1002,C_Chong,pop
-99,2,C01,HB3,Cloetes' Pass,-33.961035,21.790651,P. scabrum,1002,C_Chong,pop
-100,2,D01,HB4,Cloetes' Pass,-33.961049,21.790649,P. scabrum,1002,C_Chong,pop
-101,2,E01,HB5,Cloetes' Pass,-33.961048,21.790716,P. scabrum,1002,C_Chong,pop
-102,2,F01,HB6,Cloetes' Pass,-33.961045,21.790711,P. scabrum,1002,C_Chong,pop
-103,2,G01,HB7,Cloetes' Pass,-33.961043,21.790799,P. scabrum,1002,C_Chong,pop
-104,2,H01,HB8,Cloetes' Pass,-33.961033,21.790818,P. scabrum,1002,C_Chong,pop
-105,2,A02,HB9,Cloetes' Pass,-33.961029,21.790814,P. scabrum,1002,C_Chong,pop
-106,2,B02,HB10,Cloetes' Pass,-33.961012,21.790819,P. scabrum,1002,C_Chong,pop
-107,2,C02,HB11,Cloetes' Pass,-33.961369,21.790802,P. scabrum,1002,C_Chong,pop
-108,2,D02,HB12,Cloetes' Pass,-33.961362,21.7908,P. scabrum,1002,C_Chong,pop
-109,2,E02,HB13,Cloetes' Pass,-33.961362,21.790804,P. scabrum,1002,C_Chong,pop
-110,2,F02,HB14,Cloetes' Pass,-33.961361,21.790807,P. scabrum,1002,C_Chong,pop
-111,2,G02,HB15,Cloetes' Pass,-33.961406,21.790759,P. scabrum,1002,C_Chong,pop
-112,2,H02,HB16,Cloetes' Pass,-33.961415,21.790764,P. scabrum,1002,C_Chong,pop
-113,2,A03,HB17,Cloetes' Pass,-33.961406,21.790755,P. scabrum,1002,C_Chong,pop
-114,2,B03,HB18,Cloetes' Pass,-33.961404,21.790741,P. scabrum,1002,C_Chong,pop
-115,2,C03,HB20,Cloetes' Pass,-33.961441,21.790718,P. scabrum,1002,C_Chong,pop
-116,2,D03,HB21,Cloetes' Pass,-33.961065,21.790867,P. scabrum,1002,C_Chong,pop
-117,2,E03,HB22,Cloetes' Pass,-33.961064,21.790863,P. scabrum,1002,C_Chong,pop
-118,2,F03,HB24,Cloetes' Pass,-33.961152,21.790833,P. scabrum,1002,C_Chong,pop
-119,2,G03,HB25,Cloetes' Pass,-33.961071,21.790918,P. scabrum,1002,C_Chong,pop
-120,2,H03,HB26,Cloetes' Pass,-33.961047,21.790949,P. scabrum,1002,C_Chong,pop
-121,2,A04,HB27,Cloetes' Pass,-33.961059,21.790975,P. scabrum,1002,C_Chong,pop
-122,2,B04,HB28,Cloetes' Pass,-33.961026,21.790926,P. scabrum,1002,C_Chong,pop
-123,2,C04,HB29,Cloetes' Pass,-33.960991,21.790976,P. scabrum,1002,C_Chong,pop
-124,2,D04,HB30,Cloetes' Pass,-33.960961,21.791017,P. scabrum,1002,C_Chong,pop
-125,2,E04,HB31,Cloetes' Pass,-33.960599,21.790868,P. scabrum,1002,C_Chong,pop
-126,2,F04,HB32,Cloetes' Pass,-33.960596,21.79087,P. scabrum,1002,C_Chong,pop
-127,2,G04,HB33,Cloetes' Pass,-33.960583,21.79087,P. scabrum,1002,C_Chong,pop
-128,2,H04,HB34,Cloetes' Pass,-33.960567,21.790865,P. scabrum,1002,C_Chong,pop
-129,2,A05,HB37,Cloetes' Pass,-33.960645,21.790722,P. scabrum,1002,C_Chong,pop
-130,2,B05,HB38,Cloetes' Pass,-33.960658,21.790712,P. scabrum,1002,C_Chong,pop
-131,2,C05,HB39,Cloetes' Pass,-33.960652,21.790712,P. scabrum,1002,C_Chong,pop
-132,2,D05,HB40,Cloetes' Pass,-33.961463,21.790724,P. scabrum,1002,C_Chong,pop
-133,2,E05,HB41,Cloetes' Pass,-33.961467,21.790745,P. scabrum,1002,C_Chong,pop
-134,2,F05,HB42,Cloetes' Pass,-33.961466,21.79075,P. scabrum,1002,C_Chong,pop
-135,2,G05,HB43,Cloetes' Pass,-33.961468,21.790754,P. scabrum,1002,C_Chong,pop
-136,2,H05,HB44,Cloetes' Pass,-33.96149,21.79077,P. scabrum,1002,C_Chong,pop
-137,2,A06,HB45,Cloetes' Pass,-33.961487,21.790775,P. scabrum,1002,C_Chong,pop
-138,2,B06,HB46,Cloetes' Pass,-33.961499,21.790796,P. scabrum,1002,C_Chong,pop
-139,2,C06,HB47,Cloetes' Pass,-33.961499,21.790797,P. scabrum,1002,C_Chong,pop
-140,2,D06,HB48,Cloetes' Pass,-33.96151,21.790815,P. scabrum,1002,C_Chong,pop
-141,2,E06,HB49,Cloetes' Pass,-33.96149,21.790811,P. scabrum,1002,C_Chong,pop
-142,2,F06,HB50,Cloetes' Pass,-33.961489,21.790811,P. scabrum,1002,C_Chong,pop
-143,2,G06,H14,Cloetes' Pass,-33.961093,21.791125,P. scabrum,1002,C_Chong,pop
-144,2,H06,H10,Cloetes' Pass,-33.961022,21.790919,P. scabrum,1002,C_Chong,pop
-145,2,A07,H11,Cloetes' Pass,-33.960977,21.791011,P. scabrum,1002,C_Chong,pop
-146,2,B07,H12,Cloetes' Pass,-33.960947,21.79105,P. scabrum,1002,C_Chong,pop
-147,2,C07,H13,Cloetes' Pass,-33.961118,21.791053,P. scabrum,1002,C_Chong,pop
-148,2,D07,H1,Cloetes' Pass,-33.961034,21.790665,P. scabrum,1002,C_Chong,pop
-149,2,E07,H15,Cloetes' Pass,-33.960541,21.790904,P. scabrum,1002,C_Chong,pop
-150,2,F07,H16,Cloetes' Pass,-33.960552,21.790882,P. scabrum,1002,C_Chong,pop
-151,2,G07,H17,Cloetes' Pass,-33.960669,21.79068,P. scabrum,1002,C_Chong,pop
-152,2,H07,H18,Cloetes' Pass,-33.96071,21.790694,P. scabrum,1002,C_Chong,pop
-153,2,A08,H19,Cloetes' Pass,-33.961409,21.790733,P. scabrum,1002,C_Chong,pop
-154,2,B08,H2,Cloetes' Pass,-33.961005,21.79082,P. scabrum,1002,C_Chong,pop
-155,2,C08,H3,Cloetes' Pass,-33.961112,21.790831,P. scabrum,1002,C_Chong,pop
-156,2,D08,H35,Cloetes' Pass,-33.960576,21.790897,P. scabrum,1002,C_Chong,pop
-157,2,E08,H36,Cloetes' Pass,-33.960526,21.790917,P. scabrum,1002,C_Chong,pop
-158,2,F08,H5,Cloetes' Pass,-33.961409,21.790743,P. scabrum,1002,C_Chong,pop
-159,2,G08,H7,Cloetes' Pass,-33.961437,21.790719,P. scabrum,1002,C_Chong,pop
-160,2,H08,H8,Cloetes' Pass,-33.961438,21.790698,P. scabrum,1002,C_Chong,pop
-161,2,A09,H9,Cloetes' Pass,-33.961047,21.79094,P. scabrum,1002,C_Chong,pop
-162,2,B09,HB23,Cloetes' Pass,-33.961058,21.790891,P. scabrum,1002,C_Chong,pop
-163,2,C09,SEW3A,Seweweekspoort,-33.440364,21.409419,P. scabrum,1003,C_Chong,pop
-164,2,D09,M1,Seweweekspoort,-33.440957,21.409251,P. scabrum,1003,C_Chong,pop
-165,2,E09,SEWUSE3,Seweweekspoort,-33.441276,21.409864,P. scabrum,1003,C_Chong,pop
-166,2,F09,SEWUSE1,Seweweekspoort,-33.441274,21.409455,P. scabrum,1003,C_Chong,pop
-167,2,G09,SEW1,Seweweekspoort,-33.435353,21.407081,P. scabrum,1003,C_Chong,pop
-168,2,H09,SEW3,Seweweekspoort,-33.434992,21.407139,P. scabrum,1003,C_Chong,pop
-169,2,A10,SEW2,Seweweekspoort,-33.435074,21.407129,P. scabrum,1003,C_Chong,pop
-170,2,B10,SEWUSE2,Seweweekspoort,-33.441283,21.409455,P. scabrum,1003,C_Chong,pop
-171,2,C10,SEWUSE4,Seweweekspoort,-33.441413,21.410248,P. scabrum,1003,C_Chong,pop
-172,2,D10,SEW4,Seweweekspoort,-33.440182,21.410599,P. citronellum,1003,C_Chong,pop
-173,2,E10,SEW5,Seweweekspoort,-33.440182,21.410632,P. citronellum,1003,C_Chong,pop
-174,2,F10,SEW6,Seweweekspoort,-33.440199,21.410627,P. citronellum,1003,C_Chong,pop
-175,2,G10,SEW7,Seweweekspoort,-33.440195,21.410609,P. citronellum,1003,C_Chong,pop
-176,2,H10,SEWINT2,Seweweekspoort,-33.440303,21.409331,P. citronellum,1003,C_Chong,pop
-177,2,A11,SEW8,Seweweekspoort,-33.440183,21.410584,P. citronellum,1003,C_Chong,pop
-178,2,B11,SEW9_A,Seweweekspoort,-33.440202,21.410608,P. citronellum,1003,C_Chong,pop
-179,2,C11,SEW9,Seweweekspoort,-33.440185,21.410659,P. citronellum,1003,C_Chong,pop
-180,2,D11,SEW10,Seweweekspoort,-33.440178,21.410647,P. citronellum,1003,C_Chong,pop
-181,2,E11,SEW11,Seweweekspoort,-33.440179,21.410648,P. citronellum,1003,C_Chong,pop
-182,2,F11,SEW12,Seweweekspoort,-33.440327,21.410407,P. citronellum,1003,C_Chong,pop
-183,2,G11,SEW13,Seweweekspoort,-33.44031,21.410386,P. citronellum,1003,C_Chong,pop
-184,2,H11,SEW14,Seweweekspoort,-33.440305,21.410385,P. citronellum,1003,C_Chong,pop
-185,2,A12,SEW15,Seweweekspoort,-33.440316,21.41039,P. citronellum,1003,C_Chong,pop
-186,2,B12,SEW16,Seweweekspoort,-33.440338,21.410391,P. citronellum,1003,C_Chong,pop
-187,2,C12,SEW17,Seweweekspoort,-33.440321,21.41039,P. citronellum,1003,C_Chong,pop
-188,2,D12,SEW18,Seweweekspoort,-33.440319,21.410389,P. citronellum,1003,C_Chong,pop
-189,2,E12,SEW19,Seweweekspoort,-33.440327,21.410297,P. citronellum,1003,C_Chong,pop
-190,2,F12,SEWINT1,Seweweekspoort,-33.435353,21.407081,P. sp. unknown,1003,C_Chong,pop
-191,2,G12,SPB,Seweweekspoort,-33.44131,21.409438,P. sp. unknown,1003,C_Chong,pop
-192,2,H12,160A_7,"Middleberg Pass, lower Pass",-32.61885,19.12064,P. scabrum,160_A,C_Chong,pop
-193,3,A01,SPPA,Swartberg Pass,-33.29432,22.05101,P. zonale,1004,C_Chong,pop
-194,3,B01,SPPB,Swartberg Pass,-33.2947,22.05111,P. glutinosum,1004,C_Chong,pop
-195,3,C01,SPPB,Swartberg Pass,-33.29462,22.05123,P. glutinosum,1004,C_Chong,pop
-196,3,D01,SPPB,Swartberg Pass,-33.2946,22.05112,P. glutinosum,1004,C_Chong,pop
-197,3,E01,714,Swartberg Pass,-33.294713,22.051191,P. sp. unknown,1004,C_Chong,pop
-198,3,F01,SWP1,Swartberg Pass,-33.294595,22.051237,P. scabrum,1004,C_Chong,pop
-199,3,G01,SW3,Swartberg Pass,-33.29462,22.051163,P. scabrum,1004,C_Chong,pop
-200,3,H01,SW2,Swartberg Pass,-33.294609,22.051171,P. scabrum,1004,C_Chong,pop
-201,3,A02,SW4,Swartberg Pass,-33.294633,22.051298,P. scabrum,1004,C_Chong,pop
-202,3,B02,SW5,Swartberg Pass,-33.294661,22.051317,P. scabrum,1004,C_Chong,pop
-203,3,C02,SW11,Swartberg Pass,-33.294664,22.05131,P. scabrum,1004,C_Chong,pop
-204,3,D02,SW1,Swartberg Pass,-33.294719,22.051184,P. scabrum,1004,C_Chong,pop
-205,3,E02,SB7,Swartberg Pass,-33.294461,22.05126,P. scabrum,1004,C_Chong,pop
-206,3,F02,SB8,Swartberg Pass,-33.294406,22.051244,P. scabrum,1004,C_Chong,pop
-207,3,G02,SWP2,Swartberg Pass,-33.294285,22.051289,P. scabrum,1004,C_Chong,pop
-208,3,H02,SB6,Swartberg Pass,-33.294521,22.051296,P. scabrum,1004,C_Chong,pop
-209,3,A03,SB10,Swartberg Pass,-33.294832,22.051329,P. scabrum,1004,C_Chong,pop
-210,3,B03,SB12,Swartberg Pass,-33.29483,22.051337,P. scabrum,1004,C_Chong,pop
-211,3,C03,SW13,Swartberg Pass,-33.294838,22.0513,P. scabrum,1004,C_Chong,pop
-212,3,D03,SW14,Swartberg Pass,-33.294658,22.05113,P. scabrum,1004,C_Chong,pop
-213,3,E03,SB16,Swartberg Pass,-33.293363,22.05128,P. scabrum,1004,C_Chong,pop
-214,3,F03,SB9,Swartberg Pass,-33.294387,22.051232,P. scabrum,1004,C_Chong,pop
-215,3,G03,1005_A,Ezeljachtspoort,-33.788526,22.530314,P. graveolens,1005,C_Chong,pop
-216,3,H03,1005_B,Ezeljachtspoort,-33.788455,22.530373,P. sp. unknown,1005,C_Chong,pop
-217,3,A04,1005_C,Ezeljachtspoort,-33.788559,22.530517,P. sp. unknown,1005,C_Chong,pop
-218,3,B04,1005_D,Ezeljachtspoort,-33.788673,22.53085,P. sp. unknown,1005,C_Chong,pop
-219,3,C04,EZ1,Ezeljachtspoort,-33.788548,22.530557,P. scabrum,1005,C_Chong,pop
-220,3,D04,EZ2,Ezeljachtspoort,-33.788557,22.530562,P. scabrum,1005,C_Chong,pop
-221,3,E04,EZ3,Ezeljachtspoort,-33.788537,22.530537,P. scabrum,1005,C_Chong,pop
-222,3,F04,EZ4,Ezeljachtspoort,-33.788539,22.530534,P. scabrum,1005,C_Chong,pop
-223,3,G04,EZ5,Ezeljachtspoort,-33.788528,22.530535,P. scabrum,1005,C_Chong,pop
-224,3,H04,EZ11,Ezeljachtspoort,-33.788494,22.530499,P. scabrum,1005,C_Chong,pop
-225,3,A05,EZ6,Ezeljachtspoort,-33.788427,22.53036,P. scabrum,1005,C_Chong,pop
-226,3,B05,EZ7,Ezeljachtspoort,-33.788437,22.530351,P. scabrum,1005,C_Chong,pop
-227,3,C05,EZ8,Ezeljachtspoort,-33.788445,22.530416,P. scabrum,1005,C_Chong,pop
-228,3,D05,EZ9,Ezeljachtspoort,-33.788461,22.530411,P. scabrum,1005,C_Chong,pop
-229,3,E05,EZ10,Ezeljachtspoort,-33.788467,22.53041,P. scabrum,1005,C_Chong,pop
-230,3,F05,EZ17,Ezeljachtspoort,-33.788476,22.530442,P. scabrum,1005,C_Chong,pop
-231,3,G05,EZ18,Ezeljachtspoort,-33.788474,22.530427,P. scabrum,1005,C_Chong,pop
-232,3,H05,EZ19,Ezeljachtspoort,-33.788471,22.530428,P. scabrum,1005,C_Chong,pop
-233,3,A06,EZ20,Ezeljachtspoort,-33.788472,22.5304,P. scabrum,1005,C_Chong,pop
-234,3,B06,E1,Ezeljachtspoort,-33.788535,22.530542,P. scabrum,1005,C_Chong,pop
-235,3,C06,E2,Ezeljachtspoort,-33.788511,22.53051,P. scabrum,1005,C_Chong,pop
-236,3,D06,E3,Ezeljachtspoort,-33.78851,22.530517,P. scabrum,1005,C_Chong,pop
-237,3,E06,E4,Ezeljachtspoort,-33.788486,22.530442,P. scabrum,1005,C_Chong,pop
-238,3,F06,E5,Ezeljachtspoort,-33.788521,22.530431,P. scabrum,1005,C_Chong,pop
-239,3,G06,NR1,"Ezeljachtspoort, N9 roadside",-33.825144,22.387771,P. scabrum,1006,C_Chong,pop
-240,3,H06,NR2,"Ezeljachtspoort, N9 roadside",-33.825123,22.387707,P. scabrum,1006,C_Chong,pop
-241,3,A07,NR3,"Ezeljachtspoort, N9 roadside",-33.825114,22.387733,P. scabrum,1006,C_Chong,pop
-242,3,B07,NR4,"Ezeljachtspoort, N9 roadside",-33.824873,22.387169,P. scabrum,1006,C_Chong,pop
-243,3,C07,NR5,"Ezeljachtspoort, N9 roadside",-33.824875,22.387172,P. scabrum,1006,C_Chong,pop
-244,3,D07,NR6,"Ezeljachtspoort, N9 roadside",-33.824587,22.386666,P. scabrum,1006,C_Chong,pop
-245,3,E07,NR7,"Ezeljachtspoort, N9 roadside",-33.824349,22.386229,P. scabrum,1006,C_Chong,pop
-246,3,F07,NR8,"Ezeljachtspoort, N9 roadside",-33.824188,22.385989,P. scabrum,1006,C_Chong,pop
-247,3,G07,NR9,"Ezeljachtspoort, N9 roadside",-33.824175,22.385964,P. scabrum,1006,C_Chong,pop
-248,3,H07,NR10,"Ezeljachtspoort, N9 roadside",-33.824026,22.385736,P. scabrum,1006,C_Chong,pop
-249,3,A08,NR11,"Ezeljachtspoort, N9 roadside",-33.82399,22.38569,P. scabrum,1006,C_Chong,pop
-250,3,B08,NR12,"Ezeljachtspoort, N9 roadside",-33.824418,22.38613,P. scabrum,1006,C_Chong,pop
-251,3,C08,NR13,"Ezeljachtspoort, N9 roadside",-33.824086,22.385643,P. scabrum_unkn,1006,C_Chong,pop
-252,3,D08,NR14,"Ezeljachtspoort, N9 roadside",-33.824154,22.385705,P. scabrum_unkn,1006,C_Chong,pop
-253,3,E08,NR15,"Ezeljachtspoort, N9 roadside",-33.82416,22.385655,P. scabrum_unkn,1006,C_Chong,pop
-254,3,F08,NR16,"Ezeljachtspoort, N9 roadside",-33.824157,22.385717,P. scabrum_unkn,1006,C_Chong,pop
-255,3,G08,N1,"Ezeljachtspoort, N9 roadside",-33.825126,22.38771,P. scabrum,1006,C_Chong,pop
-256,3,H08,N2,"Ezeljachtspoort, N9 roadside",-33.825003,22.387401,P. scabrum,1006,C_Chong,pop
-257,3,A09,N3,"Ezeljachtspoort, N9 roadside",-33.824952,22.387039,P. scabrum,1006,C_Chong,pop
-258,3,B09,N4,"Ezeljachtspoort, N9 roadside",-33.824649,22.386748,P. scabrum,1006,C_Chong,pop
-259,3,C09,N5,"Ezeljachtspoort, N9 roadside",-33.824562,22.386623,P. scabrum,1006,C_Chong,pop
-260,3,D09,N7,"Ezeljachtspoort, N9 roadside",-33.824185,22.385984,P. scabrum,1006,C_Chong,pop
-261,3,E09,N8,"Ezeljachtspoort, N9 roadside",-33.824128,22.385867,P. scabrum,1006,C_Chong,pop
-262,3,F09,N9,"Ezeljachtspoort, N9 roadside",-33.824422,22.386158,P. scabrum,1006,C_Chong,pop
-263,3,G09,dasklip3,Dasklip Pass,-32.8963,19.03596,P. scabrum,295,C_Chong,pop
-264,3,H09,dasklip4,Dasklip Pass,-32.8963,19.03596,P. scabrum,295,C_Chong,pop
-265,3,A10,AU15,Aurora,-32.693673,18.481209,P. scabrum,1007,C_Chong,pop
-266,3,B10,AU16,Aurora,-32.693625,18.481159,P. scabrum,1007,C_Chong,pop
-267,3,C10,AU17,Aurora,-32.693608,18.481123,P. scabrum,1007,C_Chong,pop
-268,3,D10,AU18,Aurora,-32.693608,18.481121,P. scabrum,1007,C_Chong,pop
-269,3,E10,AU19,Aurora,-32.693628,18.481163,P. scabrum,1007,C_Chong,pop
-270,3,F10,AU22,Aurora,-32.693627,18.481129,P. scabrum,1007,C_Chong,pop
-271,3,G10,AU23,Aurora,-32.693635,18.48112,P. scabrum,1007,C_Chong,pop
-272,3,H10,AU28,Aurora,-32.693689,18.481063,P. scabrum,1007,C_Chong,pop
-273,3,A11,AU29,Aurora,-32.69371,18.481081,P. scabrum,1007,C_Chong,pop
-274,3,B11,AU39,Aurora,-32.693536,18.481277,P. scabrum,1007,C_Chong,pop
-275,3,C11,AU8,Aurora,-32.693546,18.481248,P. scabrum,1007,C_Chong,pop
-276,3,D11,AU20,Aurora,-32.693612,18.481114,P. scabrum,1007,C_Chong,pop
-277,3,E11,AU1,Aurora,-32.69354,18.481384,P. scabrum,1007,C_Chong,pop
-278,3,F11,AU10,Aurora,-32.693553,18.481218,P. scabrum,1007,C_Chong,pop
-279,3,G11,AU11,Aurora,-32.693557,18.481198,P. scabrum,1007,C_Chong,pop
-280,3,H11,AU12,Aurora,-32.693607,18.481209,P. scabrum,1007,C_Chong,pop
-281,3,A12,AU13,Aurora,-32.693582,18.48117,P. scabrum,1007,C_Chong,pop
-282,3,B12,AU14,Aurora,-32.69356,18.481133,P. scabrum,1007,C_Chong,pop
-283,3,C12,AU2,Aurora,-32.693539,18.481306,P. scabrum,1007,C_Chong,pop
-284,3,D12,AU5,Aurora,-32.69355,18.481258,P. scabrum,1007,C_Chong,pop
-285,3,E12,AU21,Aurora,-32.693634,18.481158,P. scabrum,1007,C_Chong,pop
-286,3,F12,AU24_A,Aurora,-32.693667,18.481151,P. scabrum,1007,C_Chong,pop
-287,3,G12,AU25,Aurora,-32.693638,18.481111,P. scabrum,1007,C_Chong,pop
-288,3,H12,AU24_B,Aurora,-32.693653,18.481153,P. scabrum,1007,C_Chong,pop
-289,4,A01,AU26,Aurora,-32.693752,18.481036,P. scabrum,1007,C_Chong,pop
-290,4,B01,AU27,Aurora,-32.693706,18.480996,P. scabrum,1007,C_Chong,pop
-291,4,C01,AU3,Aurora,-32.693525,18.481307,P. scabrum,1007,C_Chong,pop
-292,4,D01,AU30,Aurora,-32.693745,18.481113,P. scabrum,1007,C_Chong,pop
-293,4,E01,AU31,Aurora,-32.693717,18.481,P. scabrum,1007,C_Chong,pop
-294,4,F01,AU32,Aurora,-32.69375,18.481012,P. scabrum,1007,C_Chong,pop
-295,4,G01,AU33,Aurora,-32.693742,18.481087,P. scabrum,1007,C_Chong,pop
-296,4,H01,AU34,Aurora,-32.693741,18.481138,P. scabrum,1007,C_Chong,pop
-297,4,A02,AU35,Aurora,-32.693727,18.481148,P. scabrum,1007,C_Chong,pop
-298,4,B02,AU36,Aurora,-32.693689,18.48119,P. scabrum,1007,C_Chong,pop
-299,4,C02,AU37,Aurora,-32.693658,18.48124,P. scabrum,1007,C_Chong,pop
-300,4,D02,AU38,Aurora,-32.69362,18.481248,P. scabrum,1007,C_Chong,pop
-301,4,E02,AU4,Aurora,-32.693529,18.481299,P. scabrum,1007,C_Chong,pop
-302,4,F02,AU40,Aurora,-32.69371,18.481081,P. scabrum,1007,C_Chong,pop
-303,4,G02,AU6,Aurora,-32.69355,18.481287,P. scabrum,1007,C_Chong,pop
-304,4,H02,AU7,Aurora,-32.693556,18.481243,P. scabrum,1007,C_Chong,pop
-305,4,A03,AU9,Aurora,-32.693556,18.481223,P. scabrum,1007,C_Chong,pop
-306,4,B03,FG1,"Fairy Glen, Worcestor",-33.561762,19.435469,P. scabrum,1008,C_Chong,pop
-307,4,C03,FG2,"Fairy Glen, Worcestor",-33.561771,19.435493,P. scabrum,1008,C_Chong,pop
-308,4,D03,fg2,"Fairy Glen, Worcestor",-33.561801,19.434981,P. scabrum,1008,C_Chong,pop
-309,4,E03,FG3,"Fairy Glen, Worcestor",-33.561851,19.434921,P. scabrum,1008,C_Chong,pop
-310,4,F03,fg4,"Fairy Glen, Worcestor",-33.56189,19.434912,P. scabrum,1008,C_Chong,pop
-311,4,G03,FG4,"Fairy Glen, Worcestor",-33.561893,19.434905,P. scabrum,1008,C_Chong,pop
-312,4,H03,FG7,"Fairy Glen, Worcestor",-33.563592,19.434916,P. scabrum,1008,C_Chong,pop
-313,4,A04,FG8,"Fairy Glen, Worcestor",-33.563821,19.435017,P. scabrum,1008,C_Chong,pop
-314,4,B04,FG9,"Fairy Glen, Worcestor",-33.563855,19.435011,P. scabrum,1008,C_Chong,pop
-315,4,C04,FG11,"Fairy Glen, Worcestor",-33.564353,19.433673,P. scabrum,1008,C_Chong,pop
-316,4,D04,FG10,"Fairy Glen, Worcestor",-33.564356,19.433684,P. scabrum,1008,C_Chong,pop
-317,4,E04,fg11,"Fairy Glen, Worcestor",-33.564354,19.433622,P. scabrum,1008,C_Chong,pop
-318,4,F04,fg12,"Fairy Glen, Worcestor",-33.56435,19.43355,P. scabrum,1008,C_Chong,pop
-319,4,G04,FG13,"Fairy Glen, Worcestor",-33.564286,19.432852,P. scabrum,1008,C_Chong,pop
-320,4,H04,fg13,"Fairy Glen, Worcestor",-33.564255,19.432862,P. scabrum,1008,C_Chong,pop
-321,4,A05,FG14,"Fairy Glen, Worcestor",-33.564415,19.432414,P. scabrum,1008,C_Chong,pop
-322,4,B05,FG18,"Fairy Glen, Worcestor",-33.564461,19.432322,P. scabrum,1008,C_Chong,pop
-323,4,C05,FG17,"Fairy Glen, Worcestor",-33.564943,19.431777,P. scabrum,1008,C_Chong,pop
-324,4,D05,FG16,"Fairy Glen, Worcestor",-33.56485,19.431865,P. scabrum,1008,C_Chong,pop
-325,4,E05,FG15,"Fairy Glen, Worcestor",-33.564461,19.432322,P. scabrum,1008,C_Chong,pop
-326,4,F05,FG19,"Fairy Glen, Worcestor",-33.56513,19.431463,P. scabrum,1008,C_Chong,pop
-327,4,G05,FG20,"Fairy Glen, Worcestor",-33.565459,19.431311,P. scabrum,1008,C_Chong,pop
-328,4,H05,FG21,"Fairy Glen, Worcestor",-33.565481,19.431319,P. scabrum,1008,C_Chong,pop
-329,4,A06,FG22,"Fairy Glen, Worcestor",-33.565629,19.431271,P. scabrum,1008,C_Chong,pop
-330,4,B06,FG23,"Fairy Glen, Worcestor",-33.565712,19.431181,P. scabrum,1008,C_Chong,pop
-331,4,C06,FG24,"Fairy Glen, Worcestor",-33.565707,19.431146,P. scabrum,1008,C_Chong,pop
-332,4,D06,FG25,"Fairy Glen, Worcestor",-33.565792,19.431152,P. scabrum,1008,C_Chong,pop
-333,4,E06,FG26,"Fairy Glen, Worcestor",-33.566137,19.43107,P. scabrum,1008,C_Chong,pop
-334,4,F06,FG28,"Fairy Glen, Worcestor",-33.566905,19.431168,P. scabrum,1008,C_Chong,pop
-335,4,G06,FG29,"Fairy Glen, Worcestor",-33.566957,19.431168,P. scabrum,1008,C_Chong,pop
-336,4,H06,fg16,"Fairy Glen, Worcestor",-33.566881,19.431124,P. scabrum,1008,C_Chong,pop
-337,4,A07,FG30,"Fairy Glen, Worcestor",-33.567222,19.43114,P. scabrum,1008,C_Chong,pop
-338,4,B07,FG31,"Fairy Glen, Worcestor",-33.568878,19.431937,P. scabrum,1008,C_Chong,pop
-339,4,C07,FG32,"Fairy Glen, Worcestor",-33.567817,19.431255,P. scabrum,1008,C_Chong,pop
-340,4,D07,FG12,"Fairy Glen, Worcestor",-33.564286,19.433093,P. scabrum,1008,C_Chong,pop
-341,4,E07,FG5,"Fairy Glen, Worcestor",-33.56352,19.435073,P. scabrum,1008,C_Chong,pop
-342,4,F07,FG6,"Fairy Glen, Worcestor",-33.563718,19.435087,P. scabrum,1008,C_Chong,pop
-343,4,G07,FG27,"Fairy Glen, Worcestor",-33.566156,19.431099,P. scabrum,1008,C_Chong,pop
-344,4,H07,fg1,"Fairy Glen, Worcestor",-33.561787,19.435458,P. scabrum,1008,C_Chong,pop
-345,4,A08,fg3,"Fairy Glen, Worcestor",-33.561843,19.434921,P. scabrum,1008,C_Chong,pop
-346,4,B08,fg5,"Fairy Glen, Worcestor",-33.561884,19.43494,P. scabrum,1008,C_Chong,pop
-347,4,C08,fg6,"Fairy Glen, Worcestor",-33.561874,19.434955,P. scabrum,1008,C_Chong,pop
-348,4,D08,fg7,"Fairy Glen, Worcestor",-33.562833,19.434565,P. scabrum,1008,C_Chong,pop
-349,4,E08,fg8,"Fairy Glen, Worcestor",-33.563976,19.434982,P. scabrum,1008,C_Chong,pop
-350,4,F08,fg9,"Fairy Glen, Worcestor",-33.564356,19.433684,P. scabrum,1008,C_Chong,pop
-351,4,G08,fg10,"Fairy Glen, Worcestor",-33.564346,19.433651,P. scabrum,1008,C_Chong,pop
-352,4,H08,fg14,"Fairy Glen, Worcestor",-33.564868,19.431837,P. scabrum,1008,C_Chong,pop
-353,4,A09,MEP1,Meiringspoort,-33.400396,22.559847,P. scabrum,1009,C_Chong,pop
-354,4,B09,ME1,Meiringspoort,-33.400407,22.559843,P. scabrum,1009,C_Chong,pop
-355,4,C09,MEP2,Meiringspoort,-33.400397,22.559827,P. scabrum,1009,C_Chong,pop
-356,4,D09,ME6,Meiringspoort,-33.400022,22.559554,P. scabrum,1009,C_Chong,pop
-357,4,E09,ME2,Meiringspoort,-33.399921,22.559476,P. scabrum,1009,C_Chong,pop
-358,4,F09,ME3,Meiringspoort,-33.399827,22.559392,P. scabrum,1009,C_Chong,pop
-359,4,G09,MEP3,Meiringspoort,-33.399816,22.559357,P. scabrum,1009,C_Chong,pop
-360,4,H09,ME5,Meiringspoort,-33.399817,22.559359,P. scabrum,1009,C_Chong,pop
-361,4,A10,MEP4,Meiringspoort,-33.399777,22.559381,P. scabrum,1009,C_Chong,pop
-362,4,B10,MEP5,Meiringspoort,-33.399754,22.55939,P. scabrum,1009,C_Chong,pop
-363,4,C10,ME12,Meiringspoort,-33.399755,22.559332,P. scabrum,1009,C_Chong,pop
-364,4,D10,ME11,Meiringspoort,-33.399755,22.55933,P. scabrum,1009,C_Chong,pop
-365,4,E10,ME7,Meiringspoort,-33.39972,22.559289,P. scabrum,1009,C_Chong,pop
-366,4,F10,ME8,Meiringspoort,-33.399715,22.559269,P. scabrum,1009,C_Chong,pop
-367,4,G10,ME9,Meiringspoort,-33.3997,22.559276,P. scabrum,1009,C_Chong,pop
-368,4,H10,ME13,Meiringspoort,-33.399574,22.559201,P. scabrum,1009,C_Chong,pop
-369,4,A11,ME14,Meiringspoort,-33.399589,22.559177,P. scabrum,1009,C_Chong,pop
-370,4,B11,MEP6,Meiringspoort,-33.399545,22.559188,P. scabrum,1009,C_Chong,pop
-371,4,C11,ME10,Meiringspoort,-33.399485,22.559101,P. scabrum,1009,C_Chong,pop
-372,4,D11,ME16,Meiringspoort,-33.399495,22.559117,P. scabrum,1009,C_Chong,pop
-373,4,E11,MEP7,Meiringspoort,-33.39948,22.559135,P. scabrum,1009,C_Chong,pop
-374,4,F11,ME15,Meiringspoort,-33.398731,22.558528,P. scabrum,1009,C_Chong,pop
-375,4,G11,MEP8,Meiringspoort,-33.398735,22.55854,P. scabrum,1009,C_Chong,pop
-376,4,H11,ME4,Meiringspoort,-33.399803,22.559366,P. scabrum,1009,C_Chong,pop
-377,4,A12,ME17,Meiringspoort,-33.399506,22.559075,P. scabrum,1009,C_Chong,pop
-378,4,B12,ME18,Meiringspoort,-33.44545,22.56342,P. scabrum,1009,C_Chong,pop
-379,4,C12,SPPB,Meiringspoort,-33.40187,22.56072,P. scabrum_int,1009,C_Chong,pop
-380,4,D12,SPPB,Meiringspoort,-33.40156,22.56078,P. scabrum_int,1009,C_Chong,pop
-381,4,E12,SPPA,Meiringspoort,-33.40104,22.56021,P. hispidum,1009,C_Chong,pop
-382,4,F12,SPPA,Meiringspoort,-33.40047,22.55994,P. hispidum,1009,C_Chong,pop
-383,4,G12,SPPC,Meiringspoort,-33.44547,22.56352,P. ternatum_unkn,1009,C_Chong,pop
-384,4,H12,SPPC,Meiringspoort,-33.44547,22.56349,P. ternatum_unkn,1009,C_Chong,pop
-385,5,A01,M1,Uniondale Pass,-33.674718,23.145064,P. scabrum,1010,C_Chong,pop
-386,5,B01,M10,Uniondale Pass,-33.668859,23.138204,P. scabrum,1010,C_Chong,pop
-387,5,C01,M11,Uniondale Pass,-33.66885,23.13819,P. scabrum,1010,C_Chong,pop
-388,5,D01,M12,Uniondale Pass,-33.668853,23.138158,P. scabrum,1010,C_Chong,pop
-389,5,E01,M13,Uniondale Pass,-33.668824,23.137998,P. scabrum,1010,C_Chong,pop
-390,5,F01,M14,Uniondale Pass,-33.668832,23.137978,P. scabrum,1010,C_Chong,pop
-391,5,G01,M15,Uniondale Pass,-33.668847,23.137951,P. scabrum,1010,C_Chong,pop
-392,5,H01,M16,Uniondale Pass,-33.668855,23.137714,P. scabrum,1010,C_Chong,pop
-393,5,A02,M2,Uniondale Pass,-33.674762,23.145109,P. scabrum,1010,C_Chong,pop
-394,5,B02,M3,Uniondale Pass,-33.674754,23.1451,P. scabrum,1010,C_Chong,pop
-395,5,C02,M4,Uniondale Pass,-33.674526,23.144732,P. scabrum,1010,C_Chong,pop
-396,5,D02,M4A,Uniondale Pass,-33.674103,23.144389,P. scabrum,1010,C_Chong,pop
-397,5,E02,M6,Uniondale Pass,-33.668882,23.138358,P. scabrum,1010,C_Chong,pop
-398,5,F02,M7,Uniondale Pass,-33.668878,23.138363,P. scabrum,1010,C_Chong,pop
-399,5,G02,M8,Uniondale Pass,-33.668873,23.138355,P. scabrum,1010,C_Chong,pop
-400,5,H02,M9,Uniondale Pass,-33.66884,23.138229,P. scabrum,1010,C_Chong,pop
-401,5,A03,UD1,Uniondale Pass,-33.689342,23.150837,P. scabrum,1010,C_Chong,pop
-402,5,B03,UD10,Uniondale Pass,-33.668933,23.138723,P. scabrum,1010,C_Chong,pop
-403,5,C03,UP10_A,Uniondale Pass,-33.689341,23.150847,P. scabrum,1010,C_Chong,pop
-404,5,D03,UD11,Uniondale Pass,-33.668936,23.138717,P. scabrum,1010,C_Chong,pop
-405,5,E03,UD12,Uniondale Pass,-33.668929,23.138693,P. scabrum,1010,C_Chong,pop
-406,5,F03,UD13,Uniondale Pass,-33.668921,23.138649,P. scabrum,1010,C_Chong,pop
-407,5,G03,UD14,Uniondale Pass,-33.668906,23.138615,P. scabrum,1010,C_Chong,pop
-408,5,H03,UD2,Uniondale Pass,-33.686858,23.149665,P. scabrum,1010,C_Chong,pop
-409,5,A04,UD4,Uniondale Pass,-33.674713,23.145066,P. scabrum,1010,C_Chong,pop
-410,5,B04,UD5,Uniondale Pass,-33.674246,23.144497,P. scabrum,1010,C_Chong,pop
-411,5,C04,UD6,Uniondale Pass,-33.674226,23.144484,P. scabrum,1010,C_Chong,pop
-412,5,D04,UD7,Uniondale Pass,-33.674109,23.144425,P. scabrum,1010,C_Chong,pop
-413,5,E04,UD8,Uniondale Pass,-33.668927,23.138724,P. scabrum,1010,C_Chong,pop
-414,5,F04,UP22,Uniondale Pass,-33.676982,23.14687,P. scabrum,1010,C_Chong,pop
-415,5,G04,UP33,Uniondale Pass,-33.677493,23.147551,P. scabrum,1010,C_Chong,pop
-416,5,H04,UP38,Uniondale Pass,-33.66923,23.139731,P. scabrum,1010,C_Chong,pop
-417,5,A05,UP39,Uniondale Pass,-33.669225,23.139596,P. scabrum,1010,C_Chong,pop
-418,5,B05,UP40,Uniondale Pass,-33.669197,23.139629,P. scabrum,1010,C_Chong,pop
-419,5,C05,UP42,Uniondale Pass,-33.669194,23.13961,P. scabrum,1010,C_Chong,pop
-420,5,D05,UP43,Uniondale Pass,-33.669179,23.139595,P. scabrum,1010,C_Chong,pop
-421,5,E05,UP45,Uniondale Pass,-33.668929,23.138693,P. scabrum,1010,C_Chong,pop
-422,5,F05,UD3,Uniondale Pass,-33.675556,23.146234,P. scabrum,1010,C_Chong,pop
-423,5,G05,UP1,Uniondale Pass,-33.693198,23.152244,P. scabrum,1010,C_Chong,pop
-424,5,H05,UP10,Uniondale Pass,-33.691604,23.151179,P. scabrum,1010,C_Chong,pop
-425,5,A06,UP11,Uniondale Pass,-33.687624,23.150078,P. scabrum,1010,C_Chong,pop
-426,5,B06,UP12,Uniondale Pass,-33.68697,23.14978,P. scabrum,1010,C_Chong,pop
-427,5,C06,UP13,Uniondale Pass,-33.68696,23.149773,P. scabrum,1010,C_Chong,pop
-428,5,D06,UP14,Uniondale Pass,-33.68696,23.149771,P. scabrum,1010,C_Chong,pop
-429,5,E06,UP15,Uniondale Pass,-33.686951,23.149768,P. scabrum,1010,C_Chong,pop
-430,5,F06,UP16,Uniondale Pass,-33.686914,23.149728,P. scabrum,1010,C_Chong,pop
-431,5,G06,UP17,Uniondale Pass,-33.68689,23.149727,P. scabrum,1010,C_Chong,pop
-432,5,H06,UP18,Uniondale Pass,-33.686867,23.149716,P. scabrum,1010,C_Chong,pop
-433,5,A07,UP19,Uniondale Pass,-33.686671,23.149528,P. scabrum,1010,C_Chong,pop
-434,5,B07,UP2,Uniondale Pass,-33.693112,23.152163,P. scabrum,1010,C_Chong,pop
-435,5,C07,UP20,Uniondale Pass,-33.676954,23.146846,P. scabrum,1010,C_Chong,pop
-436,5,D07,UP21,Uniondale Pass,-33.676959,23.14685,P. scabrum,1010,C_Chong,pop
-437,5,E07,UP23,Uniondale Pass,-33.677009,23.146886,P. scabrum,1010,C_Chong,pop
-438,5,F07,UP24,Uniondale Pass,-33.677018,23.146908,P. scabrum,1010,C_Chong,pop
-439,5,G07,UP25,Uniondale Pass,-33.677044,23.146913,P. scabrum,1010,C_Chong,pop
-440,5,H07,UP26,Uniondale Pass,-33.677077,23.146929,P. scabrum,1010,C_Chong,pop
-441,5,A08,UP27,Uniondale Pass,-33.677138,23.146991,P. scabrum,1010,C_Chong,pop
-442,5,B08,UP28,Uniondale Pass,-33.677231,23.147032,P. scabrum,1010,C_Chong,pop
-443,5,C08,UP29,Uniondale Pass,-33.677313,23.147132,P. scabrum,1010,C_Chong,pop
-444,5,D08,UP3,Uniondale Pass,-33.691898,23.151213,P. scabrum,1010,C_Chong,pop
-445,5,E08,UP30,Uniondale Pass,-33.677318,23.147191,P. scabrum,1010,C_Chong,pop
-446,5,F08,UP31,Uniondale Pass,-33.677405,23.147352,P. scabrum,1010,C_Chong,pop
-447,5,G08,UP32,Uniondale Pass,-33.677436,23.147443,P. scabrum,1010,C_Chong,pop
-448,5,H08,UP34,Uniondale Pass,-33.675096,23.145599,P. scabrum,1010,C_Chong,pop
-449,5,A09,UP35,Uniondale Pass,-33.674468,23.144694,P. scabrum,1010,C_Chong,pop
-450,5,B09,UP36,Uniondale Pass,-33.674245,23.144497,P. scabrum,1010,C_Chong,pop
-451,5,C09,UP4,Uniondale Pass,-33.691886,23.151214,P. scabrum,1010,C_Chong,pop
-452,5,D09,UP41,Uniondale Pass,-33.669195,23.139624,P. scabrum,1010,C_Chong,pop
-453,5,E09,UP44,Uniondale Pass,-33.669159,23.13957,P. scabrum,1010,C_Chong,pop
-454,5,F09,UP46,Uniondale Pass,-33.668923,23.138633,P. scabrum,1010,C_Chong,pop
-455,5,G09,UP47,Uniondale Pass,-33.668835,23.13861,P. scabrum,1010,C_Chong,pop
-456,5,H09,UP5,Uniondale Pass,-33.691883,23.15121,P. scabrum,1010,C_Chong,pop
-457,5,A10,UP6,Uniondale Pass,-33.69188,23.151212,P. scabrum,1010,C_Chong,pop
-458,5,B10,UP7,Uniondale Pass,-33.691723,23.151197,P. scabrum,1010,C_Chong,pop
-459,5,C10,UP8,Uniondale Pass,-33.691641,23.151169,P. scabrum,1010,C_Chong,pop
-460,5,D10,UP9,Uniondale Pass,-33.691611,23.151172,P. scabrum,1010,C_Chong,pop
-461,5,E10,SPPA_1,Uniondale Pass,-33.68922,23.15087,P. cordifolium,1010,C_Chong,pop
-462,5,F10,SPPA_2,Uniondale Pass,-33.68294,23.15087,P. cordifolium,1010,C_Chong,pop
-463,5,G10,SPPB_1,Uniondale Pass,-33.68914,23.15084,P. zonale,1010,C_Chong,pop
-464,5,H10,SPPB_2,Uniondale Pass,-33.69008,23.15042,P. zonale,1010,C_Chong,pop
-465,5,A11,SPPC_1,Uniondale Pass,-33.68841,23.15051,P. grossularioides,1010,C_Chong,pop
-466,5,B11,SPPC_2,Uniondale Pass,-33.68631,23.14929,P. grossularioides,1010,C_Chong,pop
-467,5,C11,SPPD_1,Uniondale Pass,-33.68628,23.14928,P. caucalifolium,1010,C_Chong,pop
-468,5,D11,SPPD_2,Uniondale Pass,-33.68631,23.14921,P. caucalifolium,1010,C_Chong,pop
-469,5,E11,SPPE_1,Uniondale Pass,-33.69038,23.15069,P. pseudoglutinosum,1010,C_Chong,pop
-470,5,F11,SPPE_2,Uniondale Pass,-33.6904,23.15076,P. pseudoglutinosum,1010,C_Chong,pop
-471,5,G11,SPPF_1,Uniondale Pass,-33.68693,23.14976,P. myrrh_unkn,1010,C_Chong,pop
-472,5,H11,PALCH_1,Uniondale Pass,-33.68645,23.14937,P. alchemillioides_unkn,1010,C_Chong,pop
-473,5,A12,PALCH_2,Uniondale Pass,-33.68708,23.14981,P. alchemillioides_unkn,1010,C_Chong,pop
-474,5,B12,PALCH_3,Uniondale Pass,-33.68594,23.14913,P. alchemillioides_unkn,1010,C_Chong,pop
-475,5,C12,160_A_1,"Middleberg Pass, lower Pass",-32.61885,19.12064,P. scabrum,160_A,C_Chong,pop
-476,5,D12,160_A_2,"Middleberg Pass, lower Pass",-32.61885,19.12064,P. scabrum,160_A,C_Chong,pop
-477,5,E12,160_A_3,"Middleberg Pass, lower Pass",-32.61885,19.12064,P. scabrum,160_A,C_Chong,pop
-478,5,F12,160_A_4,"Middleberg Pass, lower Pass",-32.61885,19.12064,P. scabrum,160_A,C_Chong,pop
-479,5,G12,160_A_5,"Middleberg Pass, lower Pass",-32.61885,19.12064,P. scabrum,160_A,C_Chong,pop
-480,5,H12,160_A_6,"Middleberg Pass, lower Pass",-32.61885,19.12064,P. scabrum,160_A,C_Chong,pop
-481,6,A01,1605,Middleberg Pass,-32.6258,19.13688,P. scabrum,160,C_Chong,pop
-482,6,B01,1606,Middleberg Pass,-32.62586,19.13681,P. scabrum,160,C_Chong,pop
-483,6,C01,1607,Middleberg Pass,-32.62581,19.13676,P. scabrum,160,C_Chong,pop
-484,6,D01,1608,Middleberg Pass,-32.62573,19.13684,P. scabrum,160,C_Chong,pop
-485,6,E01,1609,Middleberg Pass,-32.62554,19.1368,P. scabrum,160,C_Chong,pop
-486,6,F01,1610,Middleberg Pass,-32.62535,19.13683,P. scabrum,160,C_Chong,pop
-487,6,G01,1611,Middleberg Pass,-32.62536,19.13686,P. scabrum,160,C_Chong,pop
-488,6,H01,1612,Middleberg Pass,-32.62539,19.13692,P. scabrum,160,C_Chong,pop
-489,6,A02,M1,"Middelberg Pass, Western Cape",-32.625691,19.135967,P. scabrum,160,C_Chong,pop
-490,6,B02,M2,"Middelberg Pass, Western Cape",-32.625683,19.135963,P. scabrum,160,C_Chong,pop
-491,6,C02,M3,"Middelberg Pass, Western Cape",-32.625679,19.135946,P. scabrum,160,C_Chong,pop
-492,6,D02,M4,"Middelberg Pass, Western Cape",-32.625689,19.135948,P. scabrum,160,C_Chong,pop
-493,6,E02,M5,"Middelberg Pass, Western Cape",-32.625683,19.135923,P. scabrum,160,C_Chong,pop
-494,6,F02,M6,"Middelberg Pass, Western Cape",-32.625679,19.135922,P. scabrum,160,C_Chong,pop
-495,6,G02,M7,"Middelberg Pass, Western Cape",-32.625696,19.135905,P. scabrum,160,C_Chong,pop
-496,6,H02,M8,"Middelberg Pass, Western Cape",-32.625721,19.135911,P. scabrum,160,C_Chong,pop
-497,6,A03,M9,"Middelberg Pass, Western Cape",-32.625725,19.135907,P. scabrum,160,C_Chong,pop
-498,6,B03,M10,"Middelberg Pass, Western Cape",-32.625712,19.135877,P. scabrum,160,C_Chong,pop
-499,6,C03,M11,"Middelberg Pass, Western Cape",-32.625691,19.135889,P. scabrum,160,C_Chong,pop
-500,6,D03,M12,"Middelberg Pass, Western Cape",-32.625694,19.135873,P. scabrum,160,C_Chong,pop
-501,6,E03,M13,"Middelberg Pass, Western Cape",-32.625634,19.135861,P. scabrum,160,C_Chong,pop
-502,6,F03,M14,"Middelberg Pass, Western Cape",-32.625629,19.135882,P. scabrum,160,C_Chong,pop
-503,6,G03,M15,"Middelberg Pass, Western Cape",-32.62558,19.135827,P. scabrum,160,C_Chong,pop
-504,6,H03,M16,"Middelberg Pass, Western Cape",-32.625546,19.13581,P. scabrum,160,C_Chong,pop
-505,6,A04,M17,"Middelberg Pass, Western Cape",-32.625538,19.135813,P. scabrum,160,C_Chong,pop
-506,6,B04,M18,"Middelberg Pass, Western Cape",-32.625561,19.135996,P. scabrum,160,C_Chong,pop
-507,6,C04,M19,"Middelberg Pass, Western Cape",-32.625447,19.136412,P. scabrum,160,C_Chong,pop
-508,6,D04,M20,"Middelberg Pass, Western Cape",-32.625439,19.136315,P. scabrum,160,C_Chong,pop
-509,6,E04,M21,"Middelberg Pass, Western Cape",-32.625459,19.136373,P. scabrum,160,C_Chong,pop
-510,6,F04,M22,"Middelberg Pass, Western Cape",-32.625447,19.136412,P. scabrum,160,C_Chong,pop
-511,6,G04,M23,"Middelberg Pass, Western Cape",-32.625464,19.136427,P. scabrum,160,C_Chong,pop
-512,6,H04,M24,"Middelberg Pass, Western Cape",-32.625463,19.136421,P. scabrum,160,C_Chong,pop
-513,6,A05,M25,"Middelberg Pass, Western Cape",-32.625459,19.136453,P. scabrum,160,C_Chong,pop
-514,6,B05,M26,"Middelberg Pass, Western Cape",-32.625025,19.136156,P. scabrum,160,C_Chong,pop
-515,6,C05,M27,"Middelberg Pass, Western Cape",-32.624947,19.13615,P. scabrum,160,C_Chong,pop
-516,6,D05,M28,"Middelberg Pass, Western Cape",-32.624741,19.136149,P. scabrum,160,C_Chong,pop
-517,6,E05,M29,"Middelberg Pass, Western Cape",-32.62471,19.136015,P. scabrum,160,C_Chong,pop
-518,6,F05,M30,"Middelberg Pass, Western Cape",-32.624705,19.136031,P. scabrum,160,C_Chong,pop
-519,6,G05,M31,"Middelberg Pass, Western Cape",-32.625179,19.136996,P. scabrum,160,C_Chong,pop
-520,6,H05,M32_A,"Middelberg Pass, Western Cape",-32.625241,19.137014,P. scabrum,160,C_Chong,pop
-521,6,A06,M32_B,"Middelberg Pass, Western Cape",-32.625205,19.136943,P. scabrum,160,C_Chong,pop
-522,6,B06,M33,"Middelberg Pass, Western Cape",-32.625182,19.136915,P. scabrum,160,C_Chong,pop
-523,6,C06,M34,"Middelberg Pass, Western Cape",-32.625157,19.136929,P. scabrum,160,C_Chong,pop
-524,6,D06,M35,"Middelberg Pass, Western Cape",-32.625138,19.136958,P. scabrum,160,C_Chong,pop
-525,6,E06,MG1,"Middelberg Pass, Western Cape",-32.623809,19.135461,P. scabrum,160,C_Chong,pop
-526,6,F06,MG2,"Middelberg Pass, Western Cape",-32.623879,19.135485,P. scabrum,160,C_Chong,pop
-527,6,G06,MG4,"Middelberg Pass, Western Cape",-32.623918,19.135506,P. scabrum,160,C_Chong,pop
-528,6,H06,MG5,"Middelberg Pass, Western Cape",-32.623927,19.135513,P. scabrum,160,C_Chong,pop
-529,6,A07,int1,"Middelberg Pass, Western Cape",-32.62494,19.13618,P. scabrum_unkn,160,C_Chong,pop
-530,6,B07,int2,"Middelberg Pass, Western Cape",-32.62534,19.13655,P. scabrum_unkn,160,C_Chong,pop
-531,6,C07,int3,"Middelberg Pass, Western Cape",-32.62463,19.13595,P. scabrum_unkn,160,C_Chong,pop
-532,6,D07,MG3,"Middelberg Pass, Western Cape",-32.623894,19.135459,P. scabrum_unkn,160,C_Chong,pop
-533,6,E07,MG6,"Middelberg Pass, Western Cape",-32.624034,19.135549,P. scabrum_unkn,160,C_Chong,pop
-534,6,F07,MG16,"Middelberg Pass, Western Cape",-32.624279,19.135682,P. scabrum_unkn,160,C_Chong,pop
-535,6,G07,MG17,"Middelberg Pass, Western Cape",-32.624285,19.135715,P. scabrum_unkn,160,C_Chong,pop
-536,6,H07,MG18,"Middelberg Pass, Western Cape",-32.624287,19.135719,P. scabrum_unkn,160,C_Chong,pop
-537,6,A08,MG21,"Middelberg Pass, Western Cape",-32.624347,19.135758,P. scabrum_unkn,160,C_Chong,pop
-538,6,B08,MG22_B,"Middelberg Pass, Western Cape",-32.624421,19.135826,P. scabrum_unkn,160,C_Chong,pop
-539,6,C08,MG23,"Middelberg Pass, Western Cape",-32.624371,19.13579,P. scabrum_unkn,160,C_Chong,pop
-540,6,D08,MG25,"Middelberg Pass, Western Cape",-32.624421,19.135826,P. scabrum_unkn,160,C_Chong,pop
-541,6,E08,MG27,"Middelberg Pass, Western Cape",-32.624437,19.135813,P. scabrum_unkn,160,C_Chong,pop
-542,6,F08,MG28,"Middelberg Pass, Western Cape",-32.624434,19.135812,P. scabrum_unkn,160,C_Chong,pop
-543,6,G08,MG30,"Middelberg Pass, Western Cape",-32.624434,19.135847,P. scabrum_unkn,160,C_Chong,pop
-544,6,H08,MG31,"Middelberg Pass, Western Cape",-32.624471,19.135848,P. scabrum_unkn,160,C_Chong,pop
-545,6,A09,MG33,"Middelberg Pass, Western Cape",-32.624485,19.135873,P. scabrum_unkn,160,C_Chong,pop
-546,6,B09,MG36,"Middelberg Pass, Western Cape",-32.624545,19.135873,P. scabrum_unkn,160,C_Chong,pop
-547,6,C09,MG37,"Middelberg Pass, Western Cape",-32.624559,19.135875,P. scabrum_unkn,160,C_Chong,pop
-548,6,D09,MG38,"Middelberg Pass, Western Cape",-32.62458,19.135892,P. scabrum_unkn,160,C_Chong,pop
-549,6,E09,MG49,"Middelberg Pass, Western Cape",-32.624936,19.136191,P. scabrum_unkn,160,C_Chong,pop
-550,6,F09,MG50,"Middelberg Pass, Western Cape",-32.624945,19.136176,P. scabrum_unkn,160,C_Chong,pop
-551,6,G09,MG53,"Middelberg Pass, Western Cape",-32.624955,19.136175,P. scabrum_unkn,160,C_Chong,pop
-552,6,H09,MG48,"Middelberg Pass, Western Cape",-32.624854,19.13613,P. scabrum_unkn,160,C_Chong,pop
-553,6,A10,MG51,"Middelberg Pass, Western Cape",-32.624936,19.136196,P. scabrum_unkn,160,C_Chong,pop
-554,6,B10,MG7,"Middelberg Pass, Western Cape",-32.624074,19.135574,P. scabrum,160,C_Chong,pop
-555,6,C10,MG8,"Middelberg Pass, Western Cape",-32.62409,19.135583,P. scabrum,160,C_Chong,pop
-556,6,D10,MG9,"Middelberg Pass, Western Cape",-32.624112,19.135549,P. scabrum,160,C_Chong,pop
-557,6,E10,MG10,"Middelberg Pass, Western Cape",-32.624136,19.135586,P. scabrum,160,C_Chong,pop
-558,6,F10,MG11,"Middelberg Pass, Western Cape",-32.624129,19.135609,P. scabrum,160,C_Chong,pop
-559,6,G10,MG12,"Middelberg Pass, Western Cape",-32.624139,19.135618,P. scabrum,160,C_Chong,pop
-560,6,H10,MG13,"Middelberg Pass, Western Cape",-32.624174,19.135613,P. scabrum,160,C_Chong,pop
-561,6,A11,MG14,"Middelberg Pass, Western Cape",-32.624192,19.135589,P. scabrum,160,C_Chong,pop
-562,6,B11,MG15,"Middelberg Pass, Western Cape",-32.624171,19.135612,P. scabrum,160,C_Chong,pop
-563,6,C11,MG19,"Middelberg Pass, Western Cape",-32.624296,19.135734,P. scabrum,160,C_Chong,pop
-564,6,D11,MG20,"Middelberg Pass, Western Cape",-32.624322,19.135764,P. scabrum,160,C_Chong,pop
-565,6,E11,MG22_A,"Middelberg Pass, Western Cape",-32.62438,19.135766,P. scabrum,160,C_Chong,pop
-566,6,F11,MG24,"Middelberg Pass, Western Cape",-32.62439,19.135799,P. scabrum,160,C_Chong,pop
-567,6,G11,MG26,"Middelberg Pass, Western Cape",-32.624424,19.135815,P. scabrum,160,C_Chong,pop
-568,6,H11,MG29,"Middelberg Pass, Western Cape",-32.624435,19.135839,P. scabrum,160,C_Chong,pop
-569,6,A12,MG32,"Middelberg Pass, Western Cape",-32.624475,19.135875,P. scabrum,160,C_Chong,pop
-570,6,B12,MG34,"Middelberg Pass, Western Cape",-32.624516,19.135899,P. scabrum,160,C_Chong,pop
-571,6,C12,MG35,"Middelberg Pass, Western Cape",-32.624547,19.135909,P. scabrum,160,C_Chong,pop
-572,6,D12,MG39,"Middelberg Pass, Western Cape",-32.624618,19.135936,P. scabrum,160,C_Chong,pop
-573,6,E12,MG40,"Middelberg Pass, Western Cape",-32.62462,19.135936,P. scabrum,160,C_Chong,pop
-574,6,F12,MG41,"Middelberg Pass, Western Cape",-32.624632,19.135949,P. scabrum,160,C_Chong,pop
-575,6,G12,MG42_A,"Middelberg Pass, Western Cape",-32.624647,19.135961,P. scabrum,160,C_Chong,pop
-576,6,H12,MG42_B,"Middelberg Pass, Western Cape",-32.624668,19.135965,P. scabrum,160,C_Chong,pop
-577,7,A01,MG43,"Middelberg Pass, Western Cape",-32.624659,19.135985,P. scabrum,160,C_Chong,pop
-578,7,B01,MG44,"Middelberg Pass, Western Cape",-32.624658,19.13602,P. scabrum,160,C_Chong,pop
-579,7,C01,MG45,"Middelberg Pass, Western Cape",-32.624743,19.136053,P. scabrum,160,C_Chong,pop
-580,7,D01,MG46,"Middelberg Pass, Western Cape",-32.624783,19.136066,P. scabrum,160,C_Chong,pop
-581,7,E01,MG47,"Middelberg Pass, Western Cape",-32.624812,19.136086,P. scabrum,160,C_Chong,pop
-582,7,F01,MG52,"Middelberg Pass, Western Cape",-32.624943,19.136203,P. scabrum,160,C_Chong,pop
-583,7,G01,MG54_A,"Middelberg Pass, Western Cape",-32.625014,19.136207,P. scabrum,160,C_Chong,pop
-584,7,H01,MG54_B,"Middelberg Pass, Western Cape",-32.625611,19.135844,P. scabrum,160,C_Chong,pop
-585,7,A02,MG56,"Middelberg Pass, lower pass, Western Cape",-32.630584,19.071573,P. scabrum,160,C_Chong,pop
-586,7,B02,MG57,"Middelberg Pass, lower pass, Western Cape",-32.630576,19.071595,P. scabrum,160,C_Chong,pop
-587,7,C02,MG58,"Middelberg Pass, lower pass, Western Cape",-32.63058,19.071881,P. scabrum,160,C_Chong,pop
-588,7,D02,MG59,"Middelberg Pass, lower pass, Western Cape",-32.630705,19.072106,P. scabrum,160,C_Chong,pop
-589,7,E02,MG60,"Middelberg Pass, lower pass, Western Cape",-32.63058,19.072138,P. scabrum,160,C_Chong,pop
-590,7,F02,MB1,"Elandskloof Rd, Western Cape",-32.135252,18.961,P. scabrum,294,C_Chong,pop
-591,7,G02,MB2,"Elandskloof Rd, Western Cape",-32.632528,19.120066,P. scabrum,294,C_Chong,pop
-592,7,H02,MB3,"Elandskloof Rd, Western Cape",-32.632387,19.12,P. scabrum,294,C_Chong,pop
-593,7,A03,MB4,"Elandskloof Rd, Western Cape",-32.632339,19.120116,P. scabrum,294,C_Chong,pop
-594,7,B03,MB5,"Elandskloof Rd, Western Cape",-32.632389,19.119985,P. scabrum,294,C_Chong,pop
-595,7,C03,MB6,"Elandskloof Rd, Western Cape",-32.632303,19.12006,P. scabrum,294,C_Chong,pop
-596,7,D03,MB7,"Elandskloof Rd, Western Cape",-32.632414,19.119969,P. scabrum,294,C_Chong,pop
-597,7,E03,MB8,"Elandskloof Rd, Western Cape",-32.632462,19.11994,P. scabrum,294,C_Chong,pop
-598,7,F03,MB9,"Elandskloof Rd, Western Cape",-32.632413,19.11991,P. scabrum,294,C_Chong,pop
-599,7,G03,MB10,"Elandskloof Rd, Western Cape",-32.632576,19.119895,P. scabrum,294,C_Chong,pop
-600,7,H03,MB11,"Elandskloof Rd, Western Cape",-32.632395,19.119824,P. scabrum,294,C_Chong,pop
-601,7,A04,MB12,"Elandskloof Rd, Western Cape",-32.632613,19.119904,P. scabrum,294,C_Chong,pop
-602,7,B04,MB13,"Elandskloof Rd, Western Cape",-32.632709,19.119924,P. scabrum,294,C_Chong,pop
-603,7,C04,MB14,"Elandskloof Rd, Western Cape",-32.632901,19.119935,P. scabrum,294,C_Chong,pop
-604,7,D04,MB15,"Elandskloof Rd, Western Cape",-32.632814,19.119953,P. scabrum,294,C_Chong,pop
-605,7,E04,MB16,"Elandskloof Rd, Western Cape",-32.633009,19.120036,P. scabrum,294,C_Chong,pop
-606,7,F04,ORW10,Pakhuis Pass Old Rd West,-32.135016,18.961109,P. scabrum,1011,C_Chong,pop
-607,7,G04,ORW11,Pakhuis Pass Old Rd West,-32.134985,18.961193,P. scabrum,1011,C_Chong,pop
-608,7,H04,ORW12,Pakhuis Pass Old Rd West,-32.134979,18.961257,P. scabrum,1011,C_Chong,pop
-609,7,A05,ORW14,Pakhuis Pass Old Rd West,-32.13493,18.961301,P. scabrum,1011,C_Chong,pop
-610,7,B05,ORW15,Pakhuis Pass Old Rd West,-32.134911,18.961357,P. scabrum,1011,C_Chong,pop
-611,7,C05,ORW16,Pakhuis Pass Old Rd West,-32.135302,18.96106,P. scabrum,1011,C_Chong,pop
-612,7,D05,ORW17,Pakhuis Pass Old Rd West,-32.135251,18.961499,P. scabrum,1011,C_Chong,pop
-613,7,E05,ORW18,Pakhuis Pass Old Rd West,-32.135269,18.961476,P. scabrum,1011,C_Chong,pop
-614,7,F05,ORW2,Pakhuis Pass Old Rd West,-32.135056,18.961102,P. scabrum,1011,C_Chong,pop
-615,7,G05,ORW21,Pakhuis Pass Old Rd West,-32.13539,18.961209,P. scabrum,1011,C_Chong,pop
-616,7,H05,ORW24,Pakhuis Pass Old Rd West,-32.135528,18.961117,P. scabrum,1011,C_Chong,pop
-617,7,A06,ORW25,Pakhuis Pass Old Rd West,-32.135548,18.961121,P. scabrum,1011,C_Chong,pop
-618,7,B06,ORW5,Pakhuis Pass Old Rd West,-32.1351,18.961102,P. scabrum,1011,C_Chong,pop
-619,7,C06,ORW6,Pakhuis Pass Old Rd West,-32.13501,18.961155,P. scabrum,1011,C_Chong,pop
-620,7,D06,ORW7,Pakhuis Pass Old Rd West,-32.135009,18.961159,P. scabrum,1011,C_Chong,pop
-621,7,E06,ORW8,Pakhuis Pass Old Rd West,-32.135008,18.961155,P. scabrum,1011,C_Chong,pop
-622,7,F06,ORW9,Pakhuis Pass Old Rd West,-32.135007,18.961146,P. scabrum,1011,C_Chong,pop
-623,7,G06,ORW1,Pakhuis Pass Old Rd West,-32.135307,18.96107,P. scabrum,1011,C_Chong,pop
-624,7,H06,ORW13,Pakhuis Pass Old Rd West,-32.134971,18.961255,P. scabrum,1011,C_Chong,pop
-625,7,A07,ORW19,Pakhuis Pass Old Rd West,-32.13509,18.961433,P. scabrum,1011,C_Chong,pop
-626,7,B07,ORW20,Pakhuis Pass Old Rd West,-32.135326,18.961255,P. scabrum,1011,C_Chong,pop
-627,7,C07,ORW22,Pakhuis Pass Old Rd West,-32.135084,18.961435,P. scabrum,1011,C_Chong,pop
-628,7,D07,ORW23,Pakhuis Pass Old Rd West,-32.135398,18.961029,P. scabrum,1011,C_Chong,pop
-629,7,E07,ORW3,Pakhuis Pass Old Rd West,-32.135163,18.961123,P. scabrum,1011,C_Chong,pop
-630,7,F07,ORW4,Pakhuis Pass Old Rd West,-32.135094,18.961111,P. scabrum,1011,C_Chong,pop
-631,7,G07,PK_A,Pakhuis Pass,-32.135477,19.00016,P. scabrum,1012,C_Chong,pop
-632,7,H07,PK_B,Pakhuis Pass,-32.135474,19.000197,P. scabrum,1012,C_Chong,pop
-633,7,A08,PK_C,Pakhuis Pass,-32.135485,19.000273,P. scabrum,1012,C_Chong,pop
-634,7,B08,PK_D,Pakhuis Pass,-32.135477,19.00032,P. scabrum,1012,C_Chong,pop
-635,7,C08,PK1,Pakhuis Pass,-32.135847,18.999316,P. scabrum,1012,C_Chong,pop
-636,7,D08,PK11,Pakhuis Pass,-32.135721,18.999115,P. scabrum,1012,C_Chong,pop
-637,7,E08,PK12,Pakhuis Pass,-32.135775,18.99908,P. scabrum,1012,C_Chong,pop
-638,7,F08,PK13,Pakhuis Pass,-32.135745,18.9991,P. scabrum,1012,C_Chong,pop
-639,7,G08,PK15,Pakhuis Pass,-32.135754,18.999119,P. scabrum,1012,C_Chong,pop
-640,7,H08,PK17,Pakhuis Pass,-32.135822,18.998971,P. scabrum,1012,C_Chong,pop
-641,7,A09,PK18,Pakhuis Pass,-32.135817,18.998896,P. scabrum,1012,C_Chong,pop
-642,7,B09,PK19,Pakhuis Pass,-32.135715,18.999099,P. scabrum,1012,C_Chong,pop
-643,7,C09,PK20,Pakhuis Pass,-32.135774,18.999076,P. scabrum,1012,C_Chong,pop
-644,7,D09,PK21,Pakhuis Pass,-32.135716,18.999106,P. scabrum,1012,C_Chong,pop
-645,7,E09,PK23,Pakhuis Pass,-32.135738,18.999111,P. scabrum,1012,C_Chong,pop
-646,7,F09,PK24,Pakhuis Pass,-32.135955,18.9994,P. scabrum,1012,C_Chong,pop
-647,7,G09,PK4,Pakhuis Pass,-32.135768,18.9992,P. scabrum,1012,C_Chong,pop
-648,7,H09,PK5_A,Pakhuis Pass,-32.135928,18.999361,P. scabrum,1012,C_Chong,pop
-649,7,A10,PK5_B,Pakhuis Pass,-32.13581,18.999349,P. scabrum,1012,C_Chong,pop
-650,7,B10,PK6,Pakhuis Pass,-32.135777,18.999152,P. scabrum,1012,C_Chong,pop
-651,7,C10,PK7,Pakhuis Pass,-32.135731,18.999159,P. scabrum,1012,C_Chong,pop
-652,7,D10,PK8,Pakhuis Pass,-32.135768,18.999117,P. scabrum,1012,C_Chong,pop
-653,7,E10,PK10,Pakhuis Pass,-32.135767,18.999216,P. scabrum,1012,C_Chong,pop
-654,7,F10,PK14,Pakhuis Pass,-32.13584,18.999029,P. scabrum,1012,C_Chong,pop
-655,7,G10,PK16,Pakhuis Pass,-32.135829,18.999004,P. scabrum,1012,C_Chong,pop
-656,7,H10,PK2,Pakhuis Pass,-32.135844,18.999314,P. scabrum,1012,C_Chong,pop
-657,7,A11,PK22,Pakhuis Pass,-32.135774,18.999075,P. scabrum,1012,C_Chong,pop
-658,7,B11,PK3,Pakhuis Pass,-32.135945,18.99938,P. scabrum,1012,C_Chong,pop
-659,7,C11,PK9,Pakhuis Pass,-32.135789,18.99921,P. scabrum,1012,C_Chong,pop
-660,7,D11,PH10,Pakhuis Pass,-32.135952,18.997348,P. scabrum,1012,C_Chong,pop
-661,7,E11,PH13,Pakhuis Pass,-32.135751,18.997545,P. scabrum,1012,C_Chong,pop
-662,7,F11,PH14,Pakhuis Pass,-32.135765,18.997523,P. scabrum,1012,C_Chong,pop
-663,7,G11,PH16,Pakhuis Pass,-32.135896,18.997209,P. scabrum,1012,C_Chong,pop
-664,7,H11,PH2,Pakhuis Pass,-32.135265,18.99913,P. scabrum,1012,C_Chong,pop
-665,7,A12,PH3,Pakhuis Pass,-32.135248,18.999123,P. scabrum,1012,C_Chong,pop
-666,7,B12,PH5,Pakhuis Pass,-32.135244,18.999163,P. scabrum,1012,C_Chong,pop
-667,7,C12,PH6,Pakhuis Pass,-32.135268,18.999164,P. scabrum,1012,C_Chong,pop
-668,7,D12,PH1,Pakhuis Pass,-32.13528,18.999143,P. scabrum,1012,C_Chong,pop
-669,7,E12,PH11,Pakhuis Pass,-32.135983,18.997258,P. scabrum,1012,C_Chong,pop
-670,7,F12,PH12,Pakhuis Pass,-32.135948,18.997239,P. scabrum,1012,C_Chong,pop
-671,7,G12,PH15,Pakhuis Pass,-32.135901,18.997219,P. scabrum,1012,C_Chong,pop
-672,7,H12,PH17,Pakhuis Pass,-32.135843,18.997225,P. scabrum,1012,C_Chong,pop
-673,8,A01,PH18,Pakhuis Pass,-32.135826,18.997195,P. scabrum,1012,C_Chong,pop
-674,8,B01,PH19,Pakhuis Pass,-32.135827,18.997189,P. scabrum,1012,C_Chong,pop
-675,8,C01,PH20,Pakhuis Pass,-32.135837,18.997174,P. scabrum,1012,C_Chong,pop
-676,8,D01,PH21,Pakhuis Pass,-32.135846,18.99717,P. scabrum,1012,C_Chong,pop
-677,8,E01,PH22,Pakhuis Pass,-32.135761,18.997107,P. scabrum,1012,C_Chong,pop
-678,8,F01,PH23,Pakhuis Pass,-32.135766,18.997071,P. scabrum,1012,C_Chong,pop
-679,8,G01,PH4,Pakhuis Pass,-32.135263,18.999156,P. scabrum,1012,C_Chong,pop
-680,8,H01,PH7,Pakhuis Pass,-32.1358,18.997706,P. scabrum,1012,C_Chong,pop
-681,8,A02,PH8,Pakhuis Pass,-32.135825,18.997685,P. scabrum,1012,C_Chong,pop
-682,8,B02,PH9,Pakhuis Pass,-32.135844,18.997604,P. scabrum,1012,C_Chong,pop
-683,8,C02,LG12,"Pakhuis Pass, Leipoldt's Grave",-32.135704,18.990905,P. scabrum,1012,C_Chong,pop
-684,8,D02,LG13,"Pakhuis Pass, Leipoldt's Grave",-32.135649,18.990579,P. scabrum,1012,C_Chong,pop
-685,8,E02,LG17,"Pakhuis Pass, Leipoldt's Grave",-32.135593,18.991217,P. scabrum,1012,C_Chong,pop
-686,8,F02,LG28,"Pakhuis Pass, Leipoldt's Grave",-32.135713,18.991196,P. scabrum,1012,C_Chong,pop
-687,8,G02,LG5,"Pakhuis Pass, Leipoldt's Grave",-32.135732,18.990691,P. scabrum,1012,C_Chong,pop
-688,8,H02,LG15,"Pakhuis Pass, Leipoldt's Grave",-32.135618,18.991244,P. scabrum,1012,C_Chong,pop
-689,8,A03,LG16,"Pakhuis Pass, Leipoldt's Grave",-32.135619,18.991241,P. scabrum,1012,C_Chong,pop
-690,8,B03,LG18,"Pakhuis Pass, Leipoldt's Grave",-32.135594,18.991176,P. scabrum,1012,C_Chong,pop
-691,8,C03,LG19,"Pakhuis Pass, Leipoldt's Grave",-32.135595,18.991178,P. scabrum,1012,C_Chong,pop
-692,8,D03,LG20,"Pakhuis Pass, Leipoldt's Grave",-32.135628,18.991286,P. scabrum,1012,C_Chong,pop
-693,8,E03,LG9,"Pakhuis Pass, Leipoldt's Grave",-32.135747,18.990636,P. scabrum,1012,C_Chong,pop
-694,8,F03,160A_8,"Middleberg Pass, lower Pass",-32.61885,19.12064,P. scabrum,160_A,C_Chong,pop
-695,8,G03,160A_9,"Middleberg Pass, lower Pass",-32.61885,19.12064,P. scabrum,160_A,C_Chong,pop
-696,8,H03,160A_10,"Middleberg Pass, lower Pass",-32.61885,19.12064,P. scabrum,160_A,C_Chong,pop
-697,8,A04,carn_144_1,Cederberg NR: rd to Algeria from Clanwilliam,-32.25988,18.9675,P. carnosum,144,C_Chong,pop
-698,8,B04,carn_144_2,Cederberg NR: rd to Algeria from Clanwilliam,-32.26032,18.96779,P. carnosum,144,C_Chong,pop
-699,8,C04,carn_144_3,Cederberg NR: rd to Algeria from Clanwilliam,-32.26045,18.96789,P. carnosum,144,C_Chong,pop
-700,8,D04,carn_144_4,Cederberg NR: rd to Algeria from Clanwilliam,-32.25988,18.96745,P. carnosum,144,C_Chong,pop
-701,8,E04,carn_144_5,Cederberg NR: rd to Algeria from Clanwilliam,-32.2599,18.96747,P. carnosum,144,C_Chong,pop
-702,8,F04,carn_144_6,Cederberg NR: rd to Algeria from Clanwilliam,-32.25993,18.96752,P. carnosum,144,C_Chong,pop
-703,8,G04,carn_144_7,Cederberg NR: rd to Algeria from Clanwilliam,-32.25984,18.96751,P. carnosum,144,C_Chong,pop
-704,8,H04,carn_144_8,Cederberg NR: rd to Algeria from Clanwilliam,-32.25986,18.96747,P. carnosum,144,C_Chong,pop
-705,8,A05,carn_293_3,Elandskloof,-32.43021,18.95307,P. carnosum,293,C_Chong,pop
-706,8,B05,carn_288_2,Calvinia: 10km on Loriesfontein Rd,-31.459772,19.661594,P. carnosum,288,C_Schlichting,pop
-707,8,C05,carn_29_2,Springbok Mtn,-29.659283,17.881783,P. carnosum,29,C_Schlichting,pop
-708,8,D05,carn_2,Piketberg: Versveld Pass middle,-32.85463,18.74048,P. carnosum,299,C_Schlichting,pop
-709,8,E05,carnunk_142,Naries,-29.69088,17.6651,P. carnosum _unkn,142,C_Chong,pop
-710,8,F05,carnpulch_142,Naries,-29.69089,17.66511,P. carnosum_pulchellum_unkn,142,C_Chong,pop
-711,8,G05,carnunk_142_2,Naries,-29.68052,17.67994,P. carnosum_unkn,142,C_Chong,pop
-712,8,H05,carn_142_1,Naries,-29.69819,17.66842,P. carnosum,142,C_Chong,pop
-713,8,A06,carn_142_2,Naries,-29.69075,17.665052,P. carnosum,142,C_Chong,pop
-714,8,B06,carn_142_3,Naries,-29.690727,17.665068,P. carnosum,142,C_Chong,pop
-715,8,C06,carn_142_4,Naries,-29.690729,17.665014,P. carnosum,142,C_Chong,pop
-716,8,D06,carn_142_5,Naries,-29.690727,17.664814,P. carnosum,142,C_Chong,pop
-717,8,E06,carn_142_6,Naries,-29.691408,17.664564,P. carnosum,142,C_Chong,pop
-718,8,F06,carn_142_7,Naries,-29.69126,17.664299,P. carnosum,142,C_Chong,pop
-719,8,G06,carn_142_8,Naries,-29.691211,17.664217,P. carnosum,142,C_Chong,pop
-720,8,H06,carn_142_9,Naries,-29.691413,17.664639,P. carnosum,142,C_Chong,pop
-721,8,A07,carn_142_10,Naries,-29.693381,17.663048,P. carnosum,142,C_Chong,pop
-722,8,B07,myrh_142_1,Naries,-29.69083,17.66478,P. carnosum_myrrh,142,C_Chong,pop
-723,8,C07,myrh_142_2,Naries,-29.69083,17.66481,P. carnosum_myrrh,142,C_Chong,pop
-724,8,D07,ark_1,"Arkoep, N Cape",-30.136826,17.932517,P. carnosum,arkoep1,C_Chong,pop
-725,8,E07,ark_2,"Arkoep, N Cape",-30.136845,17.932487,P. carnosum,arkoep1,C_Chong,pop
-726,8,F07,ark_3,"Arkoep, N Cape",-30.136842,17.932484,P. carnosum,arkoep1,C_Chong,pop
-727,8,G07,ark_4,"Arkoep, N Cape",-30.136836,17.932473,P. carnosum,arkoep1,C_Chong,pop
-728,8,H07,ark_5,"Arkoep, N Cape",-30.136834,17.932471,P. carnosum,arkoep1,C_Chong,pop
-729,8,A08,ark_6,"Arkoep, N Cape",-30.13697,17.932441,P. carnosum,arkoep1,C_Chong,pop
-730,8,B08,ark_7,"Arkoep, N Cape",-30.136974,17.932433,P. carnosum,arkoep1,C_Chong,pop
-731,8,C08,ark_8,"Arkoep, N Cape",-30.13703,17.932386,P. carnosum,arkoep1,C_Chong,pop
-732,8,D08,ark_9,"Arkoep, N Cape",-30.137252,17.932386,P. carnosum,arkoep1,C_Chong,pop
-733,8,E08,ark_10,"Arkoep, N Cape",-30.13724,17.932378,P. carnosum,arkoep1,C_Chong,pop
-734,8,F08,ark_11,"Arkoep, N Cape",-30.137236,17.932375,P. carnosum,arkoep1,C_Chong,pop
-735,8,G08,ark_12,"Arkoep, N Cape",-30.137193,17.932472,P. carnosum,arkoep1,C_Chong,pop
-736,8,H08,ark_13,"Arkoep, N Cape",-30.137185,17.932486,P. carnosum,arkoep1,C_Chong,pop
-737,8,A09,ark_14,"Arkoep, N Cape",-30.137184,17.932503,P. carnosum,arkoep1,C_Chong,pop
-738,8,B09,ark_15,"Arkoep, N Cape",-30.137162,17.932501,P. carnosum,arkoep1,C_Chong,pop
-739,8,C09,ark_16,"Arkoep, N Cape",-30.137157,17.932514,P. carnosum,arkoep1,C_Chong,pop
-740,8,D09,ark_17,"Arkoep, N Cape",-30.137142,17.932551,P. carnosum,arkoep1,C_Chong,pop
-741,8,E09,ark_18,"Arkoep, N Cape",-30.137028,17.932635,P. carnosum,arkoep1,C_Chong,pop
-742,8,F09,ark_19,"Arkoep, N Cape",-30.137028,17.932673,P. carnosum,arkoep1,C_Chong,pop
-743,8,G09,ark_20,"Arkoep, N Cape",-30.136998,17.932755,P. carnosum,arkoep1,C_Chong,pop
-744,8,H09,ark_21,"Arkoep, N Cape",-30.136976,17.932858,P. carnosum,arkoep1,C_Chong,pop
-745,8,A10,ark_22,"Arkoep, N Cape",-30.136965,17.932847,P. carnosum,arkoep1,C_Chong,pop
-746,8,B10,ark_23,"Arkoep, N Cape",-30.136883,17.932846,P. carnosum,arkoep1,C_Chong,pop
-747,8,C10,ark_24,"Arkoep, N Cape",-30.136882,17.932823,P. carnosum,arkoep1,C_Chong,pop
-748,8,D10,ark_25,"Arkoep, N Cape",-30.136861,17.932803,P. carnosum,arkoep1,C_Chong,pop
-749,8,E10,ark_26,"Arkoep, N Cape",-30.13686,17.932794,P. carnosum,arkoep1,C_Chong,pop
-750,8,F10,ark_27,"Arkoep, N Cape",-30.136914,17.932816,P. carnosum,arkoep1,C_Chong,pop
-751,8,G10,ark_28,"Arkoep, N Cape",-30.136874,17.932917,P. carnosum,arkoep1,C_Chong,pop
-752,8,H10,ark_29,"Arkoep, N Cape",-30.136874,17.93292,P. carnosum,arkoep1,C_Chong,pop
-753,8,A11,ark_30,"Arkoep, N Cape",-30.136681,17.933036,P. carnosum,arkoep1,C_Chong,pop
-754,8,B11,ark_31,"Arkoep, N Cape",-30.136928,17.933035,P. carnosum,arkoep1,C_Chong,pop
-755,8,C11,ark_32,"Arkoep, N Cape",-30.136938,17.933015,P. carnosum,arkoep1,C_Chong,pop
-756,8,D11,ark_33,"Arkoep, N Cape",-30.136994,17.932992,P. carnosum,arkoep1,C_Chong,pop
-757,8,E11,ark_34,"Arkoep, N Cape",-30.136998,17.93302,P. carnosum,arkoep1,C_Chong,pop
-758,8,F11,ark_35,"Arkoep, N Cape",-30.137345,17.932782,P. carnosum,arkoep1,C_Chong,pop
-759,8,G11,ark_36,"Arkoep, N Cape",-30.137378,17.932808,P. carnosum,arkoep1,C_Chong,pop
-760,8,H11,ark_37,"Arkoep, N Cape",-30.137359,17.932931,P. carnosum,arkoep1,C_Chong,pop
-761,8,A12,ark_38,"Arkoep, N Cape",-30.137358,17.93295,P. carnosum,arkoep1,C_Chong,pop
-762,8,B12,ark_39,"Arkoep, N Cape",-30.137346,17.9329,P. carnosum,arkoep1,C_Chong,pop
-763,8,C12,ark_40,"Arkoep, N Cape",-30.136163,17.93123,P. carnosum,arkoep1,C_Chong,pop
-764,8,D12,carn_20_1,Rd to Citrusdal,-32.430213,18.953066,P. carnosum,,C_Chong,pop
-765,8,E12,carn_20_2,Rd to Citrusdal,-32.430213,18.953066,P. carnosum,,C_Chong,pop
-766,8,F12,carn_21_4,Rd to Citrusdal,-32.430266,18.953017,P. carnosum,,C_Chong,pop
-767,8,G12,289_1,Nieuwoudtville: van Rhyns Pass,-31.37678,19.01753,P. scabrum,289,C_Chong,pop
-768,8,H12,289_2,Nieuwoudtville: van Rhyns Pass,-31.37678,19.01753,P. scabrum,289,C_Chong,pop
+"in bold, sample names (""DNA_CODE"") that have been changed. Will need to highlight these and update kev on the DB.",,,,,,,,,
+,,,,,,,,,
+Sample no.,Plate,Well,DNA_CODE,Locality,LAT_SOUTH,LONG_EAST,confirmed_species,Site,Collector
+1,1,A01,K100,"Kamiesberg Pass, N Cape",-30.19343,17.96692,P. scabrum,1000,C_Chong
+2,1,B01,K3,"Kamiesberg Pass, N Cape",-30.193118,17.967105,P. scabrum,1000,C_Chong
+3,1,C01,K6,"Kamiesberg Pass, N Cape",-30.193149,17.967166,P. scabrum,1000,C_Chong
+4,1,D01,K7,"Kamiesberg Pass, N Cape",-30.193161,17.967178,P. scabrum,1000,C_Chong
+5,1,E01,K8,"Kamiesberg Pass, N Cape",-30.193164,17.967178,P. scabrum,1000,C_Chong
+6,1,F01,K10,"Kamiesberg Pass, N Cape",-30.193174,17.967193,P. scabrum,1000,C_Chong
+7,1,G01,K12,"Kamiesberg Pass, N Cape",-30.193359,17.967062,P. scabrum,1000,C_Chong
+8,1,H01,K13,"Kamiesberg Pass, N Cape",-30.19336,17.967029,P. scabrum,1000,C_Chong
+9,1,A02,K15,"Kamiesberg Pass, N Cape",-30.193403,17.967013,P. scabrum,1000,C_Chong
+10,1,B02,K19,"Kamiesberg Pass, N Cape",-30.193403,17.967013,P. scabrum,1000,C_Chong
+11,1,C02,K1,"Kamiesberg Pass, N Cape",-30.193109,17.967101,P. scabrum,1000,C_Chong
+12,1,D02,K2,"Kamiesberg Pass, N Cape",-30.193106,17.967119,P. scabrum,1000,C_Chong
+13,1,E02,K4,"Kamiesberg Pass, N Cape",-30.193115,17.967096,P. scabrum,1000,C_Chong
+14,1,F02,K5,"Kamiesberg Pass, N Cape",-30.19315,17.967167,P. scabrum,1000,C_Chong
+15,1,G02,K9,"Kamiesberg Pass, N Cape",-30.193167,17.96718,P. scabrum,1000,C_Chong
+16,1,H02,K11,"Kamiesberg Pass, N Cape",-30.193215,17.967163,P. scabrum,1000,C_Chong
+17,1,A03,K14,"Kamiesberg Pass, N Cape",-30.193416,17.967115,P. scabrum,1000,C_Chong
+18,1,B03,K16,"Kamiesberg Pass, N Cape",-30.193423,17.967001,P. scabrum,1000,C_Chong
+19,1,C03,K17,"Kamiesberg Pass, N Cape",-30.193428,17.966981,P. scabrum,1000,C_Chong
+20,1,D03,K18,"Kamiesberg Pass, N Cape",-30.193421,17.966985,P. scabrum,1000,C_Chong
+21,1,E03,VR1,Van Rhynsdorp Pass,-31.37082,19.01797,P. scabrum,1001,C_Chong
+22,1,F03,VR2,Van Rhynsdorp Pass,-31.371,19.01846,P. scabrum,1001,C_Chong
+23,1,G03,VR3,Van Rhynsdorp Pass,-31.37078,19.017,P. scabrum,1001,C_Chong
+24,1,H03,VR4,Van Rhynsdorp Pass,-31.37078,19.01789,P. scabrum,1001,C_Chong
+25,1,A04,VR5,Van Rhynsdorp Pass,-31.37052,19.01787,P. scabrum,1001,C_Chong
+26,1,B04,VR6,Van Rhynsdorp Pass,-31.370449,19.017981,P. scabrum,1001,C_Chong
+27,1,C04,VR7,Van Rhynsdorp Pass,31.370515,19.017873,P. scabrum,1001,C_Chong
+28,1,D04,VR8,Van Rhynsdorp Pass,-31.37057,19.01796,P. scabrum,1001,C_Chong
+29,1,E04,VR9,Van Rhynsdorp Pass,-31.37064,19.01813,P. scabrum,1001,C_Chong
+30,1,F04,VR10,Van Rhynsdorp Pass,-31.37062,19.01819,P. scabrum,1001,C_Chong
+31,1,G04,VR11,Van Rhynsdorp Pass,-31.37049,19.01746,P. scabrum,1001,C_Chong
+32,1,H04,VR12,Van Rhynsdorp Pass,-31.37054,18.01782,P. scabrum,1001,C_Chong
+33,1,A05,VR13,Van Rhynsdorp Pass,-31.37053,19.01769,P. scabrum,1001,C_Chong
+34,1,B05,VR15,Van Rhynsdorp Pass,-31.37059,19.01703,P. scabrum,1001,C_Chong
+35,1,C05,VR16,Van Rhynsdorp Pass,-31.37051,19.01758,P. scabrum,1001,C_Chong
+36,1,D05,VR17,Van Rhynsdorp Pass,-31.37057,19.01744,P. scabrum,1001,C_Chong
+37,1,E05,VR18,Van Rhynsdorp Pass,-31.37058,19.01741,P. scabrum,1001,C_Chong
+38,1,F05,VR19,Van Rhynsdorp Pass,-31.37075,19.01783,P. scabrum,1001,C_Chong
+39,1,G05,VR20,Van Rhynsdorp Pass,-31.37077,19.01774,P. scabrum,1001,C_Chong
+40,1,H05,VR21,Van Rhynsdorp Pass,-31.37077,19.01768,P. scabrum,1001,C_Chong
+41,1,A06,VR22,Van Rhynsdorp Pass,-31.37074,19.01774,P. scabrum,1001,C_Chong
+42,1,B06,VR23,Van Rhynsdorp Pass,-31.370735,19.0178,P. scabrum,1001,C_Chong
+43,1,C06,VR24,Van Rhynsdorp Pass,-31.37063,19.01676,P. scabrum,1001,C_Chong
+44,1,D06,VR25,Van Rhynsdorp Pass,-31.37064,19.01677,P. scabrum,1001,C_Chong
+45,1,E06,VR26,Van Rhynsdorp Pass,-31.37064,19.01676,P. scabrum,1001,C_Chong
+46,1,F06,VR27,Van Rhynsdorp Pass,-31.37062,19.01677,P. scabrum,1001,C_Chong
+47,1,G06,VR29,Van Rhynsdorp Pass,-31.3708,19.01776,P. scabrum,1001,C_Chong
+48,1,H06,VR31,Van Rhynsdorp Pass,-31.370804,19.017884,P. scabrum,1001,C_Chong
+49,1,A07,VR32,Van Rhynsdorp Pass,37.37079,19.01799,P. scabrum,1001,C_Chong
+50,1,B07,VR35,Van Rhynsdorp Pass,-31.371019,19.018488,P. scabrum,1001,C_Chong
+51,1,C07,VR14,Van Rhynsdorp Pass,-31.37052,19.01759,P. scabrum,1001,C_Chong
+52,1,D07,VR28,Van Rhynsdorp Pass,-31.37077,1.01765,P. scabrum,1001,C_Chong
+53,1,E07,VR30,Van Rhynsdorp Pass,-31.37064,19.01677,P. scabrum,1001,C_Chong
+54,1,F07,VR33,Van Rhynsdorp Pass,-31.370827,19.018071,P. scabrum,1001,C_Chong
+55,1,G07,VR34,Van Rhynsdorp Pass,-31.370859,19.018149,P. scabrum,1001,C_Chong
+56,1,H07,VR36,Van Rhynsdorp Pass,-31.371024,19.018522,P. scabrum,1001,C_Chong
+57,1,A08,VR37,Van Rhynsdorp Pass,-31.370645,19.018203,P. scabrum,1001,C_Chong
+58,1,B08,VR38,Van Rhynsdorp Pass,-31.370617,19.018096,P. scabrum,1001,C_Chong
+59,1,C08,VR39,Van Rhynsdorp Pass,-31.3706,19.018097,P. scabrum,1001,C_Chong
+60,1,D08,VR40,Van Rhynsdorp Pass,-31.370594,19.018023,P. scabrum,1001,C_Chong
+61,1,E08,VR41,Van Rhynsdorp Pass,-31.370578,19.017976,P. scabrum,1001,C_Chong
+62,1,F08,VR42,Van Rhynsdorp Pass,-31.370543,19.017953,P. scabrum,1001,C_Chong
+63,1,G08,VR43,Van Rhynsdorp Pass,-31.370527,19.017879,P. scabrum,1001,C_Chong
+64,1,H08,VR44,Van Rhynsdorp Pass,31.370553,19.017831,P. scabrum,1001,C_Chong
+65,1,A09,VR45,Van Rhynsdorp Pass,-31.370553,19.017798,P. scabrum,1001,C_Chong
+66,1,B09,VR46,Van Rhynsdorp Pass,31.370518,19.017742,P. scabrum,1001,C_Chong
+67,1,C09,VR47,Van Rhynsdorp Pass,31.370522,19.017681,P. scabrum,1001,C_Chong
+68,1,D09,VR48,Van Rhynsdorp Pass,-31.370509,19.01771,P. scabrum,1001,C_Chong
+69,1,E09,VR49,Van Rhynsdorp Pass,-31.370508,19.017654,P. scabrum,1001,C_Chong
+70,1,F09,VR50,Van Rhynsdorp Pass,-31.370518,19.017643,P. scabrum,1001,C_Chong
+71,1,G09,VR51,Van Rhynsdorp Pass,31.370519,19.017568,P. scabrum,1001,C_Chong
+72,1,H09,VR52,Van Rhynsdorp Pass,-31.370589,19.01752,P. scabrum,1001,C_Chong
+73,1,A10,VR53,Van Rhynsdorp Pass,-31.370507,19.017473,P. scabrum,1001,C_Chong
+74,1,B10,VR54,Van Rhynsdorp Pass,31.370514,19.017362,P. scabrum,1001,C_Chong
+75,1,C10,VR55,Van Rhynsdorp Pass,31.370541,19.017261,P. scabrum,1001,C_Chong
+76,1,D10,291_1,Cederberg NR: Nieuwoudt Pass,-32.34984,19.00684,P. scabrum,291,C_Chong
+77,1,E10,291_2,Cederberg NR: Nieuwoudt Pass,-32.34984,19.00684,P. scabrum,291,C_Chong
+78,1,F10,291_3,Cederberg NR: Nieuwoudt Pass,-32.34984,19.00684,P. scabrum,291,C_Chong
+79,1,G10,291_4,Cederberg NR: Nieuwoudt Pass,-32.34984,19.00684,P. scabrum,291,C_Chong
+80,1,H10,291_5,Cederberg NR: Nieuwoudt Pass,-32.34984,19.00684,P. scabrum,291,C_Chong
+81,1,A11,291_6,Cederberg NR: Nieuwoudt Pass,-32.34984,19.00684,P. scabrum,291,C_Chong
+82,1,B11,291_7,Cederberg NR: Nieuwoudt Pass,-32.34984,19.00684,P. scabrum,291,C_Chong
+83,1,C11,291_8,Cederberg NR: Nieuwoudt Pass,-32.34984,19.00684,P. scabrum,291,C_Chong
+84,1,D11,294_1,"Citrusdal, Elandskloof Rd",-32.62802,19.11664,P. scabrum,294,C_Chong
+85,1,E11,294_2,"Citrusdal, Elandskloof Rd",-32.62802,19.11664,P. scabrum,294,C_Chong
+86,1,F11,294_3,"Citrusdal, Elandskloof Rd",-32.62802,19.11664,P. scabrum,294,C_Chong
+87,1,G11,294_4,"Citrusdal, Elandskloof Rd",-32.63256,19.11991,P. scabrum,294,C_Chong
+88,1,H11,294_5,"Citrusdal, Elandskloof Rd",-32.63261,19.11999,P. scabrum,294,C_Chong
+89,1,A12,294_6,"Citrusdal, Elandskloof Rd",-32.63276,19.11996,P. scabrum,294,C_Chong
+90,1,B12,294_7,"Citrusdal, Elandskloof Rd",-32.633,19.12004,P. scabrum,294,C_Chong
+91,1,C12,294_8,"Citrusdal, Elandskloof Rd",-32.63326,19.12019,P. scabrum,294,C_Chong
+92,1,D12,297_1,Paarl Mt,-33.74117,18.94857,P. scabrum,297,C_Chong
+93,1,E12,297_2,Paarl Mt,-33.74117,18.94857,P. scabrum,297,C_Chong
+94,1,F12,297_3,Paarl Mt,-33.74117,18.94857,P. scabrum,297,C_Chong
+95,1,G12,dasklip1,Dasklip Pass,-32.8963,19.03596,P. scabrum,295,C_Chong
+96,1,H12,dasklip2,Dasklip Pass,-32.8963,19.03596,P. scabrum,295,C_Chong
+97,2,A01,HB1,Cloetes' Pass,-33.961021,21.790685,P. scabrum,1002,C_Chong
+98,2,B01,HB2,Cloetes' Pass,-33.961026,21.790658,P. scabrum,1002,C_Chong
+99,2,C01,HB3,Cloetes' Pass,-33.961035,21.790651,P. scabrum,1002,C_Chong
+100,2,D01,HB4,Cloetes' Pass,-33.961049,21.790649,P. scabrum,1002,C_Chong
+101,2,E01,HB5,Cloetes' Pass,-33.961048,21.790716,P. scabrum,1002,C_Chong
+102,2,F01,HB6,Cloetes' Pass,-33.961045,21.790711,P. scabrum,1002,C_Chong
+103,2,G01,HB7,Cloetes' Pass,-33.961043,21.790799,P. scabrum,1002,C_Chong
+104,2,H01,HB8,Cloetes' Pass,-33.961033,21.790818,P. scabrum,1002,C_Chong
+105,2,A02,HB9,Cloetes' Pass,-33.961029,21.790814,P. scabrum,1002,C_Chong
+106,2,B02,HB10,Cloetes' Pass,-33.961012,21.790819,P. scabrum,1002,C_Chong
+107,2,C02,HB11,Cloetes' Pass,-33.961369,21.790802,P. scabrum,1002,C_Chong
+108,2,D02,HB12,Cloetes' Pass,-33.961362,21.7908,P. scabrum,1002,C_Chong
+109,2,E02,HB13,Cloetes' Pass,-33.961362,21.790804,P. scabrum,1002,C_Chong
+110,2,F02,HB14,Cloetes' Pass,-33.961361,21.790807,P. scabrum,1002,C_Chong
+111,2,G02,HB15,Cloetes' Pass,-33.961406,21.790759,P. scabrum,1002,C_Chong
+112,2,H02,HB16,Cloetes' Pass,-33.961415,21.790764,P. scabrum,1002,C_Chong
+113,2,A03,HB17,Cloetes' Pass,-33.961406,21.790755,P. scabrum,1002,C_Chong
+114,2,B03,HB18,Cloetes' Pass,-33.961404,21.790741,P. scabrum,1002,C_Chong
+115,2,C03,HB20,Cloetes' Pass,-33.961441,21.790718,P. scabrum,1002,C_Chong
+116,2,D03,HB21,Cloetes' Pass,-33.961065,21.790867,P. scabrum,1002,C_Chong
+117,2,E03,HB22,Cloetes' Pass,-33.961064,21.790863,P. scabrum,1002,C_Chong
+118,2,F03,HB24,Cloetes' Pass,-33.961152,21.790833,P. scabrum,1002,C_Chong
+119,2,G03,HB25,Cloetes' Pass,-33.961071,21.790918,P. scabrum,1002,C_Chong
+120,2,H03,HB26,Cloetes' Pass,-33.961047,21.790949,P. scabrum,1002,C_Chong
+121,2,A04,HB27,Cloetes' Pass,-33.961059,21.790975,P. scabrum,1002,C_Chong
+122,2,B04,HB28,Cloetes' Pass,-33.961026,21.790926,P. scabrum,1002,C_Chong
+123,2,C04,HB29,Cloetes' Pass,-33.960991,21.790976,P. scabrum,1002,C_Chong
+124,2,D04,HB30,Cloetes' Pass,-33.960961,21.791017,P. scabrum,1002,C_Chong
+125,2,E04,HB31,Cloetes' Pass,-33.960599,21.790868,P. scabrum,1002,C_Chong
+126,2,F04,HB32,Cloetes' Pass,-33.960596,21.79087,P. scabrum,1002,C_Chong
+127,2,G04,HB33,Cloetes' Pass,-33.960583,21.79087,P. scabrum,1002,C_Chong
+128,2,H04,HB34,Cloetes' Pass,-33.960567,21.790865,P. scabrum,1002,C_Chong
+129,2,A05,HB37,Cloetes' Pass,-33.960645,21.790722,P. scabrum,1002,C_Chong
+130,2,B05,HB38,Cloetes' Pass,-33.960658,21.790712,P. scabrum,1002,C_Chong
+131,2,C05,HB39,Cloetes' Pass,-33.960652,21.790712,P. scabrum,1002,C_Chong
+132,2,D05,HB40,Cloetes' Pass,-33.961463,21.790724,P. scabrum,1002,C_Chong
+133,2,E05,HB41,Cloetes' Pass,-33.961467,21.790745,P. scabrum,1002,C_Chong
+134,2,F05,HB42,Cloetes' Pass,-33.961466,21.79075,P. scabrum,1002,C_Chong
+135,2,G05,HB43,Cloetes' Pass,-33.961468,21.790754,P. scabrum,1002,C_Chong
+136,2,H05,HB44,Cloetes' Pass,-33.96149,21.79077,P. scabrum,1002,C_Chong
+137,2,A06,HB45,Cloetes' Pass,-33.961487,21.790775,P. scabrum,1002,C_Chong
+138,2,B06,HB46,Cloetes' Pass,-33.961499,21.790796,P. scabrum,1002,C_Chong
+139,2,C06,HB47,Cloetes' Pass,-33.961499,21.790797,P. scabrum,1002,C_Chong
+140,2,D06,HB48,Cloetes' Pass,-33.96151,21.790815,P. scabrum,1002,C_Chong
+141,2,E06,HB49,Cloetes' Pass,-33.96149,21.790811,P. scabrum,1002,C_Chong
+142,2,F06,HB50,Cloetes' Pass,-33.961489,21.790811,P. scabrum,1002,C_Chong
+143,2,G06,H14,Cloetes' Pass,-33.961093,21.791125,P. scabrum,1002,C_Chong
+144,2,H06,H10,Cloetes' Pass,-33.961022,21.790919,P. scabrum,1002,C_Chong
+145,2,A07,H11,Cloetes' Pass,-33.960977,21.791011,P. scabrum,1002,C_Chong
+146,2,B07,H12,Cloetes' Pass,-33.960947,21.79105,P. scabrum,1002,C_Chong
+147,2,C07,H13,Cloetes' Pass,-33.961118,21.791053,P. scabrum,1002,C_Chong
+148,2,D07,H1,Cloetes' Pass,-33.961034,21.790665,P. scabrum,1002,C_Chong
+149,2,E07,H15,Cloetes' Pass,-33.960541,21.790904,P. scabrum,1002,C_Chong
+150,2,F07,H16,Cloetes' Pass,-33.960552,21.790882,P. scabrum,1002,C_Chong
+151,2,G07,H17,Cloetes' Pass,-33.960669,21.79068,P. scabrum,1002,C_Chong
+152,2,H07,H18,Cloetes' Pass,-33.96071,21.790694,P. scabrum,1002,C_Chong
+153,2,A08,H19,Cloetes' Pass,-33.961409,21.790733,P. scabrum,1002,C_Chong
+154,2,B08,H2,Cloetes' Pass,-33.961005,21.79082,P. scabrum,1002,C_Chong
+155,2,C08,H3,Cloetes' Pass,-33.961112,21.790831,P. scabrum,1002,C_Chong
+156,2,D08,H35,Cloetes' Pass,-33.960576,21.790897,P. scabrum,1002,C_Chong
+157,2,E08,H36,Cloetes' Pass,-33.960526,21.790917,P. scabrum,1002,C_Chong
+158,2,F08,H5,Cloetes' Pass,-33.961409,21.790743,P. scabrum,1002,C_Chong
+159,2,G08,H7,Cloetes' Pass,-33.961437,21.790719,P. scabrum,1002,C_Chong
+160,2,H08,H8,Cloetes' Pass,-33.961438,21.790698,P. scabrum,1002,C_Chong
+161,2,A09,H9,Cloetes' Pass,-33.961047,21.79094,P. scabrum,1002,C_Chong
+162,2,B09,HB23,Cloetes' Pass,-33.961058,21.790891,P. scabrum,1002,C_Chong
+163,2,C09,SEW3A,Seweweekspoort,-33.440364,21.409419,P. scabrum,1003,C_Chong
+164,2,D09,M1,Seweweekspoort,-33.440957,21.409251,P. scabrum,1003,C_Chong
+165,2,E09,SEWUSE3,Seweweekspoort,-33.441276,21.409864,P. scabrum,1003,C_Chong
+166,2,F09,SEWUSE1,Seweweekspoort,-33.441274,21.409455,P. scabrum,1003,C_Chong
+167,2,G09,SEW1,Seweweekspoort,-33.435353,21.407081,P. scabrum,1003,C_Chong
+168,2,H09,SEW3,Seweweekspoort,-33.434992,21.407139,P. scabrum,1003,C_Chong
+169,2,A10,SEW2,Seweweekspoort,-33.435074,21.407129,P. scabrum,1003,C_Chong
+170,2,B10,SEWUSE2,Seweweekspoort,-33.441283,21.409455,P. scabrum,1003,C_Chong
+171,2,C10,SEWUSE4,Seweweekspoort,-33.441413,21.410248,P. scabrum,1003,C_Chong
+172,2,D10,SEW4,Seweweekspoort,-33.440182,21.410599,P. citronellum,1003,C_Chong
+173,2,E10,SEW5,Seweweekspoort,-33.440182,21.410632,P. citronellum,1003,C_Chong
+174,2,F10,SEW6,Seweweekspoort,-33.440199,21.410627,P. citronellum,1003,C_Chong
+175,2,G10,SEW7,Seweweekspoort,-33.440195,21.410609,P. citronellum,1003,C_Chong
+176,2,H10,SEWINT2,Seweweekspoort,-33.440303,21.409331,P. citronellum,1003,C_Chong
+177,2,A11,SEW8,Seweweekspoort,-33.440183,21.410584,P. citronellum,1003,C_Chong
+178,2,B11,SEW9_A,Seweweekspoort,-33.440202,21.410608,P. citronellum,1003,C_Chong
+179,2,C11,SEW9,Seweweekspoort,-33.440185,21.410659,P. citronellum,1003,C_Chong
+180,2,D11,SEW10,Seweweekspoort,-33.440178,21.410647,P. citronellum,1003,C_Chong
+181,2,E11,SEW11,Seweweekspoort,-33.440179,21.410648,P. citronellum,1003,C_Chong
+182,2,F11,SEW12,Seweweekspoort,-33.440327,21.410407,P. citronellum,1003,C_Chong
+183,2,G11,SEW13,Seweweekspoort,-33.44031,21.410386,P. citronellum,1003,C_Chong
+184,2,H11,SEW14,Seweweekspoort,-33.440305,21.410385,P. citronellum,1003,C_Chong
+185,2,A12,SEW15,Seweweekspoort,-33.440316,21.41039,P. citronellum,1003,C_Chong
+186,2,B12,SEW16,Seweweekspoort,-33.440338,21.410391,P. citronellum,1003,C_Chong
+187,2,C12,SEW17,Seweweekspoort,-33.440321,21.41039,P. citronellum,1003,C_Chong
+188,2,D12,SEW18,Seweweekspoort,-33.440319,21.410389,P. citronellum,1003,C_Chong
+189,2,E12,SEW19,Seweweekspoort,-33.440327,21.410297,P. citronellum,1003,C_Chong
+190,2,F12,SEWINT1,Seweweekspoort,-33.435353,21.407081,P. sp. unknown,1003,C_Chong
+191,2,G12,SPB,Seweweekspoort,-33.44131,21.409438,P. sp. unknown,1003,C_Chong
+192,2,H12,160A_7,"Middleberg Pass, lower Pass",-32.61885,19.12064,P. scabrum,160_A,C_Chong
+193,3,A01,SPPA,Swartberg Pass,-33.29432,22.05101,P. zonale,1004,C_Chong
+194,3,B01,SPPB,Swartberg Pass,-33.2947,22.05111,P. glutinosum,1004,C_Chong
+195,3,C01,SPPB,Swartberg Pass,-33.29462,22.05123,P. glutinosum,1004,C_Chong
+196,3,D01,SPPB,Swartberg Pass,-33.2946,22.05112,P. glutinosum,1004,C_Chong
+197,3,E01,714,Swartberg Pass,-33.294713,22.051191,P. sp. unknown,1004,C_Chong
+198,3,F01,SWP1,Swartberg Pass,-33.294595,22.051237,P. scabrum,1004,C_Chong
+199,3,G01,SW3,Swartberg Pass,-33.29462,22.051163,P. scabrum,1004,C_Chong
+200,3,H01,SW2,Swartberg Pass,-33.294609,22.051171,P. scabrum,1004,C_Chong
+201,3,A02,SW4,Swartberg Pass,-33.294633,22.051298,P. scabrum,1004,C_Chong
+202,3,B02,SW5,Swartberg Pass,-33.294661,22.051317,P. scabrum,1004,C_Chong
+203,3,C02,SW11,Swartberg Pass,-33.294664,22.05131,P. scabrum,1004,C_Chong
+204,3,D02,SW1,Swartberg Pass,-33.294719,22.051184,P. scabrum,1004,C_Chong
+205,3,E02,SB7,Swartberg Pass,-33.294461,22.05126,P. scabrum,1004,C_Chong
+206,3,F02,SB8,Swartberg Pass,-33.294406,22.051244,P. scabrum,1004,C_Chong
+207,3,G02,SWP2,Swartberg Pass,-33.294285,22.051289,P. scabrum,1004,C_Chong
+208,3,H02,SB6,Swartberg Pass,-33.294521,22.051296,P. scabrum,1004,C_Chong
+209,3,A03,SB10,Swartberg Pass,-33.294832,22.051329,P. scabrum,1004,C_Chong
+210,3,B03,SB12,Swartberg Pass,-33.29483,22.051337,P. scabrum,1004,C_Chong
+211,3,C03,SW13,Swartberg Pass,-33.294838,22.0513,P. scabrum,1004,C_Chong
+212,3,D03,SW14,Swartberg Pass,-33.294658,22.05113,P. scabrum,1004,C_Chong
+213,3,E03,SB16,Swartberg Pass,-33.293363,22.05128,P. scabrum,1004,C_Chong
+214,3,F03,SB9,Swartberg Pass,-33.294387,22.051232,P. scabrum,1004,C_Chong
+215,3,G03,1005_A,Ezeljachtspoort,-33.788526,22.530314,P. graveolens,1005,C_Chong
+216,3,H03,1005_B,Ezeljachtspoort,-33.788455,22.530373,P. sp. unknown,1005,C_Chong
+217,3,A04,1005_C,Ezeljachtspoort,-33.788559,22.530517,P. sp. unknown,1005,C_Chong
+218,3,B04,1005_D,Ezeljachtspoort,-33.788673,22.53085,P. sp. unknown,1005,C_Chong
+219,3,C04,EZ1,Ezeljachtspoort,-33.788548,22.530557,P. scabrum,1005,C_Chong
+220,3,D04,EZ2,Ezeljachtspoort,-33.788557,22.530562,P. scabrum,1005,C_Chong
+221,3,E04,EZ3,Ezeljachtspoort,-33.788537,22.530537,P. scabrum,1005,C_Chong
+222,3,F04,EZ4,Ezeljachtspoort,-33.788539,22.530534,P. scabrum,1005,C_Chong
+223,3,G04,EZ5,Ezeljachtspoort,-33.788528,22.530535,P. scabrum,1005,C_Chong
+224,3,H04,EZ11,Ezeljachtspoort,-33.788494,22.530499,P. scabrum,1005,C_Chong
+225,3,A05,EZ6,Ezeljachtspoort,-33.788427,22.53036,P. scabrum,1005,C_Chong
+226,3,B05,EZ7,Ezeljachtspoort,-33.788437,22.530351,P. scabrum,1005,C_Chong
+227,3,C05,EZ8,Ezeljachtspoort,-33.788445,22.530416,P. scabrum,1005,C_Chong
+228,3,D05,EZ9,Ezeljachtspoort,-33.788461,22.530411,P. scabrum,1005,C_Chong
+229,3,E05,EZ10,Ezeljachtspoort,-33.788467,22.53041,P. scabrum,1005,C_Chong
+230,3,F05,EZ17,Ezeljachtspoort,-33.788476,22.530442,P. scabrum,1005,C_Chong
+231,3,G05,EZ18,Ezeljachtspoort,-33.788474,22.530427,P. scabrum,1005,C_Chong
+232,3,H05,EZ19,Ezeljachtspoort,-33.788471,22.530428,P. scabrum,1005,C_Chong
+233,3,A06,EZ20,Ezeljachtspoort,-33.788472,22.5304,P. scabrum,1005,C_Chong
+234,3,B06,E1,Ezeljachtspoort,-33.788535,22.530542,P. scabrum,1005,C_Chong
+235,3,C06,E2,Ezeljachtspoort,-33.788511,22.53051,P. scabrum,1005,C_Chong
+236,3,D06,E3,Ezeljachtspoort,-33.78851,22.530517,P. scabrum,1005,C_Chong
+237,3,E06,E4,Ezeljachtspoort,-33.788486,22.530442,P. scabrum,1005,C_Chong
+238,3,F06,E5,Ezeljachtspoort,-33.788521,22.530431,P. scabrum,1005,C_Chong
+239,3,G06,NR1,"Ezeljachtspoort, N9 roadside",-33.825144,22.387771,P. scabrum,1006,C_Chong
+240,3,H06,NR2,"Ezeljachtspoort, N9 roadside",-33.825123,22.387707,P. scabrum,1006,C_Chong
+241,3,A07,NR3,"Ezeljachtspoort, N9 roadside",-33.825114,22.387733,P. scabrum,1006,C_Chong
+242,3,B07,NR4,"Ezeljachtspoort, N9 roadside",-33.824873,22.387169,P. scabrum,1006,C_Chong
+243,3,C07,NR5,"Ezeljachtspoort, N9 roadside",-33.824875,22.387172,P. scabrum,1006,C_Chong
+244,3,D07,NR6,"Ezeljachtspoort, N9 roadside",-33.824587,22.386666,P. scabrum,1006,C_Chong
+245,3,E07,NR7,"Ezeljachtspoort, N9 roadside",-33.824349,22.386229,P. scabrum,1006,C_Chong
+246,3,F07,NR8,"Ezeljachtspoort, N9 roadside",-33.824188,22.385989,P. scabrum,1006,C_Chong
+247,3,G07,NR9,"Ezeljachtspoort, N9 roadside",-33.824175,22.385964,P. scabrum,1006,C_Chong
+248,3,H07,NR10,"Ezeljachtspoort, N9 roadside",-33.824026,22.385736,P. scabrum,1006,C_Chong
+249,3,A08,NR11,"Ezeljachtspoort, N9 roadside",-33.82399,22.38569,P. scabrum,1006,C_Chong
+250,3,B08,NR12,"Ezeljachtspoort, N9 roadside",-33.824418,22.38613,P. scabrum,1006,C_Chong
+251,3,C08,NR13,"Ezeljachtspoort, N9 roadside",-33.824086,22.385643,P. scabrum_unkn,1006,C_Chong
+252,3,D08,NR14,"Ezeljachtspoort, N9 roadside",-33.824154,22.385705,P. scabrum_unkn,1006,C_Chong
+253,3,E08,NR15,"Ezeljachtspoort, N9 roadside",-33.82416,22.385655,P. scabrum_unkn,1006,C_Chong
+254,3,F08,NR16,"Ezeljachtspoort, N9 roadside",-33.824157,22.385717,P. scabrum_unkn,1006,C_Chong
+255,3,G08,N1,"Ezeljachtspoort, N9 roadside",-33.825126,22.38771,P. scabrum,1006,C_Chong
+256,3,H08,N2,"Ezeljachtspoort, N9 roadside",-33.825003,22.387401,P. scabrum,1006,C_Chong
+257,3,A09,N3,"Ezeljachtspoort, N9 roadside",-33.824952,22.387039,P. scabrum,1006,C_Chong
+258,3,B09,N4,"Ezeljachtspoort, N9 roadside",-33.824649,22.386748,P. scabrum,1006,C_Chong
+259,3,C09,N5,"Ezeljachtspoort, N9 roadside",-33.824562,22.386623,P. scabrum,1006,C_Chong
+260,3,D09,N7,"Ezeljachtspoort, N9 roadside",-33.824185,22.385984,P. scabrum,1006,C_Chong
+261,3,E09,N8,"Ezeljachtspoort, N9 roadside",-33.824128,22.385867,P. scabrum,1006,C_Chong
+262,3,F09,N9,"Ezeljachtspoort, N9 roadside",-33.824422,22.386158,P. scabrum,1006,C_Chong
+263,3,G09,dasklip3,Dasklip Pass,-32.8963,19.03596,P. scabrum,295,C_Chong
+264,3,H09,dasklip4,Dasklip Pass,-32.8963,19.03596,P. scabrum,295,C_Chong
+265,3,A10,AU15,Aurora,-32.693673,18.481209,P. scabrum,1007,C_Chong
+266,3,B10,AU16,Aurora,-32.693625,18.481159,P. scabrum,1007,C_Chong
+267,3,C10,AU17,Aurora,-32.693608,18.481123,P. scabrum,1007,C_Chong
+268,3,D10,AU18,Aurora,-32.693608,18.481121,P. scabrum,1007,C_Chong
+269,3,E10,AU19,Aurora,-32.693628,18.481163,P. scabrum,1007,C_Chong
+270,3,F10,AU22,Aurora,-32.693627,18.481129,P. scabrum,1007,C_Chong
+271,3,G10,AU23,Aurora,-32.693635,18.48112,P. scabrum,1007,C_Chong
+272,3,H10,AU28,Aurora,-32.693689,18.481063,P. scabrum,1007,C_Chong
+273,3,A11,AU29,Aurora,-32.69371,18.481081,P. scabrum,1007,C_Chong
+274,3,B11,AU39,Aurora,-32.693536,18.481277,P. scabrum,1007,C_Chong
+275,3,C11,AU8,Aurora,-32.693546,18.481248,P. scabrum,1007,C_Chong
+276,3,D11,AU20,Aurora,-32.693612,18.481114,P. scabrum,1007,C_Chong
+277,3,E11,AU1,Aurora,-32.69354,18.481384,P. scabrum,1007,C_Chong
+278,3,F11,AU10,Aurora,-32.693553,18.481218,P. scabrum,1007,C_Chong
+279,3,G11,AU11,Aurora,-32.693557,18.481198,P. scabrum,1007,C_Chong
+280,3,H11,AU12,Aurora,-32.693607,18.481209,P. scabrum,1007,C_Chong
+281,3,A12,AU13,Aurora,-32.693582,18.48117,P. scabrum,1007,C_Chong
+282,3,B12,AU14,Aurora,-32.69356,18.481133,P. scabrum,1007,C_Chong
+283,3,C12,AU2,Aurora,-32.693539,18.481306,P. scabrum,1007,C_Chong
+284,3,D12,AU5,Aurora,-32.69355,18.481258,P. scabrum,1007,C_Chong
+285,3,E12,AU21,Aurora,-32.693634,18.481158,P. scabrum,1007,C_Chong
+286,3,F12,AU24_A,Aurora,-32.693667,18.481151,P. scabrum,1007,C_Chong
+287,3,G12,AU25,Aurora,-32.693638,18.481111,P. scabrum,1007,C_Chong
+288,3,H12,AU24_B,Aurora,-32.693653,18.481153,P. scabrum,1007,C_Chong
+289,4,A01,AU26,Aurora,-32.693752,18.481036,P. scabrum,1007,C_Chong
+290,4,B01,AU27,Aurora,-32.693706,18.480996,P. scabrum,1007,C_Chong
+291,4,C01,AU3,Aurora,-32.693525,18.481307,P. scabrum,1007,C_Chong
+292,4,D01,AU30,Aurora,-32.693745,18.481113,P. scabrum,1007,C_Chong
+293,4,E01,AU31,Aurora,-32.693717,18.481,P. scabrum,1007,C_Chong
+294,4,F01,AU32,Aurora,-32.69375,18.481012,P. scabrum,1007,C_Chong
+295,4,G01,AU33,Aurora,-32.693742,18.481087,P. scabrum,1007,C_Chong
+296,4,H01,AU34,Aurora,-32.693741,18.481138,P. scabrum,1007,C_Chong
+297,4,A02,AU35,Aurora,-32.693727,18.481148,P. scabrum,1007,C_Chong
+298,4,B02,AU36,Aurora,-32.693689,18.48119,P. scabrum,1007,C_Chong
+299,4,C02,AU37,Aurora,-32.693658,18.48124,P. scabrum,1007,C_Chong
+300,4,D02,AU38,Aurora,-32.69362,18.481248,P. scabrum,1007,C_Chong
+301,4,E02,AU4,Aurora,-32.693529,18.481299,P. scabrum,1007,C_Chong
+302,4,F02,AU40,Aurora,-32.69371,18.481081,P. scabrum,1007,C_Chong
+303,4,G02,AU6,Aurora,-32.69355,18.481287,P. scabrum,1007,C_Chong
+304,4,H02,AU7,Aurora,-32.693556,18.481243,P. scabrum,1007,C_Chong
+305,4,A03,AU9,Aurora,-32.693556,18.481223,P. scabrum,1007,C_Chong
+306,4,B03,FG1,"Fairy Glen, Worcestor",-33.561762,19.435469,P. scabrum,1008,C_Chong
+307,4,C03,FG2,"Fairy Glen, Worcestor",-33.561771,19.435493,P. scabrum,1008,C_Chong
+308,4,D03,fg2,"Fairy Glen, Worcestor",-33.561801,19.434981,P. scabrum,1008,C_Chong
+309,4,E03,FG3,"Fairy Glen, Worcestor",-33.561851,19.434921,P. scabrum,1008,C_Chong
+310,4,F03,fg4,"Fairy Glen, Worcestor",-33.56189,19.434912,P. scabrum,1008,C_Chong
+311,4,G03,FG4,"Fairy Glen, Worcestor",-33.561893,19.434905,P. scabrum,1008,C_Chong
+312,4,H03,FG7,"Fairy Glen, Worcestor",-33.563592,19.434916,P. scabrum,1008,C_Chong
+313,4,A04,FG8,"Fairy Glen, Worcestor",-33.563821,19.435017,P. scabrum,1008,C_Chong
+314,4,B04,FG9,"Fairy Glen, Worcestor",-33.563855,19.435011,P. scabrum,1008,C_Chong
+315,4,C04,FG11,"Fairy Glen, Worcestor",-33.564353,19.433673,P. scabrum,1008,C_Chong
+316,4,D04,FG10,"Fairy Glen, Worcestor",-33.564356,19.433684,P. scabrum,1008,C_Chong
+317,4,E04,fg11,"Fairy Glen, Worcestor",-33.564354,19.433622,P. scabrum,1008,C_Chong
+318,4,F04,fg12,"Fairy Glen, Worcestor",-33.56435,19.43355,P. scabrum,1008,C_Chong
+319,4,G04,FG13,"Fairy Glen, Worcestor",-33.564286,19.432852,P. scabrum,1008,C_Chong
+320,4,H04,fg13,"Fairy Glen, Worcestor",-33.564255,19.432862,P. scabrum,1008,C_Chong
+321,4,A05,FG14,"Fairy Glen, Worcestor",-33.564415,19.432414,P. scabrum,1008,C_Chong
+322,4,B05,FG18,"Fairy Glen, Worcestor",-33.564461,19.432322,P. scabrum,1008,C_Chong
+323,4,C05,FG17,"Fairy Glen, Worcestor",-33.564943,19.431777,P. scabrum,1008,C_Chong
+324,4,D05,FG16,"Fairy Glen, Worcestor",-33.56485,19.431865,P. scabrum,1008,C_Chong
+325,4,E05,FG15,"Fairy Glen, Worcestor",-33.564461,19.432322,P. scabrum,1008,C_Chong
+326,4,F05,FG19,"Fairy Glen, Worcestor",-33.56513,19.431463,P. scabrum,1008,C_Chong
+327,4,G05,FG20,"Fairy Glen, Worcestor",-33.565459,19.431311,P. scabrum,1008,C_Chong
+328,4,H05,FG21,"Fairy Glen, Worcestor",-33.565481,19.431319,P. scabrum,1008,C_Chong
+329,4,A06,FG22,"Fairy Glen, Worcestor",-33.565629,19.431271,P. scabrum,1008,C_Chong
+330,4,B06,FG23,"Fairy Glen, Worcestor",-33.565712,19.431181,P. scabrum,1008,C_Chong
+331,4,C06,FG24,"Fairy Glen, Worcestor",-33.565707,19.431146,P. scabrum,1008,C_Chong
+332,4,D06,FG25,"Fairy Glen, Worcestor",-33.565792,19.431152,P. scabrum,1008,C_Chong
+333,4,E06,FG26,"Fairy Glen, Worcestor",-33.566137,19.43107,P. scabrum,1008,C_Chong
+334,4,F06,FG28,"Fairy Glen, Worcestor",-33.566905,19.431168,P. scabrum,1008,C_Chong
+335,4,G06,FG29,"Fairy Glen, Worcestor",-33.566957,19.431168,P. scabrum,1008,C_Chong
+336,4,H06,fg16,"Fairy Glen, Worcestor",-33.566881,19.431124,P. scabrum,1008,C_Chong
+337,4,A07,FG30,"Fairy Glen, Worcestor",-33.567222,19.43114,P. scabrum,1008,C_Chong
+338,4,B07,FG31,"Fairy Glen, Worcestor",-33.568878,19.431937,P. scabrum,1008,C_Chong
+339,4,C07,FG32,"Fairy Glen, Worcestor",-33.567817,19.431255,P. scabrum,1008,C_Chong
+340,4,D07,FG12,"Fairy Glen, Worcestor",-33.564286,19.433093,P. scabrum,1008,C_Chong
+341,4,E07,FG5,"Fairy Glen, Worcestor",-33.56352,19.435073,P. scabrum,1008,C_Chong
+342,4,F07,FG6,"Fairy Glen, Worcestor",-33.563718,19.435087,P. scabrum,1008,C_Chong
+343,4,G07,FG27,"Fairy Glen, Worcestor",-33.566156,19.431099,P. scabrum,1008,C_Chong
+344,4,H07,fg1,"Fairy Glen, Worcestor",-33.561787,19.435458,P. scabrum,1008,C_Chong
+345,4,A08,fg3,"Fairy Glen, Worcestor",-33.561843,19.434921,P. scabrum,1008,C_Chong
+346,4,B08,fg5,"Fairy Glen, Worcestor",-33.561884,19.43494,P. scabrum,1008,C_Chong
+347,4,C08,fg6,"Fairy Glen, Worcestor",-33.561874,19.434955,P. scabrum,1008,C_Chong
+348,4,D08,fg7,"Fairy Glen, Worcestor",-33.562833,19.434565,P. scabrum,1008,C_Chong
+349,4,E08,fg8,"Fairy Glen, Worcestor",-33.563976,19.434982,P. scabrum,1008,C_Chong
+350,4,F08,fg9,"Fairy Glen, Worcestor",-33.564356,19.433684,P. scabrum,1008,C_Chong
+351,4,G08,fg10,"Fairy Glen, Worcestor",-33.564346,19.433651,P. scabrum,1008,C_Chong
+352,4,H08,fg14,"Fairy Glen, Worcestor",-33.564868,19.431837,P. scabrum,1008,C_Chong
+353,4,A09,MEP1,Meiringspoort,-33.400396,22.559847,P. scabrum,1009,C_Chong
+354,4,B09,ME1,Meiringspoort,-33.400407,22.559843,P. scabrum,1009,C_Chong
+355,4,C09,MEP2,Meiringspoort,-33.400397,22.559827,P. scabrum,1009,C_Chong
+356,4,D09,ME6,Meiringspoort,-33.400022,22.559554,P. scabrum,1009,C_Chong
+357,4,E09,ME2,Meiringspoort,-33.399921,22.559476,P. scabrum,1009,C_Chong
+358,4,F09,ME3,Meiringspoort,-33.399827,22.559392,P. scabrum,1009,C_Chong
+359,4,G09,MEP3,Meiringspoort,-33.399816,22.559357,P. scabrum,1009,C_Chong
+360,4,H09,ME5,Meiringspoort,-33.399817,22.559359,P. scabrum,1009,C_Chong
+361,4,A10,MEP4,Meiringspoort,-33.399777,22.559381,P. scabrum,1009,C_Chong
+362,4,B10,MEP5,Meiringspoort,-33.399754,22.55939,P. scabrum,1009,C_Chong
+363,4,C10,ME12,Meiringspoort,-33.399755,22.559332,P. scabrum,1009,C_Chong
+364,4,D10,ME11,Meiringspoort,-33.399755,22.55933,P. scabrum,1009,C_Chong
+365,4,E10,ME7,Meiringspoort,-33.39972,22.559289,P. scabrum,1009,C_Chong
+366,4,F10,ME8,Meiringspoort,-33.399715,22.559269,P. scabrum,1009,C_Chong
+367,4,G10,ME9,Meiringspoort,-33.3997,22.559276,P. scabrum,1009,C_Chong
+368,4,H10,ME13,Meiringspoort,-33.399574,22.559201,P. scabrum,1009,C_Chong
+369,4,A11,ME14,Meiringspoort,-33.399589,22.559177,P. scabrum,1009,C_Chong
+370,4,B11,MEP6,Meiringspoort,-33.399545,22.559188,P. scabrum,1009,C_Chong
+371,4,C11,ME10,Meiringspoort,-33.399485,22.559101,P. scabrum,1009,C_Chong
+372,4,D11,ME16,Meiringspoort,-33.399495,22.559117,P. scabrum,1009,C_Chong
+373,4,E11,MEP7,Meiringspoort,-33.39948,22.559135,P. scabrum,1009,C_Chong
+374,4,F11,ME15,Meiringspoort,-33.398731,22.558528,P. scabrum,1009,C_Chong
+375,4,G11,MEP8,Meiringspoort,-33.398735,22.55854,P. scabrum,1009,C_Chong
+376,4,H11,ME4,Meiringspoort,-33.399803,22.559366,P. scabrum,1009,C_Chong
+377,4,A12,ME17,Meiringspoort,-33.399506,22.559075,P. scabrum,1009,C_Chong
+378,4,B12,ME18,Meiringspoort,-33.44545,22.56342,P. scabrum,1009,C_Chong
+379,4,C12,SPPB,Meiringspoort,-33.40187,22.56072,P. scabrum_int,1009,C_Chong
+380,4,D12,SPPB,Meiringspoort,-33.40156,22.56078,P. scabrum_int,1009,C_Chong
+381,4,E12,SPPA,Meiringspoort,-33.40104,22.56021,P. hispidum,1009,C_Chong
+382,4,F12,SPPA,Meiringspoort,-33.40047,22.55994,P. hispidum,1009,C_Chong
+383,4,G12,SPPC,Meiringspoort,-33.44547,22.56352,P. ternatum_unkn,1009,C_Chong
+384,4,H12,SPPC,Meiringspoort,-33.44547,22.56349,P. ternatum_unkn,1009,C_Chong
+385,5,A01,M1_UDP,Uniondale Pass,-33.674718,23.145064,P. scabrum,1010,C_Chong
+386,5,B01,M10_UDP,Uniondale Pass,-33.668859,23.138204,P. scabrum,1010,C_Chong
+387,5,C01,M11_UDP,Uniondale Pass,-33.66885,23.13819,P. scabrum,1010,C_Chong
+388,5,D01,M12_UDP,Uniondale Pass,-33.668853,23.138158,P. scabrum,1010,C_Chong
+389,5,E01,M13_UDP,Uniondale Pass,-33.668824,23.137998,P. scabrum,1010,C_Chong
+390,5,F01,M14_UDP,Uniondale Pass,-33.668832,23.137978,P. scabrum,1010,C_Chong
+391,5,G01,M15_UDP,Uniondale Pass,-33.668847,23.137951,P. scabrum,1010,C_Chong
+392,5,H01,M16_UDP,Uniondale Pass,-33.668855,23.137714,P. scabrum,1010,C_Chong
+393,5,A02,M2_UDP,Uniondale Pass,-33.674762,23.145109,P. scabrum,1010,C_Chong
+394,5,B02,M3_UDP,Uniondale Pass,-33.674754,23.1451,P. scabrum,1010,C_Chong
+395,5,C02,M4_UDP,Uniondale Pass,-33.674526,23.144732,P. scabrum,1010,C_Chong
+396,5,D02,M4A_UDP,Uniondale Pass,-33.674103,23.144389,P. scabrum,1010,C_Chong
+397,5,E02,M6_UDP,Uniondale Pass,-33.668882,23.138358,P. scabrum,1010,C_Chong
+398,5,F02,M7_UDP,Uniondale Pass,-33.668878,23.138363,P. scabrum,1010,C_Chong
+399,5,G02,M8_UDP,Uniondale Pass,-33.668873,23.138355,P. scabrum,1010,C_Chong
+400,5,H02,M9_UDP,Uniondale Pass,-33.66884,23.138229,P. scabrum,1010,C_Chong
+401,5,A03,UD1,Uniondale Pass,-33.689342,23.150837,P. scabrum,1010,C_Chong
+402,5,B03,UD10,Uniondale Pass,-33.668933,23.138723,P. scabrum,1010,C_Chong
+403,5,C03,UP10_A,Uniondale Pass,-33.689341,23.150847,P. scabrum,1010,C_Chong
+404,5,D03,UD11,Uniondale Pass,-33.668936,23.138717,P. scabrum,1010,C_Chong
+405,5,E03,UD12,Uniondale Pass,-33.668929,23.138693,P. scabrum,1010,C_Chong
+406,5,F03,UD13,Uniondale Pass,-33.668921,23.138649,P. scabrum,1010,C_Chong
+407,5,G03,UD14,Uniondale Pass,-33.668906,23.138615,P. scabrum,1010,C_Chong
+408,5,H03,UD2,Uniondale Pass,-33.686858,23.149665,P. scabrum,1010,C_Chong
+409,5,A04,UD4,Uniondale Pass,-33.674713,23.145066,P. scabrum,1010,C_Chong
+410,5,B04,UD5,Uniondale Pass,-33.674246,23.144497,P. scabrum,1010,C_Chong
+411,5,C04,UD6,Uniondale Pass,-33.674226,23.144484,P. scabrum,1010,C_Chong
+412,5,D04,UD7,Uniondale Pass,-33.674109,23.144425,P. scabrum,1010,C_Chong
+413,5,E04,UD8,Uniondale Pass,-33.668927,23.138724,P. scabrum,1010,C_Chong
+414,5,F04,UP22,Uniondale Pass,-33.676982,23.14687,P. scabrum,1010,C_Chong
+415,5,G04,UP33,Uniondale Pass,-33.677493,23.147551,P. scabrum,1010,C_Chong
+416,5,H04,UP38,Uniondale Pass,-33.66923,23.139731,P. scabrum,1010,C_Chong
+417,5,A05,UP39,Uniondale Pass,-33.669225,23.139596,P. scabrum,1010,C_Chong
+418,5,B05,UP40,Uniondale Pass,-33.669197,23.139629,P. scabrum,1010,C_Chong
+419,5,C05,UP42,Uniondale Pass,-33.669194,23.13961,P. scabrum,1010,C_Chong
+420,5,D05,UP43,Uniondale Pass,-33.669179,23.139595,P. scabrum,1010,C_Chong
+421,5,E05,UP45,Uniondale Pass,-33.668929,23.138693,P. scabrum,1010,C_Chong
+422,5,F05,UD3,Uniondale Pass,-33.675556,23.146234,P. scabrum,1010,C_Chong
+423,5,G05,UP1,Uniondale Pass,-33.693198,23.152244,P. scabrum,1010,C_Chong
+424,5,H05,UP10,Uniondale Pass,-33.691604,23.151179,P. scabrum,1010,C_Chong
+425,5,A06,UP11,Uniondale Pass,-33.687624,23.150078,P. scabrum,1010,C_Chong
+426,5,B06,UP12,Uniondale Pass,-33.68697,23.14978,P. scabrum,1010,C_Chong
+427,5,C06,UP13,Uniondale Pass,-33.68696,23.149773,P. scabrum,1010,C_Chong
+428,5,D06,UP14,Uniondale Pass,-33.68696,23.149771,P. scabrum,1010,C_Chong
+429,5,E06,UP15,Uniondale Pass,-33.686951,23.149768,P. scabrum,1010,C_Chong
+430,5,F06,UP16,Uniondale Pass,-33.686914,23.149728,P. scabrum,1010,C_Chong
+431,5,G06,UP17,Uniondale Pass,-33.68689,23.149727,P. scabrum,1010,C_Chong
+432,5,H06,UP18,Uniondale Pass,-33.686867,23.149716,P. scabrum,1010,C_Chong
+433,5,A07,UP19,Uniondale Pass,-33.686671,23.149528,P. scabrum,1010,C_Chong
+434,5,B07,UP2,Uniondale Pass,-33.693112,23.152163,P. scabrum,1010,C_Chong
+435,5,C07,UP20,Uniondale Pass,-33.676954,23.146846,P. scabrum,1010,C_Chong
+436,5,D07,UP21,Uniondale Pass,-33.676959,23.14685,P. scabrum,1010,C_Chong
+437,5,E07,UP23,Uniondale Pass,-33.677009,23.146886,P. scabrum,1010,C_Chong
+438,5,F07,UP24,Uniondale Pass,-33.677018,23.146908,P. scabrum,1010,C_Chong
+439,5,G07,UP25,Uniondale Pass,-33.677044,23.146913,P. scabrum,1010,C_Chong
+440,5,H07,UP26,Uniondale Pass,-33.677077,23.146929,P. scabrum,1010,C_Chong
+441,5,A08,UP27,Uniondale Pass,-33.677138,23.146991,P. scabrum,1010,C_Chong
+442,5,B08,UP28,Uniondale Pass,-33.677231,23.147032,P. scabrum,1010,C_Chong
+443,5,C08,UP29,Uniondale Pass,-33.677313,23.147132,P. scabrum,1010,C_Chong
+444,5,D08,UP3,Uniondale Pass,-33.691898,23.151213,P. scabrum,1010,C_Chong
+445,5,E08,UP30,Uniondale Pass,-33.677318,23.147191,P. scabrum,1010,C_Chong
+446,5,F08,UP31,Uniondale Pass,-33.677405,23.147352,P. scabrum,1010,C_Chong
+447,5,G08,UP32,Uniondale Pass,-33.677436,23.147443,P. scabrum,1010,C_Chong
+448,5,H08,UP34,Uniondale Pass,-33.675096,23.145599,P. scabrum,1010,C_Chong
+449,5,A09,UP35,Uniondale Pass,-33.674468,23.144694,P. scabrum,1010,C_Chong
+450,5,B09,UP36,Uniondale Pass,-33.674245,23.144497,P. scabrum,1010,C_Chong
+451,5,C09,UP4,Uniondale Pass,-33.691886,23.151214,P. scabrum,1010,C_Chong
+452,5,D09,UP41,Uniondale Pass,-33.669195,23.139624,P. scabrum,1010,C_Chong
+453,5,E09,UP44,Uniondale Pass,-33.669159,23.13957,P. scabrum,1010,C_Chong
+454,5,F09,UP46,Uniondale Pass,-33.668923,23.138633,P. scabrum,1010,C_Chong
+455,5,G09,UP47,Uniondale Pass,-33.668835,23.13861,P. scabrum,1010,C_Chong
+456,5,H09,UP5,Uniondale Pass,-33.691883,23.15121,P. scabrum,1010,C_Chong
+457,5,A10,UP6,Uniondale Pass,-33.69188,23.151212,P. scabrum,1010,C_Chong
+458,5,B10,UP7,Uniondale Pass,-33.691723,23.151197,P. scabrum,1010,C_Chong
+459,5,C10,UP8,Uniondale Pass,-33.691641,23.151169,P. scabrum,1010,C_Chong
+460,5,D10,UP9,Uniondale Pass,-33.691611,23.151172,P. scabrum,1010,C_Chong
+461,5,E10,SPPA_1,Uniondale Pass,-33.68922,23.15087,P. cordifolium,1010,C_Chong
+462,5,F10,SPPA_2,Uniondale Pass,-33.68294,23.15087,P. cordifolium,1010,C_Chong
+463,5,G10,SPPB_1,Uniondale Pass,-33.68914,23.15084,P. zonale,1010,C_Chong
+464,5,H10,SPPB_2,Uniondale Pass,-33.69008,23.15042,P. zonale,1010,C_Chong
+465,5,A11,SPPC_1,Uniondale Pass,-33.68841,23.15051,P. grossularioides,1010,C_Chong
+466,5,B11,SPPC_2,Uniondale Pass,-33.68631,23.14929,P. grossularioides,1010,C_Chong
+467,5,C11,SPPD_1,Uniondale Pass,-33.68628,23.14928,P. caucalifolium,1010,C_Chong
+468,5,D11,SPPD_2,Uniondale Pass,-33.68631,23.14921,P. caucalifolium,1010,C_Chong
+469,5,E11,SPPE_1,Uniondale Pass,-33.69038,23.15069,P. pseudoglutinosum,1010,C_Chong
+470,5,F11,SPPE_2,Uniondale Pass,-33.6904,23.15076,P. pseudoglutinosum,1010,C_Chong
+471,5,G11,SPPF_1,Uniondale Pass,-33.68693,23.14976,P. myrrh_unkn,1010,C_Chong
+472,5,H11,PALCH_1,Uniondale Pass,-33.68645,23.14937,P. alchemillioides_unkn,1010,C_Chong
+473,5,A12,PALCH_2,Uniondale Pass,-33.68708,23.14981,P. alchemillioides_unkn,1010,C_Chong
+474,5,B12,PALCH_3,Uniondale Pass,-33.68594,23.14913,P. alchemillioides_unkn,1010,C_Chong
+475,5,C12,160_A_1,"Middleberg Pass, lower Pass",-32.61885,19.12064,P. scabrum,160_A,C_Chong
+476,5,D12,160_A_2,"Middleberg Pass, lower Pass",-32.61885,19.12064,P. scabrum,160_A,C_Chong
+477,5,E12,160_A_3,"Middleberg Pass, lower Pass",-32.61885,19.12064,P. scabrum,160_A,C_Chong
+478,5,F12,160_A_4,"Middleberg Pass, lower Pass",-32.61885,19.12064,P. scabrum,160_A,C_Chong
+479,5,G12,160_A_5,"Middleberg Pass, lower Pass",-32.61885,19.12064,P. scabrum,160_A,C_Chong
+480,5,H12,160_A_6,"Middleberg Pass, lower Pass",-32.61885,19.12064,P. scabrum,160_A,C_Chong
+481,6,A01,1605,Middleberg Pass,-32.6258,19.13688,P. scabrum,160,C_Chong
+482,6,B01,1606,Middleberg Pass,-32.62586,19.13681,P. scabrum,160,C_Chong
+483,6,C01,1607,Middleberg Pass,-32.62581,19.13676,P. scabrum,160,C_Chong
+484,6,D01,1608,Middleberg Pass,-32.62573,19.13684,P. scabrum,160,C_Chong
+485,6,E01,1609,Middleberg Pass,-32.62554,19.1368,P. scabrum,160,C_Chong
+486,6,F01,1610,Middleberg Pass,-32.62535,19.13683,P. scabrum,160,C_Chong
+487,6,G01,1611,Middleberg Pass,-32.62536,19.13686,P. scabrum,160,C_Chong
+488,6,H01,1612,Middleberg Pass,-32.62539,19.13692,P. scabrum,160,C_Chong
+489,6,A02,M1,"Middelberg Pass, Western Cape",-32.625691,19.135967,P. scabrum,160,C_Chong
+490,6,B02,M2,"Middelberg Pass, Western Cape",-32.625683,19.135963,P. scabrum,160,C_Chong
+491,6,C02,M3,"Middelberg Pass, Western Cape",-32.625679,19.135946,P. scabrum,160,C_Chong
+492,6,D02,M4,"Middelberg Pass, Western Cape",-32.625689,19.135948,P. scabrum,160,C_Chong
+493,6,E02,M5,"Middelberg Pass, Western Cape",-32.625683,19.135923,P. scabrum,160,C_Chong
+494,6,F02,M6,"Middelberg Pass, Western Cape",-32.625679,19.135922,P. scabrum,160,C_Chong
+495,6,G02,M7,"Middelberg Pass, Western Cape",-32.625696,19.135905,P. scabrum,160,C_Chong
+496,6,H02,M8,"Middelberg Pass, Western Cape",-32.625721,19.135911,P. scabrum,160,C_Chong
+497,6,A03,M9,"Middelberg Pass, Western Cape",-32.625725,19.135907,P. scabrum,160,C_Chong
+498,6,B03,M10,"Middelberg Pass, Western Cape",-32.625712,19.135877,P. scabrum,160,C_Chong
+499,6,C03,M11,"Middelberg Pass, Western Cape",-32.625691,19.135889,P. scabrum,160,C_Chong
+500,6,D03,M12,"Middelberg Pass, Western Cape",-32.625694,19.135873,P. scabrum,160,C_Chong
+501,6,E03,M13,"Middelberg Pass, Western Cape",-32.625634,19.135861,P. scabrum,160,C_Chong
+502,6,F03,M14,"Middelberg Pass, Western Cape",-32.625629,19.135882,P. scabrum,160,C_Chong
+503,6,G03,M15,"Middelberg Pass, Western Cape",-32.62558,19.135827,P. scabrum,160,C_Chong
+504,6,H03,M16,"Middelberg Pass, Western Cape",-32.625546,19.13581,P. scabrum,160,C_Chong
+505,6,A04,M17,"Middelberg Pass, Western Cape",-32.625538,19.135813,P. scabrum,160,C_Chong
+506,6,B04,M18,"Middelberg Pass, Western Cape",-32.625561,19.135996,P. scabrum,160,C_Chong
+507,6,C04,M19,"Middelberg Pass, Western Cape",-32.625447,19.136412,P. scabrum,160,C_Chong
+508,6,D04,M20,"Middelberg Pass, Western Cape",-32.625439,19.136315,P. scabrum,160,C_Chong
+509,6,E04,M21,"Middelberg Pass, Western Cape",-32.625459,19.136373,P. scabrum,160,C_Chong
+510,6,F04,M22,"Middelberg Pass, Western Cape",-32.625447,19.136412,P. scabrum,160,C_Chong
+511,6,G04,M23,"Middelberg Pass, Western Cape",-32.625464,19.136427,P. scabrum,160,C_Chong
+512,6,H04,M24,"Middelberg Pass, Western Cape",-32.625463,19.136421,P. scabrum,160,C_Chong
+513,6,A05,M25,"Middelberg Pass, Western Cape",-32.625459,19.136453,P. scabrum,160,C_Chong
+514,6,B05,M26,"Middelberg Pass, Western Cape",-32.625025,19.136156,P. scabrum,160,C_Chong
+515,6,C05,M27,"Middelberg Pass, Western Cape",-32.624947,19.13615,P. scabrum,160,C_Chong
+516,6,D05,M28,"Middelberg Pass, Western Cape",-32.624741,19.136149,P. scabrum,160,C_Chong
+517,6,E05,M29,"Middelberg Pass, Western Cape",-32.62471,19.136015,P. scabrum,160,C_Chong
+518,6,F05,M30,"Middelberg Pass, Western Cape",-32.624705,19.136031,P. scabrum,160,C_Chong
+519,6,G05,M31,"Middelberg Pass, Western Cape",-32.625179,19.136996,P. scabrum,160,C_Chong
+520,6,H05,M32_A,"Middelberg Pass, Western Cape",-32.625241,19.137014,P. scabrum,160,C_Chong
+521,6,A06,M32_B,"Middelberg Pass, Western Cape",-32.625205,19.136943,P. scabrum,160,C_Chong
+522,6,B06,M33,"Middelberg Pass, Western Cape",-32.625182,19.136915,P. scabrum,160,C_Chong
+523,6,C06,M34,"Middelberg Pass, Western Cape",-32.625157,19.136929,P. scabrum,160,C_Chong
+524,6,D06,M35,"Middelberg Pass, Western Cape",-32.625138,19.136958,P. scabrum,160,C_Chong
+525,6,E06,MG1,"Middelberg Pass, Western Cape",-32.623809,19.135461,P. scabrum,160,C_Chong
+526,6,F06,MG2,"Middelberg Pass, Western Cape",-32.623879,19.135485,P. scabrum,160,C_Chong
+527,6,G06,MG4,"Middelberg Pass, Western Cape",-32.623918,19.135506,P. scabrum,160,C_Chong
+528,6,H06,MG5,"Middelberg Pass, Western Cape",-32.623927,19.135513,P. scabrum,160,C_Chong
+529,6,A07,int1,"Middelberg Pass, Western Cape",-32.62494,19.13618,P. scabrum_unkn,160,C_Chong
+530,6,B07,int2,"Middelberg Pass, Western Cape",-32.62534,19.13655,P. scabrum_unkn,160,C_Chong
+531,6,C07,int3,"Middelberg Pass, Western Cape",-32.62463,19.13595,P. scabrum_unkn,160,C_Chong
+532,6,D07,MG3,"Middelberg Pass, Western Cape",-32.623894,19.135459,P. scabrum_unkn,160,C_Chong
+533,6,E07,MG6,"Middelberg Pass, Western Cape",-32.624034,19.135549,P. scabrum_unkn,160,C_Chong
+534,6,F07,MG16,"Middelberg Pass, Western Cape",-32.624279,19.135682,P. scabrum_unkn,160,C_Chong
+535,6,G07,MG17,"Middelberg Pass, Western Cape",-32.624285,19.135715,P. scabrum_unkn,160,C_Chong
+536,6,H07,MG18,"Middelberg Pass, Western Cape",-32.624287,19.135719,P. scabrum_unkn,160,C_Chong
+537,6,A08,MG21,"Middelberg Pass, Western Cape",-32.624347,19.135758,P. scabrum_unkn,160,C_Chong
+538,6,B08,MG22_B,"Middelberg Pass, Western Cape",-32.624421,19.135826,P. scabrum_unkn,160,C_Chong
+539,6,C08,MG23,"Middelberg Pass, Western Cape",-32.624371,19.13579,P. scabrum_unkn,160,C_Chong
+540,6,D08,MG25,"Middelberg Pass, Western Cape",-32.624421,19.135826,P. scabrum_unkn,160,C_Chong
+541,6,E08,MG27,"Middelberg Pass, Western Cape",-32.624437,19.135813,P. scabrum_unkn,160,C_Chong
+542,6,F08,MG28,"Middelberg Pass, Western Cape",-32.624434,19.135812,P. scabrum_unkn,160,C_Chong
+543,6,G08,MG30,"Middelberg Pass, Western Cape",-32.624434,19.135847,P. scabrum_unkn,160,C_Chong
+544,6,H08,MG31,"Middelberg Pass, Western Cape",-32.624471,19.135848,P. scabrum_unkn,160,C_Chong
+545,6,A09,MG33,"Middelberg Pass, Western Cape",-32.624485,19.135873,P. scabrum_unkn,160,C_Chong
+546,6,B09,MG36,"Middelberg Pass, Western Cape",-32.624545,19.135873,P. scabrum_unkn,160,C_Chong
+547,6,C09,MG37,"Middelberg Pass, Western Cape",-32.624559,19.135875,P. scabrum_unkn,160,C_Chong
+548,6,D09,MG38,"Middelberg Pass, Western Cape",-32.62458,19.135892,P. scabrum_unkn,160,C_Chong
+549,6,E09,MG49,"Middelberg Pass, Western Cape",-32.624936,19.136191,P. scabrum_unkn,160,C_Chong
+550,6,F09,MG50,"Middelberg Pass, Western Cape",-32.624945,19.136176,P. scabrum_unkn,160,C_Chong
+551,6,G09,MG53,"Middelberg Pass, Western Cape",-32.624955,19.136175,P. scabrum_unkn,160,C_Chong
+552,6,H09,MG48,"Middelberg Pass, Western Cape",-32.624854,19.13613,P. scabrum_unkn,160,C_Chong
+553,6,A10,MG51,"Middelberg Pass, Western Cape",-32.624936,19.136196,P. scabrum_unkn,160,C_Chong
+554,6,B10,MG7,"Middelberg Pass, Western Cape",-32.624074,19.135574,P. scabrum,160,C_Chong
+555,6,C10,MG8,"Middelberg Pass, Western Cape",-32.62409,19.135583,P. scabrum,160,C_Chong
+556,6,D10,MG9,"Middelberg Pass, Western Cape",-32.624112,19.135549,P. scabrum,160,C_Chong
+557,6,E10,MG10,"Middelberg Pass, Western Cape",-32.624136,19.135586,P. scabrum,160,C_Chong
+558,6,F10,MG11,"Middelberg Pass, Western Cape",-32.624129,19.135609,P. scabrum,160,C_Chong
+559,6,G10,MG12,"Middelberg Pass, Western Cape",-32.624139,19.135618,P. scabrum,160,C_Chong
+560,6,H10,MG13,"Middelberg Pass, Western Cape",-32.624174,19.135613,P. scabrum,160,C_Chong
+561,6,A11,MG14,"Middelberg Pass, Western Cape",-32.624192,19.135589,P. scabrum,160,C_Chong
+562,6,B11,MG15,"Middelberg Pass, Western Cape",-32.624171,19.135612,P. scabrum,160,C_Chong
+563,6,C11,MG19,"Middelberg Pass, Western Cape",-32.624296,19.135734,P. scabrum,160,C_Chong
+564,6,D11,MG20,"Middelberg Pass, Western Cape",-32.624322,19.135764,P. scabrum,160,C_Chong
+565,6,E11,MG22_A,"Middelberg Pass, Western Cape",-32.62438,19.135766,P. scabrum,160,C_Chong
+566,6,F11,MG24,"Middelberg Pass, Western Cape",-32.62439,19.135799,P. scabrum,160,C_Chong
+567,6,G11,MG26,"Middelberg Pass, Western Cape",-32.624424,19.135815,P. scabrum,160,C_Chong
+568,6,H11,MG29,"Middelberg Pass, Western Cape",-32.624435,19.135839,P. scabrum,160,C_Chong
+569,6,A12,MG32,"Middelberg Pass, Western Cape",-32.624475,19.135875,P. scabrum,160,C_Chong
+570,6,B12,MG34,"Middelberg Pass, Western Cape",-32.624516,19.135899,P. scabrum,160,C_Chong
+571,6,C12,MG35,"Middelberg Pass, Western Cape",-32.624547,19.135909,P. scabrum,160,C_Chong
+572,6,D12,MG39,"Middelberg Pass, Western Cape",-32.624618,19.135936,P. scabrum,160,C_Chong
+573,6,E12,MG40,"Middelberg Pass, Western Cape",-32.62462,19.135936,P. scabrum,160,C_Chong
+574,6,F12,MG41,"Middelberg Pass, Western Cape",-32.624632,19.135949,P. scabrum,160,C_Chong
+575,6,G12,MG42_A,"Middelberg Pass, Western Cape",-32.624647,19.135961,P. scabrum,160,C_Chong
+576,6,H12,MG42_B,"Middelberg Pass, Western Cape",-32.624668,19.135965,P. scabrum,160,C_Chong
+577,7,A01,MG43,"Middelberg Pass, Western Cape",-32.624659,19.135985,P. scabrum,160,C_Chong
+578,7,B01,MG44,"Middelberg Pass, Western Cape",-32.624658,19.13602,P. scabrum,160,C_Chong
+579,7,C01,MG45,"Middelberg Pass, Western Cape",-32.624743,19.136053,P. scabrum,160,C_Chong
+580,7,D01,MG46,"Middelberg Pass, Western Cape",-32.624783,19.136066,P. scabrum,160,C_Chong
+581,7,E01,MG47,"Middelberg Pass, Western Cape",-32.624812,19.136086,P. scabrum,160,C_Chong
+582,7,F01,MG52,"Middelberg Pass, Western Cape",-32.624943,19.136203,P. scabrum,160,C_Chong
+583,7,G01,MG54_A,"Middelberg Pass, Western Cape",-32.625014,19.136207,P. scabrum,160,C_Chong
+584,7,H01,MG54_B,"Middelberg Pass, Western Cape",-32.625611,19.135844,P. scabrum,160,C_Chong
+585,7,A02,MG56,"Middelberg Pass, lower pass, Western Cape",-32.630584,19.071573,P. scabrum,160,C_Chong
+586,7,B02,MG57,"Middelberg Pass, lower pass, Western Cape",-32.630576,19.071595,P. scabrum,160,C_Chong
+587,7,C02,MG58,"Middelberg Pass, lower pass, Western Cape",-32.63058,19.071881,P. scabrum,160,C_Chong
+588,7,D02,MG59,"Middelberg Pass, lower pass, Western Cape",-32.630705,19.072106,P. scabrum,160,C_Chong
+589,7,E02,MG60,"Middelberg Pass, lower pass, Western Cape",-32.63058,19.072138,P. scabrum,160,C_Chong
+590,7,F02,MB1,"Elandskloof Rd, Western Cape",-32.135252,18.961,P. scabrum,294,C_Chong
+591,7,G02,MB2,"Elandskloof Rd, Western Cape",-32.632528,19.120066,P. scabrum,294,C_Chong
+592,7,H02,MB3,"Elandskloof Rd, Western Cape",-32.632387,19.12,P. scabrum,294,C_Chong
+593,7,A03,MB4,"Elandskloof Rd, Western Cape",-32.632339,19.120116,P. scabrum,294,C_Chong
+594,7,B03,MB5,"Elandskloof Rd, Western Cape",-32.632389,19.119985,P. scabrum,294,C_Chong
+595,7,C03,MB6,"Elandskloof Rd, Western Cape",-32.632303,19.12006,P. scabrum,294,C_Chong
+596,7,D03,MB7,"Elandskloof Rd, Western Cape",-32.632414,19.119969,P. scabrum,294,C_Chong
+597,7,E03,MB8,"Elandskloof Rd, Western Cape",-32.632462,19.11994,P. scabrum,294,C_Chong
+598,7,F03,MB9,"Elandskloof Rd, Western Cape",-32.632413,19.11991,P. scabrum,294,C_Chong
+599,7,G03,MB10,"Elandskloof Rd, Western Cape",-32.632576,19.119895,P. scabrum,294,C_Chong
+600,7,H03,MB11,"Elandskloof Rd, Western Cape",-32.632395,19.119824,P. scabrum,294,C_Chong
+601,7,A04,MB12,"Elandskloof Rd, Western Cape",-32.632613,19.119904,P. scabrum,294,C_Chong
+602,7,B04,MB13,"Elandskloof Rd, Western Cape",-32.632709,19.119924,P. scabrum,294,C_Chong
+603,7,C04,MB14,"Elandskloof Rd, Western Cape",-32.632901,19.119935,P. scabrum,294,C_Chong
+604,7,D04,MB15,"Elandskloof Rd, Western Cape",-32.632814,19.119953,P. scabrum,294,C_Chong
+605,7,E04,MB16,"Elandskloof Rd, Western Cape",-32.633009,19.120036,P. scabrum,294,C_Chong
+606,7,F04,ORW10,Pakhuis Pass Old Rd West,-32.135016,18.961109,P. scabrum,1011,C_Chong
+607,7,G04,ORW11,Pakhuis Pass Old Rd West,-32.134985,18.961193,P. scabrum,1011,C_Chong
+608,7,H04,ORW12,Pakhuis Pass Old Rd West,-32.134979,18.961257,P. scabrum,1011,C_Chong
+609,7,A05,ORW14,Pakhuis Pass Old Rd West,-32.13493,18.961301,P. scabrum,1011,C_Chong
+610,7,B05,ORW15,Pakhuis Pass Old Rd West,-32.134911,18.961357,P. scabrum,1011,C_Chong
+611,7,C05,ORW16,Pakhuis Pass Old Rd West,-32.135302,18.96106,P. scabrum,1011,C_Chong
+612,7,D05,ORW17,Pakhuis Pass Old Rd West,-32.135251,18.961499,P. scabrum,1011,C_Chong
+613,7,E05,ORW18,Pakhuis Pass Old Rd West,-32.135269,18.961476,P. scabrum,1011,C_Chong
+614,7,F05,ORW2,Pakhuis Pass Old Rd West,-32.135056,18.961102,P. scabrum,1011,C_Chong
+615,7,G05,ORW21,Pakhuis Pass Old Rd West,-32.13539,18.961209,P. scabrum,1011,C_Chong
+616,7,H05,ORW24,Pakhuis Pass Old Rd West,-32.135528,18.961117,P. scabrum,1011,C_Chong
+617,7,A06,ORW25,Pakhuis Pass Old Rd West,-32.135548,18.961121,P. scabrum,1011,C_Chong
+618,7,B06,ORW5,Pakhuis Pass Old Rd West,-32.1351,18.961102,P. scabrum,1011,C_Chong
+619,7,C06,ORW6,Pakhuis Pass Old Rd West,-32.13501,18.961155,P. scabrum,1011,C_Chong
+620,7,D06,ORW7,Pakhuis Pass Old Rd West,-32.135009,18.961159,P. scabrum,1011,C_Chong
+621,7,E06,ORW8,Pakhuis Pass Old Rd West,-32.135008,18.961155,P. scabrum,1011,C_Chong
+622,7,F06,ORW9,Pakhuis Pass Old Rd West,-32.135007,18.961146,P. scabrum,1011,C_Chong
+623,7,G06,ORW1,Pakhuis Pass Old Rd West,-32.135307,18.96107,P. scabrum,1011,C_Chong
+624,7,H06,ORW13,Pakhuis Pass Old Rd West,-32.134971,18.961255,P. scabrum,1011,C_Chong
+625,7,A07,ORW19,Pakhuis Pass Old Rd West,-32.13509,18.961433,P. scabrum,1011,C_Chong
+626,7,B07,ORW20,Pakhuis Pass Old Rd West,-32.135326,18.961255,P. scabrum,1011,C_Chong
+627,7,C07,ORW22,Pakhuis Pass Old Rd West,-32.135084,18.961435,P. scabrum,1011,C_Chong
+628,7,D07,ORW23,Pakhuis Pass Old Rd West,-32.135398,18.961029,P. scabrum,1011,C_Chong
+629,7,E07,ORW3,Pakhuis Pass Old Rd West,-32.135163,18.961123,P. scabrum,1011,C_Chong
+630,7,F07,ORW4,Pakhuis Pass Old Rd West,-32.135094,18.961111,P. scabrum,1011,C_Chong
+631,7,G07,PK_A,Pakhuis Pass,-32.135477,19.00016,P. scabrum,1012,C_Chong
+632,7,H07,PK_B,Pakhuis Pass,-32.135474,19.000197,P. scabrum,1012,C_Chong
+633,7,A08,PK_C,Pakhuis Pass,-32.135485,19.000273,P. scabrum,1012,C_Chong
+634,7,B08,PK_D,Pakhuis Pass,-32.135477,19.00032,P. scabrum,1012,C_Chong
+635,7,C08,PK1,Pakhuis Pass,-32.135847,18.999316,P. scabrum,1012,C_Chong
+636,7,D08,PK11,Pakhuis Pass,-32.135721,18.999115,P. scabrum,1012,C_Chong
+637,7,E08,PK12,Pakhuis Pass,-32.135775,18.99908,P. scabrum,1012,C_Chong
+638,7,F08,PK13,Pakhuis Pass,-32.135745,18.9991,P. scabrum,1012,C_Chong
+639,7,G08,PK15,Pakhuis Pass,-32.135754,18.999119,P. scabrum,1012,C_Chong
+640,7,H08,PK17,Pakhuis Pass,-32.135822,18.998971,P. scabrum,1012,C_Chong
+641,7,A09,PK18,Pakhuis Pass,-32.135817,18.998896,P. scabrum,1012,C_Chong
+642,7,B09,PK19,Pakhuis Pass,-32.135715,18.999099,P. scabrum,1012,C_Chong
+643,7,C09,PK20,Pakhuis Pass,-32.135774,18.999076,P. scabrum,1012,C_Chong
+644,7,D09,PK21,Pakhuis Pass,-32.135716,18.999106,P. scabrum,1012,C_Chong
+645,7,E09,PK23,Pakhuis Pass,-32.135738,18.999111,P. scabrum,1012,C_Chong
+646,7,F09,PK24,Pakhuis Pass,-32.135955,18.9994,P. scabrum,1012,C_Chong
+647,7,G09,PK4,Pakhuis Pass,-32.135768,18.9992,P. scabrum,1012,C_Chong
+648,7,H09,PK5_A,Pakhuis Pass,-32.135928,18.999361,P. scabrum,1012,C_Chong
+649,7,A10,PK5_B,Pakhuis Pass,-32.13581,18.999349,P. scabrum,1012,C_Chong
+650,7,B10,PK6,Pakhuis Pass,-32.135777,18.999152,P. scabrum,1012,C_Chong
+651,7,C10,PK7,Pakhuis Pass,-32.135731,18.999159,P. scabrum,1012,C_Chong
+652,7,D10,PK8,Pakhuis Pass,-32.135768,18.999117,P. scabrum,1012,C_Chong
+653,7,E10,PK10,Pakhuis Pass,-32.135767,18.999216,P. scabrum,1012,C_Chong
+654,7,F10,PK14,Pakhuis Pass,-32.13584,18.999029,P. scabrum,1012,C_Chong
+655,7,G10,PK16,Pakhuis Pass,-32.135829,18.999004,P. scabrum,1012,C_Chong
+656,7,H10,PK2,Pakhuis Pass,-32.135844,18.999314,P. scabrum,1012,C_Chong
+657,7,A11,PK22,Pakhuis Pass,-32.135774,18.999075,P. scabrum,1012,C_Chong
+658,7,B11,PK3,Pakhuis Pass,-32.135945,18.99938,P. scabrum,1012,C_Chong
+659,7,C11,PK9,Pakhuis Pass,-32.135789,18.99921,P. scabrum,1012,C_Chong
+660,7,D11,PH10,Pakhuis Pass,-32.135952,18.997348,P. scabrum,1012,C_Chong
+661,7,E11,PH13,Pakhuis Pass,-32.135751,18.997545,P. scabrum,1012,C_Chong
+662,7,F11,PH14,Pakhuis Pass,-32.135765,18.997523,P. scabrum,1012,C_Chong
+663,7,G11,PH16,Pakhuis Pass,-32.135896,18.997209,P. scabrum,1012,C_Chong
+664,7,H11,PH2,Pakhuis Pass,-32.135265,18.99913,P. scabrum,1012,C_Chong
+665,7,A12,PH3,Pakhuis Pass,-32.135248,18.999123,P. scabrum,1012,C_Chong
+666,7,B12,PH5,Pakhuis Pass,-32.135244,18.999163,P. scabrum,1012,C_Chong
+667,7,C12,PH6,Pakhuis Pass,-32.135268,18.999164,P. scabrum,1012,C_Chong
+668,7,D12,PH1,Pakhuis Pass,-32.13528,18.999143,P. scabrum,1012,C_Chong
+669,7,E12,PH11,Pakhuis Pass,-32.135983,18.997258,P. scabrum,1012,C_Chong
+670,7,F12,PH12,Pakhuis Pass,-32.135948,18.997239,P. scabrum,1012,C_Chong
+671,7,G12,PH15,Pakhuis Pass,-32.135901,18.997219,P. scabrum,1012,C_Chong
+672,7,H12,PH17,Pakhuis Pass,-32.135843,18.997225,P. scabrum,1012,C_Chong
+673,8,A01,PH18,Pakhuis Pass,-32.135826,18.997195,P. scabrum,1012,C_Chong
+674,8,B01,PH19,Pakhuis Pass,-32.135827,18.997189,P. scabrum,1012,C_Chong
+675,8,C01,PH20,Pakhuis Pass,-32.135837,18.997174,P. scabrum,1012,C_Chong
+676,8,D01,PH21,Pakhuis Pass,-32.135846,18.99717,P. scabrum,1012,C_Chong
+677,8,E01,PH22,Pakhuis Pass,-32.135761,18.997107,P. scabrum,1012,C_Chong
+678,8,F01,PH23,Pakhuis Pass,-32.135766,18.997071,P. scabrum,1012,C_Chong
+679,8,G01,PH4,Pakhuis Pass,-32.135263,18.999156,P. scabrum,1012,C_Chong
+680,8,H01,PH7,Pakhuis Pass,-32.1358,18.997706,P. scabrum,1012,C_Chong
+681,8,A02,PH8,Pakhuis Pass,-32.135825,18.997685,P. scabrum,1012,C_Chong
+682,8,B02,PH9,Pakhuis Pass,-32.135844,18.997604,P. scabrum,1012,C_Chong
+683,8,C02,LG12,"Pakhuis Pass, Leipoldt's Grave",-32.135704,18.990905,P. scabrum,1012,C_Chong
+684,8,D02,LG13,"Pakhuis Pass, Leipoldt's Grave",-32.135649,18.990579,P. scabrum,1012,C_Chong
+685,8,E02,LG17,"Pakhuis Pass, Leipoldt's Grave",-32.135593,18.991217,P. scabrum,1012,C_Chong
+686,8,F02,LG28,"Pakhuis Pass, Leipoldt's Grave",-32.135713,18.991196,P. scabrum,1012,C_Chong
+687,8,G02,LG5,"Pakhuis Pass, Leipoldt's Grave",-32.135732,18.990691,P. scabrum,1012,C_Chong
+688,8,H02,LG15,"Pakhuis Pass, Leipoldt's Grave",-32.135618,18.991244,P. scabrum,1012,C_Chong
+689,8,A03,LG16,"Pakhuis Pass, Leipoldt's Grave",-32.135619,18.991241,P. scabrum,1012,C_Chong
+690,8,B03,LG18,"Pakhuis Pass, Leipoldt's Grave",-32.135594,18.991176,P. scabrum,1012,C_Chong
+691,8,C03,LG19,"Pakhuis Pass, Leipoldt's Grave",-32.135595,18.991178,P. scabrum,1012,C_Chong
+692,8,D03,LG20,"Pakhuis Pass, Leipoldt's Grave",-32.135628,18.991286,P. scabrum,1012,C_Chong
+693,8,E03,LG9,"Pakhuis Pass, Leipoldt's Grave",-32.135747,18.990636,P. scabrum,1012,C_Chong
+694,8,F03,160A_8,"Middleberg Pass, lower Pass",-32.61885,19.12064,P. scabrum,160_A,C_Chong
+695,8,G03,160A_9,"Middleberg Pass, lower Pass",-32.61885,19.12064,P. scabrum,160_A,C_Chong
+696,8,H03,160A_10,"Middleberg Pass, lower Pass",-32.61885,19.12064,P. scabrum,160_A,C_Chong
+697,8,A04,carn_144_1,Cederberg NR: rd to Algeria from Clanwilliam,-32.25988,18.9675,P. carnosum,144,C_Chong
+698,8,B04,carn_144_2,Cederberg NR: rd to Algeria from Clanwilliam,-32.26032,18.96779,P. carnosum,144,C_Chong
+699,8,C04,carn_144_3,Cederberg NR: rd to Algeria from Clanwilliam,-32.26045,18.96789,P. carnosum,144,C_Chong
+700,8,D04,carn_144_4,Cederberg NR: rd to Algeria from Clanwilliam,-32.25988,18.96745,P. carnosum,144,C_Chong
+701,8,E04,carn_144_5,Cederberg NR: rd to Algeria from Clanwilliam,-32.2599,18.96747,P. carnosum,144,C_Chong
+702,8,F04,carn_144_6,Cederberg NR: rd to Algeria from Clanwilliam,-32.25993,18.96752,P. carnosum,144,C_Chong
+703,8,G04,carn_144_7,Cederberg NR: rd to Algeria from Clanwilliam,-32.25984,18.96751,P. carnosum,144,C_Chong
+704,8,H04,carn_144_8,Cederberg NR: rd to Algeria from Clanwilliam,-32.25986,18.96747,P. carnosum,144,C_Chong
+705,8,A05,carn_293_3,Elandskloof,-32.43021,18.95307,P. carnosum,293,C_Chong
+706,8,B05,carn_288_2,Calvinia: 10km on Loriesfontein Rd,-31.459772,19.661594,P. carnosum,288,C_Schlichting
+707,8,C05,carn_29_2,Springbok Mtn,-29.659283,17.881783,P. carnosum,29,C_Schlichting
+708,8,D05,carn_2,Piketberg: Versveld Pass middle,-32.85463,18.74048,P. carnosum,299,C_Schlichting
+709,8,E05,carnunk_142,Naries,-29.69088,17.6651,P. carnosum _unkn,142,C_Chong
+710,8,F05,carnpulch_142,Naries,-29.69089,17.66511,P. carnosum_pulchellum_unkn,142,C_Chong
+711,8,G05,carnunk_142_2,Naries,-29.68052,17.67994,P. carnosum_unkn,142,C_Chong
+712,8,H05,carn_142_1,Naries,-29.69819,17.66842,P. carnosum,142,C_Chong
+713,8,A06,carn_142_2,Naries,-29.69075,17.665052,P. carnosum,142,C_Chong
+714,8,B06,carn_142_3,Naries,-29.690727,17.665068,P. carnosum,142,C_Chong
+715,8,C06,carn_142_4,Naries,-29.690729,17.665014,P. carnosum,142,C_Chong
+716,8,D06,carn_142_5,Naries,-29.690727,17.664814,P. carnosum,142,C_Chong
+717,8,E06,carn_142_6,Naries,-29.691408,17.664564,P. carnosum,142,C_Chong
+718,8,F06,carn_142_7,Naries,-29.69126,17.664299,P. carnosum,142,C_Chong
+719,8,G06,carn_142_8,Naries,-29.691211,17.664217,P. carnosum,142,C_Chong
+720,8,H06,carn_142_9,Naries,-29.691413,17.664639,P. carnosum,142,C_Chong
+721,8,A07,carn_142_10,Naries,-29.693381,17.663048,P. carnosum,142,C_Chong
+722,8,B07,myrh_142_1,Naries,-29.69083,17.66478,P. carnosum_myrrh,142,C_Chong
+723,8,C07,myrh_142_2,Naries,-29.69083,17.66481,P. carnosum_myrrh,142,C_Chong
+724,8,D07,ark_1,"Arkoep, N Cape",-30.136826,17.932517,P. carnosum,arkoep1,C_Chong
+725,8,E07,ark_2,"Arkoep, N Cape",-30.136845,17.932487,P. carnosum,arkoep1,C_Chong
+726,8,F07,ark_3,"Arkoep, N Cape",-30.136842,17.932484,P. carnosum,arkoep1,C_Chong
+727,8,G07,ark_4,"Arkoep, N Cape",-30.136836,17.932473,P. carnosum,arkoep1,C_Chong
+728,8,H07,ark_5,"Arkoep, N Cape",-30.136834,17.932471,P. carnosum,arkoep1,C_Chong
+729,8,A08,ark_6,"Arkoep, N Cape",-30.13697,17.932441,P. carnosum,arkoep1,C_Chong
+730,8,B08,ark_7,"Arkoep, N Cape",-30.136974,17.932433,P. carnosum,arkoep1,C_Chong
+731,8,C08,ark_8,"Arkoep, N Cape",-30.13703,17.932386,P. carnosum,arkoep1,C_Chong
+732,8,D08,ark_9,"Arkoep, N Cape",-30.137252,17.932386,P. carnosum,arkoep1,C_Chong
+733,8,E08,ark_10,"Arkoep, N Cape",-30.13724,17.932378,P. carnosum,arkoep1,C_Chong
+734,8,F08,ark_11,"Arkoep, N Cape",-30.137236,17.932375,P. carnosum,arkoep1,C_Chong
+735,8,G08,ark_12,"Arkoep, N Cape",-30.137193,17.932472,P. carnosum,arkoep1,C_Chong
+736,8,H08,ark_13,"Arkoep, N Cape",-30.137185,17.932486,P. carnosum,arkoep1,C_Chong
+737,8,A09,ark_14,"Arkoep, N Cape",-30.137184,17.932503,P. carnosum,arkoep1,C_Chong
+738,8,B09,ark_15,"Arkoep, N Cape",-30.137162,17.932501,P. carnosum,arkoep1,C_Chong
+739,8,C09,ark_16,"Arkoep, N Cape",-30.137157,17.932514,P. carnosum,arkoep1,C_Chong
+740,8,D09,ark_17,"Arkoep, N Cape",-30.137142,17.932551,P. carnosum,arkoep1,C_Chong
+741,8,E09,ark_18,"Arkoep, N Cape",-30.137028,17.932635,P. carnosum,arkoep1,C_Chong
+742,8,F09,ark_19,"Arkoep, N Cape",-30.137028,17.932673,P. carnosum,arkoep1,C_Chong
+743,8,G09,ark_20,"Arkoep, N Cape",-30.136998,17.932755,P. carnosum,arkoep1,C_Chong
+744,8,H09,ark_21,"Arkoep, N Cape",-30.136976,17.932858,P. carnosum,arkoep1,C_Chong
+745,8,A10,ark_22,"Arkoep, N Cape",-30.136965,17.932847,P. carnosum,arkoep1,C_Chong
+746,8,B10,ark_23,"Arkoep, N Cape",-30.136883,17.932846,P. carnosum,arkoep1,C_Chong
+747,8,C10,ark_24,"Arkoep, N Cape",-30.136882,17.932823,P. carnosum,arkoep1,C_Chong
+748,8,D10,ark_25,"Arkoep, N Cape",-30.136861,17.932803,P. carnosum,arkoep1,C_Chong
+749,8,E10,ark_26,"Arkoep, N Cape",-30.13686,17.932794,P. carnosum,arkoep1,C_Chong
+750,8,F10,ark_27,"Arkoep, N Cape",-30.136914,17.932816,P. carnosum,arkoep1,C_Chong
+751,8,G10,ark_28,"Arkoep, N Cape",-30.136874,17.932917,P. carnosum,arkoep1,C_Chong
+752,8,H10,ark_29,"Arkoep, N Cape",-30.136874,17.93292,P. carnosum,arkoep1,C_Chong
+753,8,A11,ark_30,"Arkoep, N Cape",-30.136681,17.933036,P. carnosum,arkoep1,C_Chong
+754,8,B11,ark_31,"Arkoep, N Cape",-30.136928,17.933035,P. carnosum,arkoep1,C_Chong
+755,8,C11,ark_32,"Arkoep, N Cape",-30.136938,17.933015,P. carnosum,arkoep1,C_Chong
+756,8,D11,ark_33,"Arkoep, N Cape",-30.136994,17.932992,P. carnosum,arkoep1,C_Chong
+757,8,E11,ark_34,"Arkoep, N Cape",-30.136998,17.93302,P. carnosum,arkoep1,C_Chong
+758,8,F11,ark_35,"Arkoep, N Cape",-30.137345,17.932782,P. carnosum,arkoep1,C_Chong
+759,8,G11,ark_36,"Arkoep, N Cape",-30.137378,17.932808,P. carnosum,arkoep1,C_Chong
+760,8,H11,ark_37,"Arkoep, N Cape",-30.137359,17.932931,P. carnosum,arkoep1,C_Chong
+761,8,A12,ark_38,"Arkoep, N Cape",-30.137358,17.93295,P. carnosum,arkoep1,C_Chong
+762,8,B12,ark_39,"Arkoep, N Cape",-30.137346,17.9329,P. carnosum,arkoep1,C_Chong
+763,8,C12,ark_40,"Arkoep, N Cape",-30.136163,17.93123,P. carnosum,arkoep1,C_Chong
+764,8,D12,carn_20_1,Rd to Citrusdal,-32.430213,18.953066,P. carnosum,,C_Chong
+765,8,E12,carn_20_2,Rd to Citrusdal,-32.430213,18.953066,P. carnosum,,C_Chong
+766,8,F12,carn_21_4,Rd to Citrusdal,-32.430266,18.953017,P. carnosum,,C_Chong
+767,8,G12,289_1,Nieuwoudtville: van Rhyns Pass,-31.37678,19.01753,P. scabrum,289,C_Chong
+768,8,H12,289_2,Nieuwoudtville: van Rhyns Pass,-31.37678,19.01753,P. scabrum,289,C_Chong

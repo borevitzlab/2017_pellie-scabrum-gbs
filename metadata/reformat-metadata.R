@@ -44,13 +44,13 @@ write.csv(pellie, "pellie-metadata.csv", row.names=F)
 
 
 ### new data from caroline
-cc = read.csv("original/scabrum.GPS.csv", skip=2, stringsAsFactors=F)
-samp = read.csv("pellie-metadata.csv", stringsAsFactors=F)
-# Not these, it's invalid for the GH plates
-# samp = read.csv("pellie-metadata.csv", stringsAsFactors=F) %>%
-#               extract(plate.code, into=c("plate.num"), regex="(\\d+)", remove=F) %>%
-#               mutate(plate.num = as.numeric(plate.num))
-# samp2 = left_join(samp, cc, by=c("plate.num"="Plate", "well"="Well"))
-samp2 = left_join(samp, cc, by=c("accession"="DNA_CODE"))
+# Not these, it breaks where there are metadata mixups
+#cc = read.csv("original/scabrum.GPS.csv", skip=2, stringsAsFactors=F)
+#samp = read.csv("pellie-metadata.csv", stringsAsFactors=F)
+#samp2 = left_join(samp, cc, by=c("accession"="DNA_CODE"))
+
+cc = read.csv("original/scabrum.GPS.csv", skip=2, stringsAsFactors=F) %>%
+    mutate(Plate = paste0("SAf", Plate))
+samp2 = left_join(samp, cc, by=c("plate.code"="Plate", "well"="Well"))
 
 write.csv(samp2, "pellie-metadata-with-cc.csv", row.names=F)
